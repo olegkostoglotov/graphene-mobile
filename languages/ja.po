@@ -1,0 +1,1209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graphene Mobile theme for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-17 13:04+0800\n"
+"PO-Revision-Date: 2013-01-17 13:12+0800\n"
+"Last-Translator: Syahir Hakim <syahir@khairul-syahir.com>\n"
+"Language-Team: Extend Wings (Daisuke Takahashi) <galaxy.s.two.wimax@gmail."
+"com>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: D:\\MyVault\\MyProjects\\Websites\\theme-graphene-mobile"
+"\\site\\wp-content\\themes\\graphene-mobile\\\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:22 search.php:13
+msgid "Error 404 - Not Found"
+msgstr "エラー 404 - 見つかりませんでした"
+
+#: 404.php:30 search.php:26
+msgid ""
+"Sorry, I've looked everywhere but I can't find the content you're looking "
+"for."
+msgstr ""
+"申し訳ありません、あらゆる所を探しましたがあなたが探しているコンテンツを見つ"
+"けることができませんでした。"
+
+#: 404.php:31 search.php:27
+msgid ""
+"If you follow the link from another website, I may have removed or renamed "
+"the page some time ago."
+msgstr ""
+"別のウェブサイトからリンクをたどった場合、少し前にページは削除されたか名前を"
+"変更された可能性があります。"
+
+#: 404.php:32
+msgid ""
+"I am now performing an automated search for you based on the URL you "
+"entered. Please wait a moment ..."
+msgstr ""
+"現在、入力されたURLに基づいて、自動検索を実行しています。しばらくお待ちくださ"
+"い..."
+
+#: 404.php:43
+msgid "Automated search"
+msgstr "自動検索"
+
+#: 404.php:53
+#, php-format
+msgid "Searching for the terms <strong>%s</strong> ..."
+msgstr "<strong>%s</strong> を検索中..."
+
+#: archive.php:6
+msgid "Archive for:"
+msgstr "アーカイブ:"
+
+#: comments.php:12 comments.php:55 home.php:48 home.php:80 loop-archive.php:27
+msgid "No comment yet"
+msgstr "まだコメントはありません"
+
+#: comments.php:13 comments.php:41 home.php:49
+msgid "No ping yet"
+msgstr "まだpingはありません"
+
+#: comments.php:36
+msgid "Leave a reply"
+msgstr "返信を残す"
+
+#. translators: %d will be replaced by the current year, %s will be replaced by the site title, &copy; will be replaced by the copyright symbol
+#: footer.php:31 admin/options-colours.php:88 admin/options-general.php:201
+#, php-format
+msgid "Copyright &copy; %d %s"
+msgstr "Copyright &copy; %d %s"
+
+#. #-#-#-#-#  0extracted.pot (PACKAGE VERSION)  #-#-#-#-#
+#. translators: %s will be replaced by the link to WordPress.org and Graphene Mobile page
+#: footer.php:45 admin/options-colours.php:93
+#, php-format
+msgid "Powered by %s"
+msgstr "Powered by %s"
+
+#: footer.php:47
+msgid "Return to top"
+msgstr "トップに戻る"
+
+#: footer.php:60
+msgid "Switch to desktop version"
+msgstr "デスクトップ版に切り替える"
+
+#. #-#-#-#-#  0extracted.pot (PACKAGE VERSION)  #-#-#-#-#
+#. translators: %1$s will be replaced by the post date, %2$s will be replaced by the post author's name
+#: home.php:23 home.php:78 loop-single.php:16 loop.php:16
+#: admin/options-colours.php:140 admin/options-colours.php:252
+#: admin/options-colours.php:255 includes/theme-functions.php:87
+#, php-format
+msgid "%1$s by %2$s"
+msgstr "%1$s by %2$s"
+
+#: home.php:52
+msgid "Read more"
+msgstr "続きを読む"
+
+#: home.php:67
+msgid "Recent posts"
+msgstr "最近の投稿"
+
+#: loop-archive.php:34
+#, php-format
+msgid "View %s"
+msgstr "View %s"
+
+#: loop-children.php:23
+msgid "In this section"
+msgstr "このセクション内"
+
+#: loop-single.php:31 loop.php:31
+msgid "Categories: "
+msgstr "カテゴリー: "
+
+#: loop-single.php:82 loop.php:82
+msgid "Tags: "
+msgstr "タグ: "
+
+#: not-found.php:11 not-found.php:47
+msgid "Not Found"
+msgstr "見つかりませんでした"
+
+#: not-found.php:26 not-found.php:54
+msgid ""
+"Sorry, I've searched everywhere but the content you're looking for could not "
+"be found."
+msgstr ""
+"申し訳ありません、あらゆる所を検索しましたがあなたが探しているコンテンツを見"
+"つけることができませんでした。"
+
+#: not-found.php:27 not-found.php:55
+msgid "Try a search?"
+msgstr "検索しますか？"
+
+#: search.php:49
+msgid "Search results:"
+msgstr "検索結果:"
+
+#: searchform.php:7
+msgid "Search"
+msgstr "検索"
+
+#: admin/ajax-handler.php:9
+msgid ""
+"Sorry, but you don't have the necessary permission to modify theme options."
+msgstr ""
+
+#: admin/ajax-handler.php:20
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-advanced.php:12
+msgid "Custom <head> Tags"
+msgstr ""
+
+#: admin/options-advanced.php:17
+msgid "Code to insert into the <head> element"
+msgstr ""
+
+#: admin/options-advanced.php:22 admin/options-advanced.php:58
+#: admin/options-colours.php:65 admin/options-colours.php:121
+#: admin/options-colours.php:230 admin/options-colours.php:293
+#: admin/options-colours.php:360 admin/options-display.php:30
+#: admin/options-display.php:59 admin/options-display.php:105
+#: admin/options-display.php:136 admin/options-display.php:222
+#: admin/options-display.php:271 admin/options-display.php:293
+#: admin/options-general.php:29 admin/options-general.php:96
+#: admin/options-general.php:124 admin/options-general.php:157
+#: admin/options-general.php:183 admin/options-general.php:216
+#: admin/options-general.php:237
+msgid "Save All Options"
+msgstr ""
+
+#: admin/options-advanced.php:31
+msgid "Action Hooks Widget Areas"
+msgstr ""
+
+#: admin/options-advanced.php:34
+msgid ""
+"This option enables you to place virtually any content to every nook and "
+"cranny in the theme, by attaching widget areas to the theme's action hooks."
+msgstr ""
+
+#: admin/options-advanced.php:35
+msgid ""
+"All action hooks available in the Graphene Mobile Theme are listed below. "
+"Click on the filename to display all the action hooks available in that "
+"file. Then, tick the checkbox next to an action hook to make a widget area "
+"available for that action hook."
+msgstr ""
+
+#: admin/options-advanced.php:44
+msgid "Click to show/hide the action hooks for this file"
+msgstr ""
+
+#: admin/options-advanced.php:57
+msgid "Rescan action hooks"
+msgstr ""
+
+#: admin/options-colours.php:6
+msgid ""
+"<strong>Note:</strong> To reset any of the colours to their default value, "
+"just click on \"Clear\" beside the colour field and save the settings. The "
+"theme will automatically revert the value to the default colour."
+msgstr ""
+"<strong>注意:</strong> デフォルトの値にいずれかの色をリセットするには、色"
+"フィールドの横の\"クリア\"をクリックして設定を保存してください。テーマは自動"
+"的に値をデフォルトの色に戻します。"
+
+#: admin/options-colours.php:11
+msgid "Header and navigation"
+msgstr "ヘッダーとナビゲーション"
+
+#: admin/options-colours.php:17 admin/options-colours.php:78
+#: admin/options-colours.php:243 admin/options-colours.php:306
+#: admin/options-display.php:150
+msgid "Preview"
+msgstr "プレビュー"
+
+#: admin/options-colours.php:20
+msgid "Site title"
+msgstr "サイトタイトル"
+
+#: admin/options-colours.php:20
+msgid "Site description"
+msgstr "サイトの説明"
+
+#: admin/options-colours.php:24
+msgid "Current menu item"
+msgstr "現在のメニュー項目"
+
+#: admin/options-colours.php:25 admin/options-colours.php:26
+#: admin/options-colours.php:84 admin/options-colours.php:85
+msgid "Menu item"
+msgstr "メニュー項目"
+
+#: admin/options-colours.php:40
+msgid "Header background (top)"
+msgstr "ヘッダーの背景（上）"
+
+#: admin/options-colours.php:41
+msgid "Header background (bottom)"
+msgstr "ヘッダーの背景（下）"
+
+#: admin/options-colours.php:42
+msgid "Site title text"
+msgstr "サイトタイトルのテキスト"
+
+#: admin/options-colours.php:43
+msgid "Site description text"
+msgstr "サイトの説明のテキスト"
+
+#: admin/options-colours.php:44
+msgid "Navigation menu background"
+msgstr "ナビゲーションメニューの背景"
+
+#: admin/options-colours.php:45
+msgid "Current menu item background"
+msgstr "現在のメニュー項目の背景"
+
+#: admin/options-colours.php:46
+msgid "Menu item text"
+msgstr "メニュー項目のテキスト"
+
+#: admin/options-colours.php:47
+msgid "Current menu item text"
+msgstr "現在のメニュー項目のテキスト"
+
+#: admin/options-colours.php:57 admin/options-colours.php:113
+#: admin/options-colours.php:175 admin/options-colours.php:223
+#: admin/options-colours.php:285 admin/options-colours.php:352
+#: admin/options-display.php:216
+msgid "Clear"
+msgstr "クリア"
+
+#: admin/options-colours.php:72
+msgid "Footer"
+msgstr "フッター"
+
+#: admin/options-colours.php:100
+msgid "Copyright background"
+msgstr "著作権の背景"
+
+#: admin/options-colours.php:101
+msgid "Copyright text"
+msgstr "著作権表示"
+
+#: admin/options-colours.php:102
+msgid "Footer menu text"
+msgstr "フッターメニュー項目"
+
+#: admin/options-colours.php:103
+msgid "Credit background"
+msgstr "クレジットの背景"
+
+#: admin/options-colours.php:104
+msgid "Credit text"
+msgstr "クレジットのテキスト"
+
+#: admin/options-colours.php:105
+msgid "Credit link text"
+msgstr "クレジットのリンクテキスト"
+
+#: admin/options-colours.php:128
+msgid "Content section"
+msgstr "投稿セクション"
+
+#: admin/options-colours.php:134
+msgid "Preview (top half)"
+msgstr "プレビュー（上半分）"
+
+#: admin/options-colours.php:139
+msgid "Layout Test"
+msgstr "レイアウトのテスト"
+
+#: admin/options-colours.php:140 admin/options-colours.php:252
+#: admin/options-colours.php:255
+msgid "the author"
+msgstr "作成者"
+
+#: admin/options-colours.php:144
+msgid "Categories:"
+msgstr "カテゴリー:"
+
+#: admin/options-colours.php:144
+msgid "Category 1"
+msgstr "カテゴリー 1"
+
+#: admin/options-colours.php:144
+msgid "Category 2"
+msgstr "カテゴリー 2"
+
+#: admin/options-colours.php:144
+msgid "Category 3"
+msgstr "カテゴリー 3"
+
+#: admin/options-colours.php:158
+msgid "Title background"
+msgstr "タイトルの背景"
+
+#: admin/options-colours.php:159 admin/options-colours.php:271
+msgid "Title text"
+msgstr "タイトルのテキスト"
+
+#: admin/options-colours.php:160 admin/options-colours.php:340
+msgid "Meta text"
+msgstr "メタテキスト"
+
+#: admin/options-colours.php:161
+msgid "Categories background"
+msgstr "カテゴリーの背景"
+
+#: admin/options-colours.php:162
+msgid "Categories text"
+msgstr "カテゴリーのテキスト"
+
+#: admin/options-colours.php:163
+msgid "Category items background"
+msgstr "カテゴリー項目の背景"
+
+#: admin/options-colours.php:164
+msgid "Category items text"
+msgstr "カテゴリー項目のテキスト"
+
+#: admin/options-colours.php:165 admin/options-colours.php:272
+#: admin/options-colours.php:341
+msgid "Content background"
+msgstr "投稿の背景"
+
+#: admin/options-colours.php:166 admin/options-colours.php:273
+#: admin/options-colours.php:342
+msgid "Content text"
+msgstr "本文"
+
+#: admin/options-colours.php:167 admin/options-colours.php:274
+#: admin/options-colours.php:343
+msgid "Content link"
+msgstr "投稿のリンク"
+
+#: admin/options-colours.php:182
+msgid "Preview (bottom half)"
+msgstr "プレビュー（下半分）"
+
+#: admin/options-colours.php:187
+msgid "Pages:"
+msgstr "ページ:"
+
+#: admin/options-colours.php:192
+msgid "Tags:"
+msgstr "タグ:"
+
+#: admin/options-colours.php:192
+msgid "Tag 1"
+msgstr "タグ 1"
+
+#: admin/options-colours.php:192
+msgid "Tag 2"
+msgstr "タグ 2"
+
+#: admin/options-colours.php:192
+msgid "Tag 3"
+msgstr "タグ 3"
+
+#: admin/options-colours.php:196 includes/theme-loops.php:30
+msgid "Previous Post"
+msgstr "前の投稿"
+
+#: admin/options-colours.php:196 admin/options-colours.php:197
+msgid "Post title"
+msgstr "投稿タイトル"
+
+#: admin/options-colours.php:197 includes/theme-loops.php:36
+msgid "Next Post"
+msgstr "次の投稿"
+
+#: admin/options-colours.php:205
+msgid "Pagination background"
+msgstr "ページ番号の背景"
+
+#: admin/options-colours.php:206
+msgid "Pagination text"
+msgstr "ページ番号のテキスト"
+
+#: admin/options-colours.php:207
+msgid "Pagination link"
+msgstr "ページ番号のリンク"
+
+#: admin/options-colours.php:208
+msgid "Tags background"
+msgstr "タグの背景"
+
+#: admin/options-colours.php:209
+msgid "Tags text"
+msgstr "タグのテキスト"
+
+#: admin/options-colours.php:210
+msgid "Tag items background"
+msgstr "タグ項目の背景"
+
+#: admin/options-colours.php:211
+msgid "Tag items text"
+msgstr "タグ項目のテキスト"
+
+#: admin/options-colours.php:212
+msgid "Posts navigation background"
+msgstr "投稿ナビゲーションの背景"
+
+#: admin/options-colours.php:213
+msgid "Posts navigation background (next)"
+msgstr "投稿ナビゲーションの背景（次へ）"
+
+#: admin/options-colours.php:214
+msgid "Posts navigation text"
+msgstr "投稿ナビゲーションのテキスト"
+
+#: admin/options-colours.php:215
+msgid "Posts navigation link"
+msgstr "投稿ナビゲーションのリンク"
+
+#: admin/options-colours.php:237
+msgid "Other sections"
+msgstr "他のセクション"
+
+#: admin/options-colours.php:247
+msgid "Section title"
+msgstr "セクションのタイトル"
+
+#: admin/options-colours.php:252 admin/options-colours.php:255
+msgid "Leave a comment"
+msgstr "コメントを残す"
+
+#: admin/options-colours.php:262 includes/theme-loops.php:57
+msgid "Previous Page"
+msgstr "前のページ"
+
+#: admin/options-colours.php:263 includes/theme-loops.php:58
+msgid "Next Page"
+msgstr "次のページ"
+
+#: admin/options-colours.php:269
+msgid "Title background (top)"
+msgstr "タイトルの背景（上）"
+
+#: admin/options-colours.php:270
+msgid "Title background (bottom)"
+msgstr "タイトルの背景（下）"
+
+#: admin/options-colours.php:275 admin/options-colours.php:344
+msgid "Content list border"
+msgstr "投稿一覧の枠線"
+
+#: admin/options-colours.php:276
+msgid "Navigation background"
+msgstr "ナビゲーションの背景"
+
+#: admin/options-colours.php:277
+msgid "Navigation text"
+msgstr "ナビゲーションのテキスト"
+
+#: admin/options-colours.php:300
+msgid "Comments section"
+msgstr "コメントセクション"
+
+#: admin/options-colours.php:334
+msgid "Heading background (top)"
+msgstr "見出しの背景（上）"
+
+#: admin/options-colours.php:335
+msgid "Heading background (bottom)"
+msgstr "見出しの背景（下）"
+
+#: admin/options-colours.php:336
+msgid "Heading divider"
+msgstr "見出しの仕切り"
+
+#: admin/options-colours.php:337
+msgid "Heading text"
+msgstr "見出しのテキスト"
+
+#: admin/options-colours.php:338
+msgid "Reply background"
+msgstr "返信の背景"
+
+#: admin/options-colours.php:339
+msgid "Reply text"
+msgstr "返信のテキスト"
+
+#: admin/options-display.php:10
+msgid "Header Options"
+msgstr "ヘッダー設定"
+
+#: admin/options-display.php:13
+msgid "Alternate site title and description"
+msgstr "代替のサイトタイトルと説明"
+
+#: admin/options-display.php:14
+msgid ""
+"Short site title and description work best for display on a mobile device. "
+"If your site has a long site title and description (anything that spans more "
+"than a single line when displayed on a mobile device), you can use this "
+"option to specify an alternate site title and description for display in the "
+"header."
+msgstr ""
+"短いサイトタイトルと説明は、モバイル端末上で表示するために最適です。あなたの"
+"サイトが長い（モバイル端末上で表示されたときに複数の行にまたがるような）サイ"
+"トタイトルと説明を持っている場合、この設定を使用してヘッダーに表示するための"
+"代替のサイトタイトルと説明を指定することができます。"
+
+#: admin/options-display.php:17
+msgid "Alternate site title"
+msgstr "代替のサイトタイトル"
+
+#: admin/options-display.php:23
+msgid "Alternate site description"
+msgstr "代替のサイトの説明"
+
+#: admin/options-display.php:39
+msgid "Navigation Menu Options"
+msgstr ""
+
+#: admin/options-display.php:42
+msgid "<select> element for menu"
+msgstr ""
+
+#: admin/options-display.php:43
+msgid ""
+"Using <select> element for menu allows you to have any number of menu items "
+"without crowding the layout."
+msgstr ""
+
+#: admin/options-display.php:46
+msgid "Enable for Header Menu"
+msgstr ""
+
+#: admin/options-display.php:52
+msgid "Enable for Footer Menu"
+msgstr ""
+
+#: admin/options-display.php:68
+msgid "Posts Display Options"
+msgstr "投稿表示設定"
+
+#: admin/options-display.php:74
+msgid "Hide post author and date"
+msgstr "投稿者と日付を非表示にする"
+
+#: admin/options-display.php:80
+msgid "Hide post categories"
+msgstr "カテゴリーを非表示にする"
+
+#: admin/options-display.php:86
+msgid "Hide post tags"
+msgstr "投稿タグを非表示にする"
+
+#: admin/options-display.php:92
+msgid "Hide post comment count"
+msgstr "コメント数を非表示にする"
+
+#: admin/options-display.php:93
+msgid ""
+"Only affects posts listing (such as search and archive pages) and not single "
+"post view."
+msgstr ""
+"単一投稿ビュー以外と（検索やアーカイブページなどの）投稿一覧にのみ影響しま"
+"す。"
+
+#: admin/options-display.php:99
+msgid "Hide automatic image at the top of posts"
+msgstr "投稿の先頭の自動画像を非表示にする"
+
+#: admin/options-display.php:114
+msgid "Excerpts Display Options"
+msgstr "抜粋表示設定"
+
+#: admin/options-display.php:120
+msgid "Show full content in archive pages"
+msgstr "アーカイブページで全文を表示する"
+
+#: admin/options-display.php:124
+msgid ""
+"Note: Archive pages include the archive for category, tags, time, and search "
+"results pages. Enabling this option will cause the full content of posts and "
+"pages listed in those archives to displayed instead of the excerpt, and "
+"truncated by the Read More tag if used."
+msgstr ""
+"注意: アーカイブページにはカテゴリーのアーカイブ、タグ、時間、ページと検索結"
+"果ページが含まれています。この設定を有効にすると投稿の全文とこれらのアーカイ"
+"ブにあるページを抜粋、\"続きを読む\"タグによって切り捨てられた部分の代わりに"
+"表示します。"
+
+#: admin/options-display.php:128
+msgid "Retain these HTML tags in excerpts"
+msgstr "抜粋でこれらのHTMLタグを残す"
+
+#: admin/options-display.php:131
+msgid ""
+"Enter the HTML tags you'd like to retain in excerpts. For example, enter "
+"<code>&lt;p&gt;&lt;ul&gt;&lt;li&gt;</code> to retain <code>&lt;p&gt;</code>, "
+"<code>&lt;ul&gt;</code>, and <code>&lt;li&gt;</code> HTML tags."
+msgstr ""
+"抜粋で残したいHTMLタグを入力してください。例えば、<code>&lt;p&gt;</code>と"
+"<code>&lt;ul&gt;</code>、<code>&lt;li&gt;</code>を残すには<code>&lt;p&gt;&lt;"
+"ul&gt;&lt;li&gt;</code>を入力します。"
+
+#: admin/options-display.php:145
+msgid "Custom Background Options"
+msgstr "カスタム背景設定"
+
+#: admin/options-display.php:155
+msgid "Background image URL"
+msgstr "背景画像URL"
+
+#: admin/options-display.php:160
+msgid ""
+"Hint: You can use the <a href=\"media-new.php\">Media Library</a> to upload "
+"an image to be used here."
+msgstr ""
+"ヒント: ここで使用する画像をアップロードするために<a href=\"media-new.php\">"
+"メディアライブラリ</a>を使用できます。"
+
+#: admin/options-display.php:161
+msgid ""
+"If you do not wish the background to be repeated, use an image at least as "
+"wide as 640 pixels (Apple's retina display)"
+msgstr ""
+"背景の繰り返しを使用しない場合、少なくとも640ピクセル（Aple retina display）"
+"の画像を使用してください"
+
+#: admin/options-display.php:167
+msgid "Position"
+msgstr "位置"
+
+#: admin/options-display.php:171
+msgid "Left"
+msgstr "左"
+
+#: admin/options-display.php:174
+msgid "Center"
+msgstr "中央"
+
+#: admin/options-display.php:177
+msgid "Right"
+msgstr "右"
+
+#: admin/options-display.php:182
+msgid "Repeat"
+msgstr "繰り返す"
+
+#: admin/options-display.php:186
+msgid "No Repeat"
+msgstr "繰り返さない"
+
+#: admin/options-display.php:189
+msgid "Tile"
+msgstr "タイリング"
+
+#: admin/options-display.php:192
+msgid "Tile Horizontally"
+msgstr "上下に並べて表示"
+
+#: admin/options-display.php:195
+msgid "Tile Vertically"
+msgstr "左右に並べて表示"
+
+#: admin/options-display.php:201
+msgid "Attachment"
+msgstr "添付"
+
+#: admin/options-display.php:205
+msgid "Scroll"
+msgstr "スクロール"
+
+#: admin/options-display.php:208
+msgid "Fixed"
+msgstr "固定"
+
+#: admin/options-display.php:213
+msgid "Colour"
+msgstr "カラー"
+
+#: admin/options-display.php:231
+msgid "Miscellaneous Display Options"
+msgstr "その他の表示設定"
+
+#: admin/options-display.php:234
+msgid "Site title options"
+msgstr "サイトタイトル設定"
+
+#: admin/options-display.php:235
+msgid ""
+"This option allows you to customise how your site title is displayed in the "
+"browser bar, tabs, and bookmarks."
+msgstr ""
+"この設定はサイトタイトルがブラウザバーやタブ、ブックマークでどのように表示さ"
+"れるかカスタマイズできます。"
+
+#: admin/options-display.php:236
+msgid ""
+"Use these tags to customise your own site title structure: <code>#site-name</"
+"code>, <code>#site-desc</code>, <code>#post-title</code>"
+msgstr ""
+"サイトタイトルの構造をカスタマイズするために、これらのタグを使用してくださ"
+"い: <code>#site-name</code>, <code>#site-desc</code>, <code>#post-title</"
+"code>"
+
+#: admin/options-display.php:240
+msgid "Custom front page site title"
+msgstr "カスタムフロントページのサイトタイトル"
+
+#: admin/options-display.php:244
+#, php-format
+msgid "Defaults to %1$s. The %2$s tag cannot be used here."
+msgstr "デフォルトは %1$s です。 %2$s はここでは使用できません。"
+
+#: admin/options-display.php:249
+msgid "Custom content pages site title"
+msgstr "カスタム投稿ページのサイトタイトル"
+
+#: admin/options-display.php:253
+#, php-format
+msgid "Defaults to %s."
+msgstr "デフォルトは %s です。"
+
+#: admin/options-display.php:258
+msgid "Favicon options"
+msgstr "ファビコン設定"
+
+#: admin/options-display.php:262
+msgid "Favicon URL"
+msgstr "ファビコンのURL"
+
+#: admin/options-display.php:266
+msgid "Simply enter the full URL to your favicon file here to enable favicon."
+msgstr ""
+"ファビコンを有効化するにはここにファビコンファイルの完全なURLを入力するだけで"
+"す。"
+
+#: admin/options-display.php:280
+msgid "Custom CSS"
+msgstr "カスタムCSS"
+
+#: admin/options-display.php:285
+msgid "Custom CSS styles"
+msgstr "カスタムCSSスタイル"
+
+#: admin/options-display.php:287
+msgid ""
+"You can enter your own CSS codes below to modify any other aspects of the "
+"theme's appearance that is not included in the options."
+msgstr ""
+"設定に含まれていないテーマの外観の他の面を変更するために独自CSSを入力できま"
+"す。"
+
+#: admin/options-general.php:13
+msgid "API Key"
+msgstr "APIキー"
+
+#: admin/options-general.php:16
+msgid "Insert your Graphene Mobile's API key here to enable automatic updates."
+msgstr "自動更新を有効にするためにGraphene Mobile APIキーを入力してください。"
+
+#: admin/options-general.php:20
+msgid "Graphene Mobile API Key"
+msgstr "Graphene Mobile APIキー"
+
+#: admin/options-general.php:24
+#, php-format
+msgid ""
+"If you have lost your API key or have never received it, you can obtain it "
+"from your %s."
+msgstr ""
+
+#: admin/options-general.php:24
+msgid "Account Page"
+msgstr ""
+
+#: admin/options-general.php:38
+msgid "Front Page Options"
+msgstr "フロントページ設定"
+
+#: admin/options-general.php:44
+msgid "Number of posts to show with excerpt"
+msgstr "抜粋を表示する投稿の数"
+
+#: admin/options-general.php:52
+msgid "Posts by category listing options"
+msgstr "カテゴリ一覧設定による投稿"
+
+#: admin/options-general.php:56
+msgid "Display recent posts by category"
+msgstr "カテゴリー別に最近の投稿を表示する"
+
+#: admin/options-general.php:60
+msgid "Disabled"
+msgstr "無効"
+
+#: admin/options-general.php:61
+msgid "Show all categories"
+msgstr "すべてのカテゴリーを表示する"
+
+#: admin/options-general.php:62
+msgid "Show selected categories"
+msgstr "選択したカテゴリーを表示する"
+
+#: admin/options-general.php:68
+msgid "Categories to show in front page"
+msgstr "フロントページに表示するカテゴリー"
+
+#: admin/options-general.php:71
+msgid ""
+"This setting is only applicable if \"Show selected categories\" is selected "
+"above."
+msgstr ""
+"この設定は上で\"選択したカテゴリーを表示する\"を選択した場合のみ適用されま"
+"す。"
+
+#: admin/options-general.php:88
+msgid "Number of posts to show per category"
+msgstr "ページ毎に表示する投稿の数"
+
+#: admin/options-general.php:105
+msgid "Comments Options"
+msgstr "コメント設定"
+
+#: admin/options-general.php:111
+msgid "Commenting"
+msgstr "コメント"
+
+#: admin/options-general.php:115
+msgid "Use WordPress settings"
+msgstr "WordPressの設定を使用する"
+
+#: admin/options-general.php:116
+msgid "Disabled for pages"
+msgstr "ページに対して無効にする"
+
+#: admin/options-general.php:117
+msgid "Disabled completely"
+msgstr "完全に無効にする"
+
+#: admin/options-general.php:119
+msgid ""
+"Note: this setting overrides the global WordPress Discussion Setting called "
+"\"Allow people to post comments on new articles\" and also the \"Allow "
+"comments\" option for individual posts/pages."
+msgstr ""
+"注意: この設定は個々の投稿・ページについて、\"新しい投稿へのコメントを許可す"
+"る\"や\"コメントを許可する\"と呼ばれるWordPressのグローバル設定を上書きしま"
+"す。"
+
+#: admin/options-general.php:133
+msgid "Child Page Options"
+msgstr "子ページ設定"
+
+#: admin/options-general.php:139
+msgid "Hide parent box if content is empty"
+msgstr "コンテンツが空の場合、親ボックスを非表示にする"
+
+#: admin/options-general.php:145
+msgid "Child page listings"
+msgstr "子ページ一覧"
+
+#: admin/options-general.php:149
+msgid "Show listing"
+msgstr "一覧を表示する"
+
+#: admin/options-general.php:150
+msgid "Hide listing"
+msgstr "一覧を非表示にする"
+
+#: admin/options-general.php:151
+msgid "Only show listing if parent content is empty"
+msgstr "親コンテンツが空の場合のみ一覧を表示する"
+
+#: admin/options-general.php:166
+msgid "Google Analytics Options"
+msgstr "Google Analytics設定"
+
+#: admin/options-general.php:169
+msgid ""
+"<strong>Note:</strong> the theme places the Google Analytics script in the "
+"<code>&lt;head&gt;</code> element to support the new asynchronous Google "
+"Analytics script. Please make sure you use the new asynchronous script from "
+"Google Analytics."
+msgstr ""
+"<strong>注意:</strong> このテーマは新しい非同期型Google Analytics スクリプト"
+"に対応するために <code>&lt;head&gt;</code> 要素にスクリプトを配置します。"
+"Google Analyticsの新しい非同期型スクリプトを使用するように注意してください。"
+
+#: admin/options-general.php:172
+msgid "Enable Google Analytics tracking"
+msgstr "Google Analyticsのトラッキングを有効にする"
+
+#: admin/options-general.php:176
+msgid "Google Analytics tracking code"
+msgstr "Google Analyticsトラッキングコード"
+
+#: admin/options-general.php:177
+msgid ""
+"Make sure you include the full tracking code (including the <code>&lt;"
+"script&gt;</code> and <code>&lt;/script&gt;</code> tags) and not just the "
+"<code>UA-#######-#</code> code."
+msgstr ""
+"（<code>&lt;script&gt;</code>と<code>&lt;/script&gt;</code>を含む）完全なト"
+"ラッキングコードを含み、<code>UA-#######-#</code>といったコードではないことを"
+"確認してください。"
+
+#: admin/options-general.php:192
+msgid "Footer Options"
+msgstr "フッター設定"
+
+#: admin/options-general.php:197
+msgid "Copyright text (html allowed)"
+msgstr "著作権表示(html可) "
+
+#: admin/options-general.php:198
+msgid ""
+"If this field is empty, the following default copyright text will be "
+"displayed:"
+msgstr "このフィールドが空の場合、次のデフォルトの著作権表示が表示されます："
+
+#: admin/options-general.php:207
+msgid "Do not show copyright info"
+msgstr "著作権情報を表示しない"
+
+#: admin/options-general.php:211
+msgid "Do not show the \"Return to top\" link"
+msgstr "\"トップに戻る\"のリンクを表示しない"
+
+#: admin/options-general.php:225
+msgid "Miscellaneous General Options"
+msgstr "その他の一般設定"
+
+#: admin/options-general.php:231
+msgid "Allow device to zoom in"
+msgstr "端末に拡大を許可する"
+
+#: admin/options-init.php:23
+msgid "Graphene Mobile"
+msgstr "Graphene Mobile"
+
+#: admin/options-init.php:124
+msgid "Toggle all tabs"
+msgstr "すべてのタブを切り替える"
+
+#: admin/options-presets.php:17
+msgid "Settings have been reset."
+msgstr "設定がリセットされました。"
+
+#: admin/options-presets.php:31
+msgid "Relevant settings from the Graphene Options has been applied."
+msgstr "関連するGraphene設定が適用されました。"
+
+#: admin/options-presets.php:38
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "エラー:　その操作を実行する権限がありません"
+
+#: admin/options.php:35
+msgid "Graphene Mobile Theme Options"
+msgstr "Graphene Mobileテーマ設定"
+
+#: admin/options.php:44
+msgid "General"
+msgstr "一般"
+
+#: admin/options.php:45
+msgid "Display"
+msgstr "表示"
+
+#: admin/options.php:46
+msgid "Colours"
+msgstr ""
+
+#: admin/options.php:47
+msgid "Advanced"
+msgstr ""
+
+#: admin/options.php:67
+msgid "Save Options"
+msgstr "設定を保存"
+
+#: admin/options.php:82
+msgid "Options Presets"
+msgstr "既定の設定"
+
+#: admin/options.php:85
+msgid ""
+"Note that you can still configure the individual settings after you apply "
+"any preset."
+msgstr ""
+"任意の規定を適用した後、個々の設定を行うことができることに注意してください。"
+
+#: admin/options.php:90
+msgid "Select Options Preset"
+msgstr "既定の設定を選択する"
+
+#: admin/options.php:96
+msgid "Copy relevant Graphene settings"
+msgstr "関連するGraphene設定をコピー"
+
+#: admin/options.php:99
+msgid "Reset to default settings"
+msgstr "デフォルトの設定にリセットする"
+
+#: admin/options.php:104
+msgid "Apply Options Preset"
+msgstr "既定の設定を適用"
+
+#: admin/validator.php:38
+msgid "ERROR: Invalid option for the comments option."
+msgstr "エラー:　コメント設定への無効な設定"
+
+#: admin/validator.php:43
+msgid "ERROR: Invalid option for the child page listings."
+msgstr "エラー:　子ページ一覧への無効な設定"
+
+#: admin/validator.php:90
+msgid "ERROR: Bad URL entered for the background image."
+msgstr "エラー:　背景画像への不正なURL"
+
+#: admin/validator.php:91
+msgid "ERROR: Invalid option for the background position."
+msgstr "エラー:　背景設定への無効な設定"
+
+#: admin/validator.php:92
+msgid "ERROR: Invalid option for the background repeat."
+msgstr "エラー:　背景の繰り返しへの無効な設定"
+
+#: admin/validator.php:93
+msgid "ERROR: Invalid option for the background attachment."
+msgstr "エラー: 背景の添付ファイルへの無効な設定"
+
+#: admin/validator.php:100
+msgid "ERROR: Bad URL entered for the favicon URL."
+msgstr "エラー:　ファビコンのURLへの不正なURL"
+
+#: admin/validator.php:120
+msgid "ERROR: Invalid action hook selected widget action hooks."
+msgstr ""
+
+#: includes/theme-comments.php:41
+#, fuzzy, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "1 個のコメント"
+msgstr[1] ""
+
+#: includes/theme-comments.php:42
+#, fuzzy, php-format
+msgid "%d ping"
+msgid_plural "%d pings"
+msgstr[0] "1 個のping"
+msgstr[1] ""
+
+#: includes/theme-comments.php:43
+#, php-format
+msgid "%d trackback"
+msgid_plural "%d trackbacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/theme-comments.php:44
+#, php-format
+msgid "%d pingback"
+msgid_plural "%d pingbacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/theme-comments.php:100
+msgid "says:"
+msgstr ":"
+
+#. translators: %1$s will be replaced by the date, and %2$s will be replaced by the time. Example: 27 June 2011 at 2.03pm
+#: includes/theme-comments.php:102
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: includes/theme-comments.php:112
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは管理者の承認待ちです。"
+
+#: includes/theme-loops.php:105
+msgid ""
+"<strong>ERROR: You must supply the post ID to get the image from as an "
+"argument when calling the mgraphene_get_post_image() function.</strong>"
+msgstr ""
+"<strong>エラー: 画像を得るにはmgraphene_get_post_image() 関数を呼ぶとき.引数"
+"として投稿IDをを与えなければなりません</strong>"
+
+#: includes/theme-menus-dropdown.php:25 includes/theme-menus.php:16
+msgid "Browse"
+msgstr ""
+
+#: includes/theme-menus.php:17 includes/theme-menus.php:33
+msgid "Home"
+msgstr "ホーム"
+
+#: includes/theme-setup.php:30
+msgid "Graphene Mobile Header Menu"
+msgstr "Graphene Mobile ヘッダーメニュー"
+
+#: includes/theme-setup.php:31
+msgid "Graphene Mobile Footer Menu"
+msgstr "Graphene Mobile フッターメニュー"
+
+#: includes/theme-setup.php:50
+msgid "Graphene Mobile Header"
+msgstr "Graphene Mobile ヘッダー"
+
+#: includes/theme-setup.php:52
+msgid ""
+"This widget area will be displayed before the content, but after the header "
+"and navigation."
+msgstr ""
+"このウィジェットエリアはコンテンツの前に表示されますが、ヘッダーとナビゲー"
+"ションの後表示にされます。"
+
+#: includes/theme-setup.php:59
+msgid "Graphene Mobile Footer"
+msgstr "Graphene Mobileフッター"
+
+#: includes/theme-setup.php:61
+msgid ""
+"This widget area will be displayed after the content, but before the footer."
+msgstr ""
+"このウィジェットエリアは投稿の後に表示されますが、フッターの前に表示されま"
+"す。"
+
+#: includes/theme-setup.php:77
+#, php-format
+msgid ""
+"Dynamically added widget area. This widget area is attached to the %s action "
+"hook."
+msgstr ""
+
+#: includes/update.php:78
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"予期せぬHTTPエラーがAPIリクエストの間に発生しました。.</p>　<p><a href=\"?\" "
+"onclick=\"document.location.reload(); return false;\">再試行</a>"
+
+#: includes/update.php:83
+msgid "An unknown error occurred"
+msgstr "不明なエラーが発生しました"
+
+#, fuzzy
+#~ msgid "1 comment"
+#~ msgstr "% 個のコメント"
+
+#, fuzzy
+#~ msgid "1 ping"
+#~ msgstr "% 個のping"
+
+#~ msgid "Colour Options"
+#~ msgstr "カラー設定"

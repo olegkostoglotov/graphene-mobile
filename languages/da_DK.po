@@ -1,0 +1,1448 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graphene Mobile theme for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-17 13:04+0800\n"
+"PO-Revision-Date: 2013-01-17 13:06+0800\n"
+"Last-Translator: Syahir Hakim <syahir@khairul-syahir.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: D:/MyVault/MyProjects/Websites/theme-graphene-mobile/site/"
+"wp-content/themes/graphene-mobile/\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mgraphene
+#: 404.php:22 search.php:13
+msgid "Error 404 - Not Found"
+msgstr "Fejl 404 - Ikke Fundet"
+
+# @ graphene
+# @ mgraphene
+#: 404.php:30 search.php:26
+msgid ""
+"Sorry, I've looked everywhere but I can't find the content you're looking "
+"for."
+msgstr ""
+"Undskyld, jeg har kigget overalt, men jeg kan ikke finde det indhold du "
+"leder efter."
+
+# @ graphene
+# @ mgraphene
+#: 404.php:31 search.php:27
+msgid ""
+"If you follow the link from another website, I may have removed or renamed "
+"the page some time ago."
+msgstr ""
+"Hvis du følger linket fra en anden hjemmeside, kan jeg have fjernet eller "
+"omdøbt en side for nogen tid siden."
+
+# @ mgraphene
+#: 404.php:32
+msgid ""
+"I am now performing an automated search for you based on the URL you "
+"entered. Please wait a moment ..."
+msgstr ""
+"Jeg er nu at udføre en automatisk søgning for dig baseret på den webadresse, "
+"du har indtastet. Vent et øjeblik ..."
+
+# @ mgraphene
+#: 404.php:43
+msgid "Automated search"
+msgstr "Elektronisk søgning"
+
+# @ graphene
+#: 404.php:53
+#, php-format
+msgid "Searching for the terms <strong>%s</strong> ..."
+msgstr "Søger efter udtryk <strong>%s</strong> ..."
+
+# @ mgraphene
+#: archive.php:6
+msgid "Archive for:"
+msgstr "Arkiv for:"
+
+# @ mgraphene
+#: comments.php:12 comments.php:55 home.php:48 home.php:80 loop-archive.php:27
+msgid "No comment yet"
+msgstr "Ingen kommentarer endnu"
+
+# @ mgraphene
+#: comments.php:13 comments.php:41 home.php:49
+msgid "No ping yet"
+msgstr "Ingen ping endnu"
+
+# @ mgraphene
+#: comments.php:36
+msgid "Leave a reply"
+msgstr "Efterlad et svar"
+
+# @ mgraphene
+#. translators: %d will be replaced by the current year, %s will be replaced by the site title, &copy; will be replaced by the copyright symbol
+#: footer.php:31 admin/options-colours.php:88 admin/options-general.php:201
+#, php-format
+msgid "Copyright &copy; %d %s"
+msgstr "Copyright &copy; %d %s"
+
+# @ mgraphene
+#. #-#-#-#-#  0extracted.pot (PACKAGE VERSION)  #-#-#-#-#
+#. translators: %s will be replaced by the link to WordPress.org and Graphene Mobile page
+#: footer.php:45 admin/options-colours.php:93
+#, php-format
+msgid "Powered by %s"
+msgstr "Powered af %s"
+
+# @ mgraphene
+#: footer.php:47
+msgid "Return to top"
+msgstr "Tilbage til toppen"
+
+# @ mgraphene
+#: footer.php:60
+msgid "Switch to desktop version"
+msgstr "Skift til desktop-versionen"
+
+# @ mgraphene
+#. #-#-#-#-#  0extracted.pot (PACKAGE VERSION)  #-#-#-#-#
+#. translators: %1$s will be replaced by the post date, %2$s will be replaced by the post author's name
+#: home.php:23 home.php:78 loop-single.php:16 loop.php:16
+#: admin/options-colours.php:140 admin/options-colours.php:252
+#: admin/options-colours.php:255 includes/theme-functions.php:87
+#, php-format
+msgid "%1$s by %2$s"
+msgstr "%1$s af %2$s"
+
+# @ mgraphene
+#: home.php:52
+msgid "Read more"
+msgstr "Læs mere"
+
+# @ mgraphene
+#: home.php:67
+msgid "Recent posts"
+msgstr "Seneste indlæg"
+
+# @ mgraphene
+#: loop-archive.php:34
+#, php-format
+msgid "View %s"
+msgstr "Vis %s"
+
+# @ mgraphene
+#: loop-children.php:23
+msgid "In this section"
+msgstr "I denne sektion"
+
+# @ mgraphene
+#: loop-single.php:31 loop.php:31
+msgid "Categories: "
+msgstr "Kategorier:"
+
+# @ mgraphene
+#: loop-single.php:82 loop.php:82
+msgid "Tags: "
+msgstr "Tags:"
+
+# @ mgraphene
+#: not-found.php:11 not-found.php:47
+msgid "Not Found"
+msgstr "Ikke fundet"
+
+# @ mgraphene
+#: not-found.php:26 not-found.php:54
+msgid ""
+"Sorry, I've searched everywhere but the content you're looking for could not "
+"be found."
+msgstr ""
+"Undskyld, jeg har søgt overalt, men det indhold du leder efter kunne ikke "
+"findes."
+
+# @ mgraphene
+#: not-found.php:27 not-found.php:55
+msgid "Try a search?"
+msgstr "Prøv en søgning?"
+
+# @ mgraphene
+#: search.php:49
+msgid "Search results:"
+msgstr "Søgeresultater:"
+
+# @ mgraphene
+#: searchform.php:7
+msgid "Search"
+msgstr "Søg"
+
+#: admin/ajax-handler.php:9
+msgid ""
+"Sorry, but you don't have the necessary permission to modify theme options."
+msgstr ""
+
+# @ mgraphene
+#: admin/ajax-handler.php:20
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-advanced.php:12
+msgid "Custom <head> Tags"
+msgstr ""
+
+#: admin/options-advanced.php:17
+msgid "Code to insert into the <head> element"
+msgstr ""
+
+# @ mgraphene
+#: admin/options-advanced.php:22 admin/options-advanced.php:58
+#: admin/options-colours.php:65 admin/options-colours.php:121
+#: admin/options-colours.php:230 admin/options-colours.php:293
+#: admin/options-colours.php:360 admin/options-display.php:30
+#: admin/options-display.php:59 admin/options-display.php:105
+#: admin/options-display.php:136 admin/options-display.php:222
+#: admin/options-display.php:271 admin/options-display.php:293
+#: admin/options-general.php:29 admin/options-general.php:96
+#: admin/options-general.php:124 admin/options-general.php:157
+#: admin/options-general.php:183 admin/options-general.php:216
+#: admin/options-general.php:237
+msgid "Save All Options"
+msgstr ""
+
+#: admin/options-advanced.php:31
+msgid "Action Hooks Widget Areas"
+msgstr "Action Hooks Widget Områder"
+
+#: admin/options-advanced.php:34
+msgid ""
+"This option enables you to place virtually any content to every nook and "
+"cranny in the theme, by attaching widget areas to the theme's action hooks."
+msgstr ""
+"Denne indstilling giver dig mulighed for at placere stort set alt indhold "
+"til alle steder i temaet, ved at knytte Widget områder til temaets action "
+"hooks."
+
+#: admin/options-advanced.php:35
+msgid ""
+"All action hooks available in the Graphene Mobile Theme are listed below. "
+"Click on the filename to display all the action hooks available in that "
+"file. Then, tick the checkbox next to an action hook to make a widget area "
+"available for that action hook."
+msgstr ""
+
+#: admin/options-advanced.php:44
+msgid "Click to show/hide the action hooks for this file"
+msgstr "Klik for at vise / skjule action hooks til denne fil"
+
+#: admin/options-advanced.php:57
+msgid "Rescan action hooks"
+msgstr ""
+
+# @ mgraphene
+#: admin/options-colours.php:6
+msgid ""
+"<strong>Note:</strong> To reset any of the colours to their default value, "
+"just click on \"Clear\" beside the colour field and save the settings. The "
+"theme will automatically revert the value to the default colour."
+msgstr ""
+"<strong>Bemærk:</strong> Hvis du vil nulstille nogle af de farver til deres "
+"standard værdi, skal du blot klikke på \"Clear\" ved siden af farve-feltet "
+"og gemme indstillingerne. Temaet vil automatisk vende tilbage værdien til "
+"standard farve."
+
+# @ mgraphene
+#: admin/options-colours.php:11
+msgid "Header and navigation"
+msgstr "Header og navigation"
+
+# @ mgraphene
+#: admin/options-colours.php:17 admin/options-colours.php:78
+#: admin/options-colours.php:243 admin/options-colours.php:306
+#: admin/options-display.php:150
+msgid "Preview"
+msgstr "Eksempel"
+
+# @ mgraphene
+#: admin/options-colours.php:20
+msgid "Site title"
+msgstr "Site Title"
+
+# @ mgraphene
+#: admin/options-colours.php:20
+msgid "Site description"
+msgstr "Site Description"
+
+# @ mgraphene
+#: admin/options-colours.php:24
+msgid "Current menu item"
+msgstr "Nuværende menupunkt"
+
+# @ mgraphene
+#: admin/options-colours.php:25 admin/options-colours.php:26
+#: admin/options-colours.php:84 admin/options-colours.php:85
+msgid "Menu item"
+msgstr "Menupunkt"
+
+# @ mgraphene
+#: admin/options-colours.php:40
+msgid "Header background (top)"
+msgstr "Header baggrund (øverst)"
+
+# @ mgraphene
+#: admin/options-colours.php:41
+msgid "Header background (bottom)"
+msgstr "Header baggrund (nederst)"
+
+# @ mgraphene
+#: admin/options-colours.php:42
+msgid "Site title text"
+msgstr "Site Title tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:43
+msgid "Site description text"
+msgstr "Websted beskrivende tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:44
+msgid "Navigation menu background"
+msgstr "Navigation menubaggrunden"
+
+# @ mgraphene
+#: admin/options-colours.php:45
+msgid "Current menu item background"
+msgstr "Nuværende menupunkt baggrund"
+
+# @ mgraphene
+#: admin/options-colours.php:46
+msgid "Menu item text"
+msgstr "Menupunkt tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:47
+msgid "Current menu item text"
+msgstr "Nuværende menupunkt tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:57 admin/options-colours.php:113
+#: admin/options-colours.php:175 admin/options-colours.php:223
+#: admin/options-colours.php:285 admin/options-colours.php:352
+#: admin/options-display.php:216
+msgid "Clear"
+msgstr "Ryd"
+
+# @ mgraphene
+#: admin/options-colours.php:72
+msgid "Footer"
+msgstr "Sidefod"
+
+# @ mgraphene
+#: admin/options-colours.php:100
+msgid "Copyright background"
+msgstr "Copyright baggrund"
+
+# @ mgraphene
+#: admin/options-colours.php:101
+msgid "Copyright text"
+msgstr "Copyright tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:102
+msgid "Footer menu text"
+msgstr "Footer menu tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:103
+msgid "Credit background"
+msgstr "Credit baggrund"
+
+# @ mgraphene
+#: admin/options-colours.php:104
+msgid "Credit text"
+msgstr "Credit tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:105
+msgid "Credit link text"
+msgstr "Credit linktekst"
+
+# @ mgraphene
+#: admin/options-colours.php:128
+msgid "Content section"
+msgstr "Indhold sektion"
+
+# @ mgraphene
+#: admin/options-colours.php:134
+msgid "Preview (top half)"
+msgstr "Eksempel (øverste halvdel)"
+
+# @ mgraphene
+#: admin/options-colours.php:139
+msgid "Layout Test"
+msgstr "Layout Test"
+
+# @ mgraphene
+#: admin/options-colours.php:140 admin/options-colours.php:252
+#: admin/options-colours.php:255
+msgid "the author"
+msgstr "forfatteren"
+
+# @ mgraphene
+#: admin/options-colours.php:144
+msgid "Categories:"
+msgstr "Kategorier:"
+
+# @ mgraphene
+#: admin/options-colours.php:144
+msgid "Category 1"
+msgstr "Kategori 1"
+
+# @ mgraphene
+#: admin/options-colours.php:144
+msgid "Category 2"
+msgstr "Kategori 2"
+
+# @ mgraphene
+#: admin/options-colours.php:144
+msgid "Category 3"
+msgstr "Kategori 3"
+
+# @ mgraphene
+#: admin/options-colours.php:158
+msgid "Title background"
+msgstr "Titel baggrund"
+
+# @ mgraphene
+#: admin/options-colours.php:159 admin/options-colours.php:271
+msgid "Title text"
+msgstr "Titeltekst"
+
+# @ mgraphene
+#: admin/options-colours.php:160 admin/options-colours.php:340
+msgid "Meta text"
+msgstr "Meta tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:161
+msgid "Categories background"
+msgstr "Kategorier baggrund"
+
+# @ mgraphene
+#: admin/options-colours.php:162
+msgid "Categories text"
+msgstr "Kategorier tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:163
+msgid "Category items background"
+msgstr "Kategori poster baggrund"
+
+# @ mgraphene
+#: admin/options-colours.php:164
+msgid "Category items text"
+msgstr "Kategori emner tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:165 admin/options-colours.php:272
+#: admin/options-colours.php:341
+msgid "Content background"
+msgstr "Indhold baggrund"
+
+# @ mgraphene
+#: admin/options-colours.php:166 admin/options-colours.php:273
+#: admin/options-colours.php:342
+msgid "Content text"
+msgstr "Indhold tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:167 admin/options-colours.php:274
+#: admin/options-colours.php:343
+msgid "Content link"
+msgstr "Indhold link"
+
+# @ mgraphene
+#: admin/options-colours.php:182
+msgid "Preview (bottom half)"
+msgstr "Eksempel (nederste halvdel)"
+
+# @ mgraphene
+#: admin/options-colours.php:187
+msgid "Pages:"
+msgstr "Sider:"
+
+# @ mgraphene
+#: admin/options-colours.php:192
+msgid "Tags:"
+msgstr "Tags:"
+
+# @ mgraphene
+#: admin/options-colours.php:192
+msgid "Tag 1"
+msgstr "Tag 1"
+
+# @ mgraphene
+#: admin/options-colours.php:192
+msgid "Tag 2"
+msgstr "Tag 2"
+
+# @ mgraphene
+#: admin/options-colours.php:192
+msgid "Tag 3"
+msgstr "Tag 3"
+
+# @ mgraphene
+#: admin/options-colours.php:196 includes/theme-loops.php:30
+msgid "Previous Post"
+msgstr "Forrige indlæg"
+
+# @ mgraphene
+#: admin/options-colours.php:196 admin/options-colours.php:197
+msgid "Post title"
+msgstr "Indlæg titel"
+
+# @ mgraphene
+#: admin/options-colours.php:197 includes/theme-loops.php:36
+msgid "Next Post"
+msgstr "Næste Indlæg"
+
+# @ mgraphene
+#: admin/options-colours.php:205
+msgid "Pagination background"
+msgstr "Paginerings baggrund"
+
+# @ mgraphene
+#: admin/options-colours.php:206
+msgid "Pagination text"
+msgstr "Paginerings tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:207
+msgid "Pagination link"
+msgstr "Paginerings link"
+
+# @ mgraphene
+#: admin/options-colours.php:208
+msgid "Tags background"
+msgstr "Tags baggrund"
+
+# @ mgraphene
+#: admin/options-colours.php:209
+msgid "Tags text"
+msgstr "Tags tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:210
+msgid "Tag items background"
+msgstr "Tag emner baggrund"
+
+# @ mgraphene
+#: admin/options-colours.php:211
+msgid "Tag items text"
+msgstr "Tag emner tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:212
+msgid "Posts navigation background"
+msgstr "Indlæg navigation baggrund"
+
+# @ mgraphene
+#: admin/options-colours.php:213
+msgid "Posts navigation background (next)"
+msgstr "Indlæg navigation baggrund (næste)"
+
+# @ mgraphene
+#: admin/options-colours.php:214
+msgid "Posts navigation text"
+msgstr "Indlæg navigation tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:215
+msgid "Posts navigation link"
+msgstr "Indlæg navigation link"
+
+# @ mgraphene
+#: admin/options-colours.php:237
+msgid "Other sections"
+msgstr "Øvrige sektioner"
+
+# @ mgraphene
+#: admin/options-colours.php:247
+msgid "Section title"
+msgstr "Sektion titel"
+
+# @ mgraphene
+#: admin/options-colours.php:252 admin/options-colours.php:255
+msgid "Leave a comment"
+msgstr "Efterlad en kommentar"
+
+# @ mgraphene
+#: admin/options-colours.php:262 includes/theme-loops.php:57
+msgid "Previous Page"
+msgstr "Forrige Side"
+
+# @ mgraphene
+#: admin/options-colours.php:263 includes/theme-loops.php:58
+msgid "Next Page"
+msgstr "Næste Side"
+
+# @ mgraphene
+#: admin/options-colours.php:269
+msgid "Title background (top)"
+msgstr "Titel baggrund (øverst)"
+
+# @ mgraphene
+#: admin/options-colours.php:270
+msgid "Title background (bottom)"
+msgstr "Titel baggrund (nederst)"
+
+# @ mgraphene
+#: admin/options-colours.php:275 admin/options-colours.php:344
+msgid "Content list border"
+msgstr "Indholdsfortegnelse grænsen"
+
+# @ mgraphene
+#: admin/options-colours.php:276
+msgid "Navigation background"
+msgstr "Navigation baggrund"
+
+# @ mgraphene
+#: admin/options-colours.php:277
+msgid "Navigation text"
+msgstr "Navigation tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:300
+msgid "Comments section"
+msgstr "Kommentarer sektion"
+
+# @ mgraphene
+#: admin/options-colours.php:334
+msgid "Heading background (top)"
+msgstr "Overskrift baggrund (øverst)"
+
+# @ mgraphene
+#: admin/options-colours.php:335
+msgid "Heading background (bottom)"
+msgstr "Overskrift baggrund (nederst)"
+
+# @ mgraphene
+#: admin/options-colours.php:336
+msgid "Heading divider"
+msgstr "Overskrift Divider"
+
+# @ mgraphene
+#: admin/options-colours.php:337
+msgid "Heading text"
+msgstr "Overskrift tekst"
+
+# @ mgraphene
+#: admin/options-colours.php:338
+msgid "Reply background"
+msgstr "Besvar baggrund"
+
+# @ mgraphene
+#: admin/options-colours.php:339
+msgid "Reply text"
+msgstr "Svar tekst"
+
+# @ mgraphene
+#: admin/options-display.php:10
+msgid "Header Options"
+msgstr "Header Optioner"
+
+# @ mgraphene
+#: admin/options-display.php:13
+msgid "Alternate site title and description"
+msgstr "Alternativ websteds titel og beskrivelse"
+
+# @ mgraphene
+#: admin/options-display.php:14
+msgid ""
+"Short site title and description work best for display on a mobile device. "
+"If your site has a long site title and description (anything that spans more "
+"than a single line when displayed on a mobile device), you can use this "
+"option to specify an alternate site title and description for display in the "
+"header."
+msgstr ""
+"Kort websted titel og beskrivelse fungerer bedst til visning på en mobil "
+"enhed. Hvis dit websted har en lang websted titel og beskrivelse (noget, der "
+"spænder over mere end en enkelt linje, når de vises på en mobil enhed), kan "
+"du bruge denne mulighed til at angive en alternativ webstedets titel og "
+"beskrivelse til visning i overskriften."
+
+# @ mgraphene
+#: admin/options-display.php:17
+msgid "Alternate site title"
+msgstr "Alternativ websted titel"
+
+# @ mgraphene
+#: admin/options-display.php:23
+msgid "Alternate site description"
+msgstr "Alternativ websted beskrivelse"
+
+# @ mgraphene
+#: admin/options-display.php:39
+msgid "Navigation Menu Options"
+msgstr ""
+
+#: admin/options-display.php:42
+msgid "<select> element for menu"
+msgstr ""
+
+#: admin/options-display.php:43
+msgid ""
+"Using <select> element for menu allows you to have any number of menu items "
+"without crowding the layout."
+msgstr ""
+
+# @ mgraphene
+#: admin/options-display.php:46
+msgid "Enable for Header Menu"
+msgstr ""
+
+# @ mgraphene
+#: admin/options-display.php:52
+msgid "Enable for Footer Menu"
+msgstr ""
+
+# @ mgraphene
+#: admin/options-display.php:68
+msgid "Posts Display Options"
+msgstr "Indlæg Display Options"
+
+# @ mgraphene
+#: admin/options-display.php:74
+msgid "Hide post author and date"
+msgstr "Skjul indlæg forfatter og dato"
+
+# @ mgraphene
+#: admin/options-display.php:80
+msgid "Hide post categories"
+msgstr "Skjul indlæg kategorier"
+
+# @ mgraphene
+#: admin/options-display.php:86
+msgid "Hide post tags"
+msgstr "Skjul indlægs tags"
+
+# @ mgraphene
+#: admin/options-display.php:92
+msgid "Hide post comment count"
+msgstr "Skjul indlæg kommentar tæller"
+
+# @ mgraphene
+#: admin/options-display.php:93
+msgid ""
+"Only affects posts listing (such as search and archive pages) and not single "
+"post view."
+msgstr ""
+"Påvirker kun beskeds listning (såsom søgning og arkiv sider), og ikke en "
+"enkelt post visning."
+
+# @ mgraphene
+#: admin/options-display.php:99
+msgid "Hide automatic image at the top of posts"
+msgstr "Skjul automatisk billedet i toppen af ​​indlæg"
+
+# @ mgraphene
+#: admin/options-display.php:114
+msgid "Excerpts Display Options"
+msgstr "Uddrag Display Options"
+
+# @ mgraphene
+#: admin/options-display.php:120
+msgid "Show full content in archive pages"
+msgstr "Vis fuld indhold i arkiv sider"
+
+# @ mgraphene
+#: admin/options-display.php:124
+msgid ""
+"Note: Archive pages include the archive for category, tags, time, and search "
+"results pages. Enabling this option will cause the full content of posts and "
+"pages listed in those archives to displayed instead of the excerpt, and "
+"truncated by the Read More tag if used."
+msgstr ""
+"Bemærk: Arkiv sider indeholder arkivet for kategorien, tags, tid og "
+"søgeresultatsider. Aktivering af denne indstilling vil få det fulde indhold "
+"af indlæg og sider, der er anført i disse arkiver til vises i stedet for "
+"uddrag, og afkortet ved Læs mere tag, hvis de anvendes."
+
+# @ mgraphene
+#: admin/options-display.php:128
+msgid "Retain these HTML tags in excerpts"
+msgstr "Behold disse HTML tags i uddrag"
+
+# @ mgraphene
+#: admin/options-display.php:131
+msgid ""
+"Enter the HTML tags you'd like to retain in excerpts. For example, enter "
+"<code>&lt;p&gt;&lt;ul&gt;&lt;li&gt;</code> to retain <code>&lt;p&gt;</code>, "
+"<code>&lt;ul&gt;</code>, and <code>&lt;li&gt;</code> HTML tags."
+msgstr ""
+"Indtast de HTML-tags du gerne vil beholde i uddrag. For eksempel, "
+"indtast<code>&lt;p&gt;&lt;ul&gt;&lt;li&gt;</code> for at beholde <code>&lt;"
+"p&gt;</code>, <code>&lt;ul&gt;</code>, og <code>&lt;li&gt;</code>  HTML-tags."
+
+# @ mgraphene
+#: admin/options-display.php:145
+msgid "Custom Background Options"
+msgstr "Brugerdefineret baggrund Optioner"
+
+# @ mgraphene
+#: admin/options-display.php:155
+msgid "Background image URL"
+msgstr "Baggrundsbillede URL"
+
+# @ mgraphene
+#: admin/options-display.php:160
+msgid ""
+"Hint: You can use the <a href=\"media-new.php\">Media Library</a> to upload "
+"an image to be used here."
+msgstr ""
+"Tip: Du kan bruge <a href=\"media-new.php\">Mediebiblioteket</a> til at "
+"uploade et billede der skal bruges her."
+
+# @ mgraphene
+#: admin/options-display.php:161
+msgid ""
+"If you do not wish the background to be repeated, use an image at least as "
+"wide as 640 pixels (Apple's retina display)"
+msgstr ""
+"Hvis du ikke ønsker, at baggrunden skal gentages, skal du bruge et billede "
+"mindst lige så bred som 640 pixels (Apple retina display)"
+
+# @ mgraphene
+#: admin/options-display.php:167
+msgid "Position"
+msgstr "Position"
+
+# @ mgraphene
+#: admin/options-display.php:171
+msgid "Left"
+msgstr "Venstre"
+
+# @ mgraphene
+#: admin/options-display.php:174
+msgid "Center"
+msgstr "Center"
+
+# @ mgraphene
+#: admin/options-display.php:177
+msgid "Right"
+msgstr "Højre"
+
+# @ mgraphene
+#: admin/options-display.php:182
+msgid "Repeat"
+msgstr "Gentag"
+
+# @ mgraphene
+#: admin/options-display.php:186
+msgid "No Repeat"
+msgstr "Ingen gentagelse"
+
+# @ mgraphene
+#: admin/options-display.php:189
+msgid "Tile"
+msgstr "Tile"
+
+# @ mgraphene
+#: admin/options-display.php:192
+msgid "Tile Horizontally"
+msgstr "Tile vandret"
+
+# @ mgraphene
+#: admin/options-display.php:195
+msgid "Tile Vertically"
+msgstr "Tile lodret"
+
+# @ mgraphene
+#: admin/options-display.php:201
+msgid "Attachment"
+msgstr "Attachment"
+
+# @ mgraphene
+#: admin/options-display.php:205
+msgid "Scroll"
+msgstr "Rul"
+
+# @ mgraphene
+#: admin/options-display.php:208
+msgid "Fixed"
+msgstr "Fast"
+
+# @ mgraphene
+#: admin/options-display.php:213
+msgid "Colour"
+msgstr "Farve"
+
+# @ mgraphene
+#: admin/options-display.php:231
+msgid "Miscellaneous Display Options"
+msgstr "Diverse Display Options"
+
+# @ mgraphene
+#: admin/options-display.php:234
+msgid "Site title options"
+msgstr "Websted Titel optioner"
+
+# @ mgraphene
+#: admin/options-display.php:235
+msgid ""
+"This option allows you to customise how your site title is displayed in the "
+"browser bar, tabs, and bookmarks."
+msgstr ""
+"Denne indstilling giver dig mulighed for at tilpasse, hvordan dit websted "
+"titel vises i browseren bar, faner, og bogmærker."
+
+# @ mgraphene
+#: admin/options-display.php:236
+msgid ""
+"Use these tags to customise your own site title structure: <code>#site-name</"
+"code>, <code>#site-desc</code>, <code>#post-title</code>"
+msgstr ""
+"Brug disse koder til at tilpasse din egen side titel struktur: <code>#site-"
+"name</code>, <code>#site-desc</code>, <code>#post-title</code>"
+
+# @ mgraphene
+#: admin/options-display.php:240
+msgid "Custom front page site title"
+msgstr "Brugerdefineret forside websted titel"
+
+# @ mgraphene
+#: admin/options-display.php:244
+#, php-format
+msgid "Defaults to %1$s. The %2$s tag cannot be used here."
+msgstr "Standardindstillinger til %1$s. Den %2$s tag ikke kan bruges her."
+
+# @ mgraphene
+#: admin/options-display.php:249
+msgid "Custom content pages site title"
+msgstr "Brugerdefinerede indholdssider webstedet titel"
+
+# @ mgraphene
+#: admin/options-display.php:253
+#, php-format
+msgid "Defaults to %s."
+msgstr "Standardindstillinger til %s."
+
+# @ mgraphene
+#: admin/options-display.php:258
+msgid "Favicon options"
+msgstr "Favicon optioner"
+
+# @ mgraphene
+#: admin/options-display.php:262
+msgid "Favicon URL"
+msgstr "Favicon URL"
+
+# @ mgraphene
+#: admin/options-display.php:266
+msgid "Simply enter the full URL to your favicon file here to enable favicon."
+msgstr ""
+"Du skal blot indtaste den fulde URL til din favicon-fil her for at aktivere "
+"favicon."
+
+# @ mgraphene
+#: admin/options-display.php:280
+msgid "Custom CSS"
+msgstr "Brugerdefinerede CSS"
+
+# @ mgraphene
+#: admin/options-display.php:285
+msgid "Custom CSS styles"
+msgstr "Brugerdefinerede CSS stilarter"
+
+# @ mgraphene
+#: admin/options-display.php:287
+msgid ""
+"You can enter your own CSS codes below to modify any other aspects of the "
+"theme's appearance that is not included in the options."
+msgstr ""
+"Du kan indtaste dine egne CSS-koder nedenfor for at ændre nogen andre "
+"aspekter af temaets udseende, der ikke er inkluderet i valgmulighederne."
+
+# @ mgraphene
+#: admin/options-general.php:13
+msgid "API Key"
+msgstr "API Nøgle"
+
+# @ mgraphene
+#: admin/options-general.php:16
+msgid "Insert your Graphene Mobile's API key here to enable automatic updates."
+msgstr ""
+"Indsæt din Graphene Mobiles API-nøgle her for at aktivere automatiske "
+"opdateringer."
+
+# @ mgraphene
+#: admin/options-general.php:20
+msgid "Graphene Mobile API Key"
+msgstr "Graphene Mobile API Nøgle"
+
+#: admin/options-general.php:24
+#, php-format
+msgid ""
+"If you have lost your API key or have never received it, you can obtain it "
+"from your %s."
+msgstr ""
+
+#: admin/options-general.php:24
+msgid "Account Page"
+msgstr ""
+
+# @ mgraphene
+#: admin/options-general.php:38
+msgid "Front Page Options"
+msgstr "Forside Options"
+
+# @ mgraphene
+#: admin/options-general.php:44
+msgid "Number of posts to show with excerpt"
+msgstr "Antal indlæg at vise med uddrag"
+
+# @ mgraphene
+#: admin/options-general.php:52
+msgid "Posts by category listing options"
+msgstr "Indlæg efter kategori liste muligheder"
+
+# @ mgraphene
+#: admin/options-general.php:56
+msgid "Display recent posts by category"
+msgstr "Vis seneste indlæg efter kategori"
+
+# @ mgraphene
+#: admin/options-general.php:60
+msgid "Disabled"
+msgstr "Deaktiveret"
+
+# @ mgraphene
+#: admin/options-general.php:61
+msgid "Show all categories"
+msgstr "Vis alle kategorier"
+
+# @ mgraphene
+#: admin/options-general.php:62
+msgid "Show selected categories"
+msgstr "Vis valgte kategorier"
+
+# @ mgraphene
+#: admin/options-general.php:68
+msgid "Categories to show in front page"
+msgstr "Kategorier til at vise i forside"
+
+# @ mgraphene
+#: admin/options-general.php:71
+msgid ""
+"This setting is only applicable if \"Show selected categories\" is selected "
+"above."
+msgstr ""
+"Denne indstilling gælder kun, hvis \"Vis valgte kategorier\" er valgt "
+"ovenfor."
+
+# @ mgraphene
+#: admin/options-general.php:88
+msgid "Number of posts to show per category"
+msgstr "Antal indlæg der vises pr kategori"
+
+# @ mgraphene
+#: admin/options-general.php:105
+msgid "Comments Options"
+msgstr "Kommentarer Optioner"
+
+# @ mgraphene
+#: admin/options-general.php:111
+msgid "Commenting"
+msgstr "Kommentar"
+
+# @ mgraphene
+#: admin/options-general.php:115
+msgid "Use WordPress settings"
+msgstr "Brug WordPress-indstillinger"
+
+# @ mgraphene
+#: admin/options-general.php:116
+msgid "Disabled for pages"
+msgstr "Deaktiveret for sider"
+
+# @ mgraphene
+#: admin/options-general.php:117
+msgid "Disabled completely"
+msgstr "Deaktiveret helt"
+
+# @ mgraphene
+#: admin/options-general.php:119
+msgid ""
+"Note: this setting overrides the global WordPress Discussion Setting called "
+"\"Allow people to post comments on new articles\" and also the \"Allow "
+"comments\" option for individual posts/pages."
+msgstr ""
+"Bemærk: Denne indstilling tilsidesætter den globale WordPress Discussion, "
+"der kaldes \"Tillad folk til at skrive kommentarer på nye artikler\" og også "
+"\"Tillad kommentarer\" mulighed for individuelle indlæg/sider."
+
+# @ mgraphene
+#: admin/options-general.php:133
+msgid "Child Page Options"
+msgstr "Underside indstillinger"
+
+# @ mgraphene
+#: admin/options-general.php:139
+msgid "Hide parent box if content is empty"
+msgstr "Skjul forælder feltet, hvis indhold er tom"
+
+# @ mgraphene
+#: admin/options-general.php:145
+msgid "Child page listings"
+msgstr "Underside lister"
+
+# @ mgraphene
+#: admin/options-general.php:149
+msgid "Show listing"
+msgstr "Vis liste"
+
+# @ mgraphene
+#: admin/options-general.php:150
+msgid "Hide listing"
+msgstr "Skjul liste"
+
+# @ mgraphene
+#: admin/options-general.php:151
+msgid "Only show listing if parent content is empty"
+msgstr "Vis kun listning, hvis forældre indholdet er tomt"
+
+# @ mgraphene
+#: admin/options-general.php:166
+msgid "Google Analytics Options"
+msgstr "Google Analytics Optioner"
+
+# @ mgraphene
+#: admin/options-general.php:169
+msgid ""
+"<strong>Note:</strong> the theme places the Google Analytics script in the "
+"<code>&lt;head&gt;</code> element to support the new asynchronous Google "
+"Analytics script. Please make sure you use the new asynchronous script from "
+"Google Analytics."
+msgstr ""
+"<strong>Bemærk:</strong> temaet placerer Google Analytics-script i <code>&lt;"
+"head&gt;</code> element til at støtte den nye asynkrone Google Analytics-"
+"script. Sørg for at du bruger den nye asynkrone script fra Google Analytics."
+
+# @ mgraphene
+#: admin/options-general.php:172
+msgid "Enable Google Analytics tracking"
+msgstr "Aktiver Google Analytics-sporing"
+
+# @ mgraphene
+#: admin/options-general.php:176
+msgid "Google Analytics tracking code"
+msgstr "Google Analytics-sporingskode"
+
+# @ mgraphene
+#: admin/options-general.php:177
+msgid ""
+"Make sure you include the full tracking code (including the <code>&lt;"
+"script&gt;</code> and <code>&lt;/script&gt;</code> tags) and not just the "
+"<code>UA-#######-#</code> code."
+msgstr ""
+"Sørg for at medtage den fulde sporingskoden (herunder <code>&lt;script&gt;</"
+"code> og <code>&lt;/script&gt;</code> tags), og ikke kun de <code>UA-#######-"
+"#</code> kode."
+
+# @ mgraphene
+#: admin/options-general.php:192
+msgid "Footer Options"
+msgstr "Sidefod Optioner"
+
+# @ mgraphene
+#: admin/options-general.php:197
+msgid "Copyright text (html allowed)"
+msgstr "Copyright tekst (HTML tilladt)"
+
+# @ mgraphene
+#: admin/options-general.php:198
+msgid ""
+"If this field is empty, the following default copyright text will be "
+"displayed:"
+msgstr ""
+"Hvis dette felt er tomt, vil følgende standard copyright-tekst blive vist:"
+
+# @ mgraphene
+#: admin/options-general.php:207
+msgid "Do not show copyright info"
+msgstr "Vis ikke copyright info"
+
+# @ mgraphene
+#: admin/options-general.php:211
+msgid "Do not show the \"Return to top\" link"
+msgstr "Vis ikke \"Tilbage til toppen\" link"
+
+# @ mgraphene
+#: admin/options-general.php:225
+msgid "Miscellaneous General Options"
+msgstr "Diverse Generelle indstillinger"
+
+# @ mgraphene
+#: admin/options-general.php:231
+msgid "Allow device to zoom in"
+msgstr "Tillad enheden at zoome ind"
+
+# @ mgraphene
+#: admin/options-init.php:23
+msgid "Graphene Mobile"
+msgstr "Graphene Mobil"
+
+# @ graphene
+#: admin/options-init.php:124
+msgid "Toggle all tabs"
+msgstr ""
+
+# @ mgraphene
+#: admin/options-presets.php:17
+msgid "Settings have been reset."
+msgstr "Indstillinger er blevet nulstillet."
+
+# @ mgraphene
+#: admin/options-presets.php:31
+msgid "Relevant settings from the Graphene Options has been applied."
+msgstr "Relevante indstillinger fra Graphene indstillinger er blevet anvendt."
+
+# @ mgraphene
+#: admin/options-presets.php:38
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "FEJL: Du er ikke autoriseret til at udføre denne operation"
+
+# @ mgraphene
+#: admin/options.php:35
+msgid "Graphene Mobile Theme Options"
+msgstr "Graphene Mobile Theme Optioner"
+
+# @ mgraphene
+#: admin/options.php:44
+msgid "General"
+msgstr "Generelt"
+
+# @ mgraphene
+#: admin/options.php:45
+msgid "Display"
+msgstr "Skærm"
+
+# @ mgraphene
+#: admin/options.php:46
+msgid "Colours"
+msgstr ""
+
+#: admin/options.php:47
+msgid "Advanced"
+msgstr "Avanceret"
+
+# @ mgraphene
+#: admin/options.php:67
+msgid "Save Options"
+msgstr "Gem indstillinger"
+
+# @ mgraphene
+#: admin/options.php:82
+msgid "Options Presets"
+msgstr "Optioner Forudindstillinger"
+
+# @ mgraphene
+#: admin/options.php:85
+msgid ""
+"Note that you can still configure the individual settings after you apply "
+"any preset."
+msgstr ""
+"Bemærk, at du stadig kan konfigurere de individuelle indstillinger, når du "
+"anvender nogen forudindstilling."
+
+# @ mgraphene
+#: admin/options.php:90
+msgid "Select Options Preset"
+msgstr "Vælg Valg Preset"
+
+# @ mgraphene
+#: admin/options.php:96
+msgid "Copy relevant Graphene settings"
+msgstr "Kopier relevante Graphene indstillinger"
+
+# @ mgraphene
+#: admin/options.php:99
+msgid "Reset to default settings"
+msgstr "Nulstil til standardindstillinger"
+
+# @ mgraphene
+#: admin/options.php:104
+msgid "Apply Options Preset"
+msgstr "Anvend indstillinger Preset"
+
+# @ mgraphene
+#: admin/validator.php:38
+msgid "ERROR: Invalid option for the comments option."
+msgstr "FEJL: Ugyldigt mulighed for kommentarer mulighed."
+
+# @ mgraphene
+#: admin/validator.php:43
+msgid "ERROR: Invalid option for the child page listings."
+msgstr "FEJL: Ugyldigt mulighed for den underordnede side programoversigter."
+
+# @ mgraphene
+#: admin/validator.php:90
+msgid "ERROR: Bad URL entered for the background image."
+msgstr "FEJL: Bad URL ind for baggrundsbilledet."
+
+# @ mgraphene
+#: admin/validator.php:91
+msgid "ERROR: Invalid option for the background position."
+msgstr "FEJL: Ugyldigt mulighed for baggrunden position."
+
+# @ mgraphene
+#: admin/validator.php:92
+msgid "ERROR: Invalid option for the background repeat."
+msgstr "FEJL: Ugyldigt mulighed for baggrunden gentage."
+
+# @ mgraphene
+#: admin/validator.php:93
+msgid "ERROR: Invalid option for the background attachment."
+msgstr "FEJL: Ugyldigt mulighed for baggrunden vedhæftede fil."
+
+# @ mgraphene
+#: admin/validator.php:100
+msgid "ERROR: Bad URL entered for the favicon URL."
+msgstr "FEJL: Forkert URL indtastet for favicon URL."
+
+# @ mgraphene
+#: admin/validator.php:120
+msgid "ERROR: Invalid action hook selected widget action hooks."
+msgstr "FEJL: Ugyldig action hook valgt til Widget action hooks."
+
+# @ mgraphene
+#: includes/theme-comments.php:41
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d Kommentar"
+msgstr[1] "%d Kommentarer"
+
+# @ mgraphene
+#: includes/theme-comments.php:42
+#, php-format
+msgid "%d ping"
+msgid_plural "%d pings"
+msgstr[0] "%d Ping"
+msgstr[1] "%d Pings"
+
+#: includes/theme-comments.php:43
+#, php-format
+msgid "%d trackback"
+msgid_plural "%d trackbacks"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mgraphene
+#: includes/theme-comments.php:44
+#, php-format
+msgid "%d pingback"
+msgid_plural "%d pingbacks"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mgraphene
+#: includes/theme-comments.php:100
+msgid "says:"
+msgstr "siger:"
+
+# @ mgraphene
+#. translators: %1$s will be replaced by the date, and %2$s will be replaced by the time. Example: 27 June 2011 at 2.03pm
+#: includes/theme-comments.php:102
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s til %2$s"
+
+# @ mgraphene
+#: includes/theme-comments.php:112
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar afventer moderation."
+
+# @ mgraphene
+#: includes/theme-loops.php:105
+msgid ""
+"<strong>ERROR: You must supply the post ID to get the image from as an "
+"argument when calling the mgraphene_get_post_image() function.</strong>"
+msgstr ""
+"<strong>FEJL: Du skal levere den post-id for at få billedet fra som et "
+"argument, når du ringer til mgraphene_get_post_image () funktion.</strong>"
+
+#: includes/theme-menus-dropdown.php:25 includes/theme-menus.php:16
+msgid "Browse"
+msgstr ""
+
+# @ mgraphene
+#: includes/theme-menus.php:17 includes/theme-menus.php:33
+msgid "Home"
+msgstr "Hjem"
+
+# @ mgraphene
+#: includes/theme-setup.php:30
+msgid "Graphene Mobile Header Menu"
+msgstr "Graphene Mobile Header Menu"
+
+# @ mgraphene
+#: includes/theme-setup.php:31
+msgid "Graphene Mobile Footer Menu"
+msgstr "Graphene Mobile Footer Menu"
+
+# @ mgraphene
+#: includes/theme-setup.php:50
+msgid "Graphene Mobile Header"
+msgstr "Graphene Mobile Header"
+
+# @ graphene
+#: includes/theme-setup.php:52
+msgid ""
+"This widget area will be displayed before the content, but after the header "
+"and navigation."
+msgstr ""
+
+# @ mgraphene
+#: includes/theme-setup.php:59
+msgid "Graphene Mobile Footer"
+msgstr "Graphene Mobile sidefod"
+
+# @ graphene
+#: includes/theme-setup.php:61
+msgid ""
+"This widget area will be displayed after the content, but before the footer."
+msgstr ""
+
+#: includes/theme-setup.php:77
+#, php-format
+msgid ""
+"Dynamically added widget area. This widget area is attached to the %s action "
+"hook."
+msgstr ""
+"Dynamisk tilføjet Widget-området. Dette Widget område er knyttet til %s "
+"action hook."
+
+# @ default
+#: includes/update.php:78
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+# @ default
+#: includes/update.php:83
+msgid "An unknown error occurred"
+msgstr ""
+
+# @ mgraphene
+#, fuzzy
+#~ msgid "1 comment"
+#~ msgstr "% Kommentar"
+
+# @ mgraphene
+#, fuzzy
+#~ msgid "1 ping"
+#~ msgstr "% Ping"

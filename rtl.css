@@ -1,0 +1,151 @@
+
+/* =Header
+-------------------------------------------------------------- */
+
+#top-search {
+	background: url(images/sprite-master-rtl.png) left -542px no-repeat #fff;	
+}
+#top-search .search-input {
+	margin: 7px 5px 0 0;
+}
+#top-search .search-submit {
+	float: left;
+}
+
+
+/* =Navigation
+-------------------------------------------------------------- */
+
+#header-menu li {
+	float: right;
+	margin-left: 0;
+	margin-right: 2px;
+}
+
+
+/* =Content
+-------------------------------------------------------------- */
+
+.entry-thumbnail {
+	float: right;
+	margin-right: 0;
+	margin-left: 0.5em;
+}
+.entry-footer {
+	background: url(images/sprite-master-rtl.png) left -584px no-repeat #e2e2e2;
+}
+.entry-footer .comment-link {
+	float: right;
+	margin-left: 0;
+	margin-right: 15px;
+}
+.entry-footer .read-more {
+	float: left;
+}
+.comment-link .pingback-count {
+	margin-left: 0;
+	margin-right: 5px;
+}
+.entry-nav .prev,
+.entry-nav .next {
+	float: right;
+}
+.entry-nav .next {
+	float: left;
+	text-align: left;
+}
+.posts-nav .prev a {
+	margin-left: 0;
+	margin-right: 10px;
+}
+.posts-nav .next a {
+	margin-right: 0;
+	margin-left: 10px;
+}
+.entry ul,
+.entry ol {
+	margin-left: 0;
+	margin-right: 2em;
+}
+.entry li ul,
+.entry li ol {
+	margin-left: 0;
+	margin-right: 1em;
+}
+
+
+/* =Comments
+-------------------------------------------------------------- */
+
+.comments-wrap-header h3,
+.comments-wrap h3.add-comment {
+	float: right;
+}
+.comments-wrap h3.add-comment {
+	float: none;	
+}
+.comments-wrap-header .pings-count {
+	border-left: none;
+	border-right: 1px solid #053255;
+	float: left;
+}
+.comments-list li {
+	padding-left: 0;
+	padding-right: 35px;
+}
+.comments-list .avatar {
+	left: auto;
+	right: 0;
+}
+.comments-list .comment-author {
+	float: right;
+}
+.comments-list .comment-date {
+	float: left;
+}
+.comments-list.pings li {
+	padding-left: auto;
+	padding-right: 0;
+}
+
+
+/* =Archive pages
+-------------------------------------------------------------- */
+
+.archive .entry-footer .comment-count {
+	float: right;
+}
+.archive .entry-footer .view-link {
+	float: left;
+	margin-right: 0;
+	margin-left: 15px;
+}
+
+
+/* =Shortcode blocks
+-------------------------------------------------------------- */
+
+.warning_block,
+.warning_block p,
+.error_block,
+.error_block p {
+	padding: 10px 50px 10px 15px;
+    background: #FCC url(images/shortcodes/warning.png) no-repeat 95% 7px;
+}
+.notice_block,
+.notice_block p {
+    background: #FDEBAE url(images/shortcodes/notice.png) no-repeat 95% 7px;
+}
+.important_block,
+.important_block p {
+    background: #DEE3AB url(images/shortcodes/important.png) no-repeat scroll 95% 7px;
+}
+
+
+/* =Footer
+-------------------------------------------------------------- */
+
+#footer-menu li {
+	margin-left: 0;
+	margin-right: 10px;
+}

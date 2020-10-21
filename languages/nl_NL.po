@@ -1,0 +1,1220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graphene Mobile theme for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-17 13:04+0800\n"
+"PO-Revision-Date: 2013-01-17 13:13+0800\n"
+"Last-Translator: Syahir Hakim <syahir@khairul-syahir.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: D:\\MyVault\\MyProjects\\Websites\\theme-graphene-mobile"
+"\\site\\wp-content\\themes\\graphene-mobile\\\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:22 search.php:13
+msgid "Error 404 - Not Found"
+msgstr "Error 404 - Pagina niet gevonden"
+
+#: 404.php:30 search.php:26
+msgid ""
+"Sorry, I've looked everywhere but I can't find the content you're looking "
+"for."
+msgstr ""
+"Sorry, ik heb overal gezocht maar ik kan de pagina die u zoekt niet vinden."
+
+#: 404.php:31 search.php:27
+msgid ""
+"If you follow the link from another website, I may have removed or renamed "
+"the page some time ago."
+msgstr ""
+"Als u bent doorgelinkt vanuit een andere website kan het zijn dat de pagina "
+"enige tijd geleden hernoemd of verwijderd is."
+
+#: 404.php:32
+msgid ""
+"I am now performing an automated search for you based on the URL you "
+"entered. Please wait a moment ..."
+msgstr ""
+"Ik zoek nu automatisch naar aanleiding van de URL die u heeft ingevoerd. Een "
+"moment geduld alstublieft ..."
+
+#: 404.php:43
+msgid "Automated search"
+msgstr "Automatische zoekopdracht."
+
+#: 404.php:53
+#, php-format
+msgid "Searching for the terms <strong>%s</strong> ..."
+msgstr "Zoeken naar de termen <strong>%s</strong> ..."
+
+#: archive.php:6
+msgid "Archive for:"
+msgstr "Gearchiveerd voor:"
+
+#: comments.php:12 comments.php:55 home.php:48 home.php:80 loop-archive.php:27
+msgid "No comment yet"
+msgstr "Nog geen reacties"
+
+#: comments.php:13 comments.php:41 home.php:49
+msgid "No ping yet"
+msgstr "Nog geen ping"
+
+#: comments.php:36
+msgid "Leave a reply"
+msgstr "Laat een reactie achter"
+
+#. translators: %d will be replaced by the current year, %s will be replaced by the site title, &copy; will be replaced by the copyright symbol
+#: footer.php:31 admin/options-colours.php:88 admin/options-general.php:201
+#, php-format
+msgid "Copyright &copy; %d %s"
+msgstr "Copyright &copy; %d %s"
+
+#. #-#-#-#-#  0extracted.pot (PACKAGE VERSION)  #-#-#-#-#
+#. translators: %s will be replaced by the link to WordPress.org and Graphene Mobile page
+#: footer.php:45 admin/options-colours.php:93
+#, php-format
+msgid "Powered by %s"
+msgstr "Aangedreven door %s"
+
+#: footer.php:47
+msgid "Return to top"
+msgstr "Terug naar boven"
+
+#: footer.php:60
+msgid "Switch to desktop version"
+msgstr "Schakel naar PC versie"
+
+#. #-#-#-#-#  0extracted.pot (PACKAGE VERSION)  #-#-#-#-#
+#. translators: %1$s will be replaced by the post date, %2$s will be replaced by the post author's name
+#: home.php:23 home.php:78 loop-single.php:16 loop.php:16
+#: admin/options-colours.php:140 admin/options-colours.php:252
+#: admin/options-colours.php:255 includes/theme-functions.php:87
+#, php-format
+msgid "%1$s by %2$s"
+msgstr "%1$s door %2$s"
+
+#: home.php:52
+msgid "Read more"
+msgstr "Lees verder"
+
+#: home.php:67
+msgid "Recent posts"
+msgstr "Recente berichten"
+
+#: loop-archive.php:34
+#, php-format
+msgid "View %s"
+msgstr "Bekijk %s"
+
+#: loop-children.php:23
+msgid "In this section"
+msgstr "In dit gedeelte"
+
+#: loop-single.php:31 loop.php:31
+msgid "Categories: "
+msgstr "Categoriën:"
+
+#: loop-single.php:82 loop.php:82
+msgid "Tags: "
+msgstr "Tags:"
+
+#: not-found.php:11 not-found.php:47
+msgid "Not Found"
+msgstr "Niet gevonden"
+
+#: not-found.php:26 not-found.php:54
+msgid ""
+"Sorry, I've searched everywhere but the content you're looking for could not "
+"be found."
+msgstr ""
+"Sorry, ik heb overal gezocht maar ik kan de pagina die u zoekt niet vinden."
+
+#: not-found.php:27 not-found.php:55
+msgid "Try a search?"
+msgstr "Wilt u een zoekopdracht proberen?"
+
+#: search.php:49
+msgid "Search results:"
+msgstr "Resultaten van uw zoekopdracht:"
+
+#: searchform.php:7
+msgid "Search"
+msgstr "Zoeken"
+
+#: admin/ajax-handler.php:9
+msgid ""
+"Sorry, but you don't have the necessary permission to modify theme options."
+msgstr ""
+"Sorry, maar U beschikt niet over voldoende rechten om thema instellingen te "
+"wijzigen."
+
+#: admin/ajax-handler.php:20
+msgid "Options saved."
+msgstr "Instellingen opgeslagen."
+
+#: admin/options-advanced.php:12
+msgid "Custom <head> Tags"
+msgstr "Aangepaste <head> elementen"
+
+#: admin/options-advanced.php:17
+msgid "Code to insert into the <head> element"
+msgstr "Code die toegevoegd wordt aan het <head> element"
+
+#: admin/options-advanced.php:22 admin/options-advanced.php:58
+#: admin/options-colours.php:65 admin/options-colours.php:121
+#: admin/options-colours.php:230 admin/options-colours.php:293
+#: admin/options-colours.php:360 admin/options-display.php:30
+#: admin/options-display.php:59 admin/options-display.php:105
+#: admin/options-display.php:136 admin/options-display.php:222
+#: admin/options-display.php:271 admin/options-display.php:293
+#: admin/options-general.php:29 admin/options-general.php:96
+#: admin/options-general.php:124 admin/options-general.php:157
+#: admin/options-general.php:183 admin/options-general.php:216
+#: admin/options-general.php:237
+msgid "Save All Options"
+msgstr "Alle instellingen opslaan"
+
+#: admin/options-advanced.php:31
+msgid "Action Hooks Widget Areas"
+msgstr "Action hooks widget gebieden"
+
+#: admin/options-advanced.php:34
+msgid ""
+"This option enables you to place virtually any content to every nook and "
+"cranny in the theme, by attaching widget areas to the theme's action hooks."
+msgstr ""
+"Met deze instelling wordt het mogelijk om vrijwel op elke plek in het theme "
+"content toe te voegen, dit kan door de widget gebieden te koppelen aan de "
+"action hooks van het thema."
+
+#: admin/options-advanced.php:35
+msgid ""
+"All action hooks available in the Graphene Mobile Theme are listed below. "
+"Click on the filename to display all the action hooks available in that "
+"file. Then, tick the checkbox next to an action hook to make a widget area "
+"available for that action hook."
+msgstr ""
+
+#: admin/options-advanced.php:44
+msgid "Click to show/hide the action hooks for this file"
+msgstr "Klik om de action hooks voor dit bestand te tonen/verbergen"
+
+#: admin/options-advanced.php:57
+msgid "Rescan action hooks"
+msgstr "Opnieuw zoeken naar action hooks"
+
+#: admin/options-colours.php:6
+msgid ""
+"<strong>Note:</strong> To reset any of the colours to their default value, "
+"just click on \"Clear\" beside the colour field and save the settings. The "
+"theme will automatically revert the value to the default colour."
+msgstr ""
+"<strong>Let op:</strong> Om een van de kleuren te resetten naar standaard , "
+"klik op \"Wissen\" naast het kleuren selectie vak en sla de wijzigingen op. "
+"Het thema gaat automatisch terug naar de standaard kleur."
+
+#: admin/options-colours.php:11
+msgid "Header and navigation"
+msgstr "Header en navigatie"
+
+#: admin/options-colours.php:17 admin/options-colours.php:78
+#: admin/options-colours.php:243 admin/options-colours.php:306
+#: admin/options-display.php:150
+msgid "Preview"
+msgstr "Preview"
+
+#: admin/options-colours.php:20
+msgid "Site title"
+msgstr "Website titel opties"
+
+#: admin/options-colours.php:20
+msgid "Site description"
+msgstr "Alternatieve omschrijving voor uw website"
+
+#: admin/options-colours.php:24
+msgid "Current menu item"
+msgstr "Huidig menu item"
+
+#: admin/options-colours.php:25 admin/options-colours.php:26
+#: admin/options-colours.php:84 admin/options-colours.php:85
+msgid "Menu item"
+msgstr "Menu item"
+
+#: admin/options-colours.php:40
+msgid "Header background (top)"
+msgstr "Header achtergrond (boven)"
+
+#: admin/options-colours.php:41
+msgid "Header background (bottom)"
+msgstr "Header achtergrond (onder)"
+
+#: admin/options-colours.php:42
+msgid "Site title text"
+msgstr "Website titel opties tekst"
+
+#: admin/options-colours.php:43
+msgid "Site description text"
+msgstr "Alternatieve omschrijving voor uw website tekst"
+
+#: admin/options-colours.php:44
+msgid "Navigation menu background"
+msgstr "Navigatie menu achtergrond"
+
+#: admin/options-colours.php:45
+msgid "Current menu item background"
+msgstr "Huidig menu-item achtergrond"
+
+#: admin/options-colours.php:46
+msgid "Menu item text"
+msgstr "Menu item tekst"
+
+#: admin/options-colours.php:47
+msgid "Current menu item text"
+msgstr "Huidige menu-item tekst"
+
+#: admin/options-colours.php:57 admin/options-colours.php:113
+#: admin/options-colours.php:175 admin/options-colours.php:223
+#: admin/options-colours.php:285 admin/options-colours.php:352
+#: admin/options-display.php:216
+msgid "Clear"
+msgstr "Wissen"
+
+#: admin/options-colours.php:72
+msgid "Footer"
+msgstr "Voettekst instellingen"
+
+#: admin/options-colours.php:100
+msgid "Copyright background"
+msgstr "Copyright achtergrond"
+
+#: admin/options-colours.php:101
+msgid "Copyright text"
+msgstr "Copyright tekst"
+
+#: admin/options-colours.php:102
+msgid "Footer menu text"
+msgstr "Voet menu tekst"
+
+#: admin/options-colours.php:103
+msgid "Credit background"
+msgstr "Credit achtergrond"
+
+#: admin/options-colours.php:104
+msgid "Credit text"
+msgstr "Credit tekst"
+
+#: admin/options-colours.php:105
+msgid "Credit link text"
+msgstr "Credit link tekst"
+
+#: admin/options-colours.php:128
+msgid "Content section"
+msgstr "Inhoud sectie"
+
+#: admin/options-colours.php:134
+msgid "Preview (top half)"
+msgstr "Preview (bovenste helft)"
+
+#: admin/options-colours.php:139
+msgid "Layout Test"
+msgstr "Layout Test"
+
+#: admin/options-colours.php:140 admin/options-colours.php:252
+#: admin/options-colours.php:255
+msgid "the author"
+msgstr "de auteur"
+
+#: admin/options-colours.php:144
+msgid "Categories:"
+msgstr "Categoriën:"
+
+#: admin/options-colours.php:144
+msgid "Category 1"
+msgstr "Categorie 1"
+
+#: admin/options-colours.php:144
+msgid "Category 2"
+msgstr "Categorie 2"
+
+#: admin/options-colours.php:144
+msgid "Category 3"
+msgstr "Categorie 3"
+
+#: admin/options-colours.php:158
+msgid "Title background"
+msgstr "Titel achtergrond"
+
+#: admin/options-colours.php:159 admin/options-colours.php:271
+msgid "Title text"
+msgstr "Titel tekst"
+
+#: admin/options-colours.php:160 admin/options-colours.php:340
+msgid "Meta text"
+msgstr "Meta tekst"
+
+#: admin/options-colours.php:161
+msgid "Categories background"
+msgstr "Categorie achtergrond"
+
+#: admin/options-colours.php:162
+msgid "Categories text"
+msgstr "Categorie tekst"
+
+#: admin/options-colours.php:163
+msgid "Category items background"
+msgstr "Categorieën achtergrond"
+
+#: admin/options-colours.php:164
+msgid "Category items text"
+msgstr "Categorie artikelen tekst"
+
+#: admin/options-colours.php:165 admin/options-colours.php:272
+#: admin/options-colours.php:341
+msgid "Content background"
+msgstr "Inhoud achtergrond"
+
+#: admin/options-colours.php:166 admin/options-colours.php:273
+#: admin/options-colours.php:342
+msgid "Content text"
+msgstr "Inhoud tekst"
+
+#: admin/options-colours.php:167 admin/options-colours.php:274
+#: admin/options-colours.php:343
+msgid "Content link"
+msgstr "Inhoud link"
+
+#: admin/options-colours.php:182
+msgid "Preview (bottom half)"
+msgstr "Preview (onderste helft)"
+
+#: admin/options-colours.php:187
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: admin/options-colours.php:192
+msgid "Tags:"
+msgstr "Tags:"
+
+#: admin/options-colours.php:192
+msgid "Tag 1"
+msgstr "Tag 1"
+
+#: admin/options-colours.php:192
+msgid "Tag 2"
+msgstr "Tag 2"
+
+#: admin/options-colours.php:192
+msgid "Tag 3"
+msgstr "Tag 3"
+
+#: admin/options-colours.php:196 includes/theme-loops.php:30
+msgid "Previous Post"
+msgstr "Vorig Bericht"
+
+#: admin/options-colours.php:196 admin/options-colours.php:197
+msgid "Post title"
+msgstr "Bericht titel"
+
+#: admin/options-colours.php:197 includes/theme-loops.php:36
+msgid "Next Post"
+msgstr "Volgend Bericht"
+
+#: admin/options-colours.php:205
+msgid "Pagination background"
+msgstr "Paginatie achtergrond"
+
+#: admin/options-colours.php:206
+msgid "Pagination text"
+msgstr "Paginatie tekst"
+
+#: admin/options-colours.php:207
+msgid "Pagination link"
+msgstr "Paginatie link"
+
+#: admin/options-colours.php:208
+msgid "Tags background"
+msgstr "Tags achtergrond"
+
+#: admin/options-colours.php:209
+msgid "Tags text"
+msgstr "Tags tekst"
+
+#: admin/options-colours.php:210
+msgid "Tag items background"
+msgstr "Tags tekst achtergrond"
+
+#: admin/options-colours.php:211
+msgid "Tag items text"
+msgstr "Tags tekst"
+
+#: admin/options-colours.php:212
+msgid "Posts navigation background"
+msgstr "Berichten navigatie achtergrond"
+
+#: admin/options-colours.php:213
+msgid "Posts navigation background (next)"
+msgstr "Berichten navigatie achtergrond (volgende)"
+
+#: admin/options-colours.php:214
+msgid "Posts navigation text"
+msgstr "Berichten navigatie tekst"
+
+#: admin/options-colours.php:215
+msgid "Posts navigation link"
+msgstr "Berichten navigatie link"
+
+#: admin/options-colours.php:237
+msgid "Other sections"
+msgstr "Andere secties"
+
+#: admin/options-colours.php:247
+msgid "Section title"
+msgstr "Sectie titel"
+
+#: admin/options-colours.php:252 admin/options-colours.php:255
+msgid "Leave a comment"
+msgstr "Laat een reactie achter"
+
+#: admin/options-colours.php:262 includes/theme-loops.php:57
+msgid "Previous Page"
+msgstr "Vorige Pagina"
+
+#: admin/options-colours.php:263 includes/theme-loops.php:58
+msgid "Next Page"
+msgstr "Volgende Pagina"
+
+#: admin/options-colours.php:269
+msgid "Title background (top)"
+msgstr "Titel achtergrond (boven)"
+
+#: admin/options-colours.php:270
+msgid "Title background (bottom)"
+msgstr "Titel achtergrond (onder)"
+
+#: admin/options-colours.php:275 admin/options-colours.php:344
+msgid "Content list border"
+msgstr "Rand inhoud lijst"
+
+#: admin/options-colours.php:276
+msgid "Navigation background"
+msgstr "Navigatie achtergrond"
+
+#: admin/options-colours.php:277
+msgid "Navigation text"
+msgstr "Navigatie tekst"
+
+#: admin/options-colours.php:300
+msgid "Comments section"
+msgstr "Reacties sectie"
+
+#: admin/options-colours.php:334
+msgid "Heading background (top)"
+msgstr "Header achtergrond (boven)"
+
+#: admin/options-colours.php:335
+msgid "Heading background (bottom)"
+msgstr "Header achtergrond (onder)"
+
+#: admin/options-colours.php:336
+msgid "Heading divider"
+msgstr "Header scheiding"
+
+#: admin/options-colours.php:337
+msgid "Heading text"
+msgstr "Header tekst"
+
+#: admin/options-colours.php:338
+msgid "Reply background"
+msgstr "Herhaal achtergrond"
+
+#: admin/options-colours.php:339
+msgid "Reply text"
+msgstr "Beantwoord tekst"
+
+#: admin/options-display.php:10
+msgid "Header Options"
+msgstr "Header opties:"
+
+#: admin/options-display.php:13
+msgid "Alternate site title and description"
+msgstr "Alternatieve titel en beschrijving van de website"
+
+#: admin/options-display.php:14
+msgid ""
+"Short site title and description work best for display on a mobile device. "
+"If your site has a long site title and description (anything that spans more "
+"than a single line when displayed on a mobile device), you can use this "
+"option to specify an alternate site title and description for display in the "
+"header."
+msgstr ""
+"Een korte titel en omschrijving werken het beste voor mobiele apparaten. Als "
+"uw website een lange titel en omschrijving heeft (alles wat langer is dan 1 "
+"regel op een mobiel apparaat), dan kunt u de deze optie gebruiken om een "
+"alternatieve titel en omschrijving te specificeren voor de weergave in uw "
+"header."
+
+#: admin/options-display.php:17
+msgid "Alternate site title"
+msgstr "Alternatieve titel voor uw website"
+
+#: admin/options-display.php:23
+msgid "Alternate site description"
+msgstr "Alternatieve omschrijving voor uw website"
+
+#: admin/options-display.php:39
+msgid "Navigation Menu Options"
+msgstr ""
+
+#: admin/options-display.php:42
+msgid "<select> element for menu"
+msgstr ""
+
+#: admin/options-display.php:43
+msgid ""
+"Using <select> element for menu allows you to have any number of menu items "
+"without crowding the layout."
+msgstr ""
+
+#: admin/options-display.php:46
+msgid "Enable for Header Menu"
+msgstr ""
+
+#: admin/options-display.php:52
+msgid "Enable for Footer Menu"
+msgstr ""
+
+#: admin/options-display.php:68
+msgid "Posts Display Options"
+msgstr "Opties voor de weergave van berichten"
+
+#: admin/options-display.php:74
+msgid "Hide post author and date"
+msgstr "Verberg de bericht auteur en datum"
+
+#: admin/options-display.php:80
+msgid "Hide post categories"
+msgstr "Verberg de bericht categoriën"
+
+#: admin/options-display.php:86
+msgid "Hide post tags"
+msgstr "Verberg de bericht tags"
+
+#: admin/options-display.php:92
+msgid "Hide post comment count"
+msgstr "Verberg het aantal reactie's bij een bericht"
+
+#: admin/options-display.php:93
+msgid ""
+"Only affects posts listing (such as search and archive pages) and not single "
+"post view."
+msgstr ""
+"Alleen van invloed op bericht lijsten (zoals zoek en archiveer pagina's) en "
+"niet bij de weergave van enkele berichten."
+
+#: admin/options-display.php:99
+msgid "Hide automatic image at the top of posts"
+msgstr "Verberg de automatische afbeelding bovenin het bericht"
+
+#: admin/options-display.php:114
+msgid "Excerpts Display Options"
+msgstr "Samenvatting weergave instellingen"
+
+#: admin/options-display.php:120
+msgid "Show full content in archive pages"
+msgstr "Gehele inhoud in archief pagina's tonen"
+
+#: admin/options-display.php:124
+msgid ""
+"Note: Archive pages include the archive for category, tags, time, and search "
+"results pages. Enabling this option will cause the full content of posts and "
+"pages listed in those archives to displayed instead of the excerpt, and "
+"truncated by the Read More tag if used."
+msgstr ""
+"Opmerking: Onder archief pagina's vallen: archief voor categori&euml;n, "
+"tags, tijd en zoek resultaten pagina's. Door het inschakelen van deze "
+"functionaliteit wordt de volledige inhoud van deze archief pagina's getoond "
+"in plaats van de samenvatting en de 'Lees meer' link (als deze wordt "
+"gebruikt)."
+
+#: admin/options-display.php:128
+msgid "Retain these HTML tags in excerpts"
+msgstr "Behoud deze HTML tags in samenvattingen"
+
+#: admin/options-display.php:131
+msgid ""
+"Enter the HTML tags you'd like to retain in excerpts. For example, enter "
+"<code>&lt;p&gt;&lt;ul&gt;&lt;li&gt;</code> to retain <code>&lt;p&gt;</code>, "
+"<code>&lt;ul&gt;</code>, and <code>&lt;li&gt;</code> HTML tags."
+msgstr ""
+"Voer de HTML tags in die je wilt behouden in de samenvatting. Bijvoorbeeld:  "
+"<code>&lt;p&gt;&lt;ul&gt;&lt;li&gt;</code> om de HTML tags <code>&lt;p&gt;</"
+"code>, <code>&lt;ul&gt;</code>, en <code>&lt;li&gt;</code> te behouden."
+
+#: admin/options-display.php:145
+msgid "Custom Background Options"
+msgstr "Achtergrond Opties"
+
+#: admin/options-display.php:155
+msgid "Background image URL"
+msgstr "Achtergrond afbeeldings URL"
+
+#: admin/options-display.php:160
+msgid ""
+"Hint: You can use the <a href=\"media-new.php\">Media Library</a> to upload "
+"an image to be used here."
+msgstr ""
+"Tip: U kunt de <a href=\"media-new.php\">Media Bibliotheek</a> gebruiken om "
+"een afbeelding te uploaden om hier te gebruiken."
+
+#: admin/options-display.php:161
+msgid ""
+"If you do not wish the background to be repeated, use an image at least as "
+"wide as 640 pixels (Apple's retina display)"
+msgstr ""
+"Als u niet de achtergrond wilt herhalen, dient u gebruik te maken van een "
+"afbeelding van ten minste even breed als 640 pixels (Apple's Retina Display)"
+
+#: admin/options-display.php:167
+msgid "Position"
+msgstr "Positie"
+
+#: admin/options-display.php:171
+msgid "Left"
+msgstr "Links"
+
+#: admin/options-display.php:174
+msgid "Center"
+msgstr "Centreren"
+
+#: admin/options-display.php:177
+msgid "Right"
+msgstr "Rechts"
+
+#: admin/options-display.php:182
+msgid "Repeat"
+msgstr "Herhalen"
+
+#: admin/options-display.php:186
+msgid "No Repeat"
+msgstr "Niet herhalen"
+
+#: admin/options-display.php:189
+msgid "Tile"
+msgstr "Herhalen"
+
+#: admin/options-display.php:192
+msgid "Tile Horizontally"
+msgstr "Naast elkaar"
+
+#: admin/options-display.php:195
+msgid "Tile Vertically"
+msgstr "Onder elkaar"
+
+#: admin/options-display.php:201
+msgid "Attachment"
+msgstr "Bijlage"
+
+#: admin/options-display.php:205
+msgid "Scroll"
+msgstr "Scroll"
+
+#: admin/options-display.php:208
+msgid "Fixed"
+msgstr "Vast"
+
+#: admin/options-display.php:213
+msgid "Colour"
+msgstr "Kleur"
+
+#: admin/options-display.php:231
+msgid "Miscellaneous Display Options"
+msgstr "Diverse weergave opties"
+
+#: admin/options-display.php:234
+msgid "Site title options"
+msgstr "Website titel opties"
+
+#: admin/options-display.php:235
+msgid ""
+"This option allows you to customise how your site title is displayed in the "
+"browser bar, tabs, and bookmarks."
+msgstr ""
+"Met deze optie kunt u aanpassen hoe de website titel wordt weergegeven in de "
+"browserbalk, tabbladen en bladwijzers."
+
+#: admin/options-display.php:236
+msgid ""
+"Use these tags to customise your own site title structure: <code>#site-name</"
+"code>, <code>#site-desc</code>, <code>#post-title</code>"
+msgstr ""
+"Gebruik deze codes om een aangepaste website titel te maken: <code>#site-"
+"name</code>, <code>#site-desc</code>, <code>#post-title</code>"
+
+#: admin/options-display.php:240
+msgid "Custom front page site title"
+msgstr "Aangepaste titel op de hoofdpagina."
+
+#: admin/options-display.php:244
+#, php-format
+msgid "Defaults to %1$s. The %2$s tag cannot be used here."
+msgstr ""
+"Standaard waarde naar %1$s.  De %2$s code kan hier niet gebruikt worden."
+
+#: admin/options-display.php:249
+msgid "Custom content pages site title"
+msgstr "Aangepaste bericht pagina titel"
+
+#: admin/options-display.php:253
+#, php-format
+msgid "Defaults to %s."
+msgstr "Standaard waarde %s."
+
+#: admin/options-display.php:258
+msgid "Favicon options"
+msgstr "Favicon instellingen"
+
+#: admin/options-display.php:262
+msgid "Favicon URL"
+msgstr "Favicon URL"
+
+#: admin/options-display.php:266
+msgid "Simply enter the full URL to your favicon file here to enable favicon."
+msgstr "Voer simpelweg de URL van uw favicon hier in om het te activeren."
+
+#: admin/options-display.php:280
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: admin/options-display.php:285
+msgid "Custom CSS styles"
+msgstr "Aangepaste CSS Stijlen"
+
+#: admin/options-display.php:287
+msgid ""
+"You can enter your own CSS codes below to modify any other aspects of the "
+"theme's appearance that is not included in the options."
+msgstr ""
+"Hieronder kunt u eigen CSS toevoegen om de weergave van het thema verder aan "
+"te passen dan de instellingen van het thema u toestaan."
+
+#: admin/options-general.php:13
+msgid "API Key"
+msgstr "API Key"
+
+#: admin/options-general.php:16
+msgid "Insert your Graphene Mobile's API key here to enable automatic updates."
+msgstr ""
+"Voer hier uw Graphene Mobile API Key in om automatische updates te activeren."
+
+#: admin/options-general.php:20
+msgid "Graphene Mobile API Key"
+msgstr "Graphene Mobile API Key"
+
+#: admin/options-general.php:24
+#, php-format
+msgid ""
+"If you have lost your API key or have never received it, you can obtain it "
+"from your %s."
+msgstr ""
+
+#: admin/options-general.php:24
+msgid "Account Page"
+msgstr ""
+
+#: admin/options-general.php:38
+msgid "Front Page Options"
+msgstr "Voorpagina opties"
+
+#: admin/options-general.php:44
+msgid "Number of posts to show with excerpt"
+msgstr ""
+
+#: admin/options-general.php:52
+msgid "Posts by category listing options"
+msgstr ""
+
+#: admin/options-general.php:56
+msgid "Display recent posts by category"
+msgstr "Geef recente berichten via categoriën weer"
+
+#: admin/options-general.php:60
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: admin/options-general.php:61
+msgid "Show all categories"
+msgstr "Geef alle categoriën weer"
+
+#: admin/options-general.php:62
+msgid "Show selected categories"
+msgstr "Geef de gekozen categoriën weer"
+
+#: admin/options-general.php:68
+msgid "Categories to show in front page"
+msgstr "Categoriën die weergegeven moeten worden op de voorpagina"
+
+#: admin/options-general.php:71
+msgid ""
+"This setting is only applicable if \"Show selected categories\" is selected "
+"above."
+msgstr ""
+"Deze optie is alleen van toepassing als \"Laat de gekozen categoriën zien\" "
+"is geselecteerd."
+
+#: admin/options-general.php:88
+msgid "Number of posts to show per category"
+msgstr "Aantal berichten om weer te geven per catogorie"
+
+#: admin/options-general.php:105
+msgid "Comments Options"
+msgstr "Opties voor reacties"
+
+#: admin/options-general.php:111
+msgid "Commenting"
+msgstr "Reacties"
+
+#: admin/options-general.php:115
+msgid "Use WordPress settings"
+msgstr "Gebruik WordPress instellingen"
+
+#: admin/options-general.php:116
+msgid "Disabled for pages"
+msgstr "Uitschakelen voor pagina's"
+
+#: admin/options-general.php:117
+msgid "Disabled completely"
+msgstr "Volledig uitgeschakeld"
+
+#: admin/options-general.php:119
+msgid ""
+"Note: this setting overrides the global WordPress Discussion Setting called "
+"\"Allow people to post comments on new articles\" and also the \"Allow "
+"comments\" option for individual posts/pages."
+msgstr ""
+"Opmerking: Deze instelling overschrijft de globale Wordpress Discussie "
+"instellingen genaamd \"Sta mensen toe om te reageren op nieuwe berichten\" "
+"en ook de \"Sta reacties toe\" optie voor individuele berichten/pagina's. "
+
+#: admin/options-general.php:133
+msgid "Child Page Options"
+msgstr "Onderliggende pagina instellingen"
+
+#: admin/options-general.php:139
+msgid "Hide parent box if content is empty"
+msgstr "Verberg het bovenliggende gebied als er geen inhoud is"
+
+#: admin/options-general.php:145
+msgid "Child page listings"
+msgstr "Onderliggende pagina code"
+
+#: admin/options-general.php:149
+msgid "Show listing"
+msgstr "Laat onderliggende code zien"
+
+#: admin/options-general.php:150
+msgid "Hide listing"
+msgstr "Verberg onderliggende code"
+
+#: admin/options-general.php:151
+msgid "Only show listing if parent content is empty"
+msgstr ""
+"Laat alleen de onderliggende code zien als het bovenliggende gebied leeg is"
+
+#: admin/options-general.php:166
+msgid "Google Analytics Options"
+msgstr "Google Analytics opties"
+
+#: admin/options-general.php:169
+msgid ""
+"<strong>Note:</strong> the theme places the Google Analytics script in the "
+"<code>&lt;head&gt;</code> element to support the new asynchronous Google "
+"Analytics script. Please make sure you use the new asynchronous script from "
+"Google Analytics."
+msgstr ""
+"<strong>Opmerking:</strong> het thema plaatst het Google Analytics script in "
+"het <code>&lt;head&gt;</code> element voor betere ondersteuning van het "
+"nieuwe asynchrone Google Analytics script. Let op dat u gebruik maakt van "
+"het nieuwe asynchronous script voor Google Analytics."
+
+#: admin/options-general.php:172
+msgid "Enable Google Analytics tracking"
+msgstr "Google Analytics tracking inschakelen"
+
+#: admin/options-general.php:176
+msgid "Google Analytics tracking code"
+msgstr "Google Analytics tracking code"
+
+#: admin/options-general.php:177
+msgid ""
+"Make sure you include the full tracking code (including the <code>&lt;"
+"script&gt;</code> and <code>&lt;/script&gt;</code> tags) and not just the "
+"<code>UA-#######-#</code> code."
+msgstr ""
+"Zorg ervoor dat u de volledige tracking code gebruikt (inclusief de "
+"<code>&lt;script&gt;</code> en <code>&lt;/script&gt;</code> tags) en niet "
+"alleen de <code>UA-#######-#</code> code."
+
+#: admin/options-general.php:192
+msgid "Footer Options"
+msgstr "Voettekst instellingen"
+
+#: admin/options-general.php:197
+msgid "Copyright text (html allowed)"
+msgstr "Copyright tekst (HTML is toegestaan)"
+
+#: admin/options-general.php:198
+msgid ""
+"If this field is empty, the following default copyright text will be "
+"displayed:"
+msgstr ""
+"Als dit veld leeg is dan wordt de volgende standaard copyright tekst "
+"weergegeven:"
+
+#: admin/options-general.php:207
+msgid "Do not show copyright info"
+msgstr "Copyright informatie niet weergeven"
+
+#: admin/options-general.php:211
+msgid "Do not show the \"Return to top\" link"
+msgstr "Verberg de \"Terug naar boven\" link"
+
+#: admin/options-general.php:225
+msgid "Miscellaneous General Options"
+msgstr "Diversen Algemene opties"
+
+#: admin/options-general.php:231
+msgid "Allow device to zoom in"
+msgstr "Sta inzoomen toe"
+
+#: admin/options-init.php:23
+msgid "Graphene Mobile"
+msgstr "Graphene Mobile"
+
+#: admin/options-init.php:124
+msgid "Toggle all tabs"
+msgstr "Wissel tussen alle tabbladen"
+
+#: admin/options-presets.php:17
+msgid "Settings have been reset."
+msgstr "Uw instellingen zijn gereset."
+
+#: admin/options-presets.php:31
+msgid "Relevant settings from the Graphene Options has been applied."
+msgstr ""
+"De instellingen die van toepassing zijn van de Graphene Opties zijn "
+"toegepast."
+
+#: admin/options-presets.php:38
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "FOUT: U bent niet gemachtigd om deze bewerking uit te voeren"
+
+#: admin/options.php:35
+msgid "Graphene Mobile Theme Options"
+msgstr "Graphene Mobile Thema Opties"
+
+#: admin/options.php:44
+msgid "General"
+msgstr "Globaal"
+
+#: admin/options.php:45
+msgid "Display"
+msgstr "Weergave"
+
+#: admin/options.php:46
+msgid "Colours"
+msgstr "Kleuren"
+
+#: admin/options.php:47
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: admin/options.php:67
+msgid "Save Options"
+msgstr "Instellingen opslaan"
+
+#: admin/options.php:82
+msgid "Options Presets"
+msgstr "Voorgedefinieerde instellingen"
+
+#: admin/options.php:85
+msgid ""
+"Note that you can still configure the individual settings after you apply "
+"any preset."
+msgstr ""
+"Het is nog steeds mogelijk om alle instellingen afzonderlijk te configureren "
+"na het kiezen van een van de voorgedefinieerde instellingen."
+
+#: admin/options.php:90
+msgid "Select Options Preset"
+msgstr "Selecteerd voorgedefinieerde instellingen"
+
+#: admin/options.php:96
+msgid "Copy relevant Graphene settings"
+msgstr "Kopieër de toegepaste Graphene instellingen"
+
+#: admin/options.php:99
+msgid "Reset to default settings"
+msgstr "Standaard instellingen herstellen"
+
+#: admin/options.php:104
+msgid "Apply Options Preset"
+msgstr "Voorgedefinieerde instellingen toepassen"
+
+#: admin/validator.php:38
+msgid "ERROR: Invalid option for the comments option."
+msgstr "FOUT: Ongeldige optie voor de reacties optie."
+
+#: admin/validator.php:43
+msgid "ERROR: Invalid option for the child page listings."
+msgstr "FOUT: Ongeldige optie voor de onderliggende pagina's."
+
+#: admin/validator.php:90
+msgid "ERROR: Bad URL entered for the background image."
+msgstr "FOUT: Onjuiste URL ingevoerd voor de achtergrondafbeelding."
+
+#: admin/validator.php:91
+msgid "ERROR: Invalid option for the background position."
+msgstr "FOUT: Ongeldige optie voor de achtergrond positie."
+
+#: admin/validator.php:92
+msgid "ERROR: Invalid option for the background repeat."
+msgstr "FOUT: Ongeldige optie voor de achtergrond herhaling."
+
+#: admin/validator.php:93
+msgid "ERROR: Invalid option for the background attachment."
+msgstr "FOUT: Ongeldige optie voor de achtergrond bijlage."
+
+#: admin/validator.php:100
+msgid "ERROR: Bad URL entered for the favicon URL."
+msgstr "FOUT: Onjuiste URL ingevoerd als favicon URL."
+
+#: admin/validator.php:120
+msgid "ERROR: Invalid action hook selected widget action hooks."
+msgstr "FOUT: Ongeldige action hook geselecteerd voor de widget action hooks."
+
+#: includes/theme-comments.php:41
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d reactie"
+msgstr[1] "%d reacties"
+
+#: includes/theme-comments.php:42
+#, php-format
+msgid "%d ping"
+msgid_plural "%d pings"
+msgstr[0] "%d ping"
+msgstr[1] "%d pings"
+
+#: includes/theme-comments.php:43
+#, php-format
+msgid "%d trackback"
+msgid_plural "%d trackbacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/theme-comments.php:44
+#, php-format
+msgid "%d pingback"
+msgid_plural "%d pingbacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/theme-comments.php:100
+msgid "says:"
+msgstr "zegt:"
+
+#. translators: %1$s will be replaced by the date, and %2$s will be replaced by the time. Example: 27 June 2011 at 2.03pm
+#: includes/theme-comments.php:102
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s op %2$s"
+
+#: includes/theme-comments.php:112
+msgid "Your comment is awaiting moderation."
+msgstr "Uw reactie wacht op goedkeuring."
+
+#: includes/theme-loops.php:105
+msgid ""
+"<strong>ERROR: You must supply the post ID to get the image from as an "
+"argument when calling the mgraphene_get_post_image() function.</strong>"
+msgstr ""
+"<strong>ERROR: Het bericht ID is vereist bij aanroep van de functie "
+"graphene_get_post_image() om de bericht afbeelding op te vragen.</strong> "
+
+#: includes/theme-menus-dropdown.php:25 includes/theme-menus.php:16
+msgid "Browse"
+msgstr ""
+
+#: includes/theme-menus.php:17 includes/theme-menus.php:33
+msgid "Home"
+msgstr "Startpagina"
+
+#: includes/theme-setup.php:30
+msgid "Graphene Mobile Header Menu"
+msgstr "Graphene Mobile header menu"
+
+#: includes/theme-setup.php:31
+msgid "Graphene Mobile Footer Menu"
+msgstr "Graphene Mobile voettekst menu"
+
+#: includes/theme-setup.php:50
+msgid "Graphene Mobile Header"
+msgstr "Graphene Mobile header"
+
+#: includes/theme-setup.php:52
+msgid ""
+"This widget area will be displayed before the content, but after the header "
+"and navigation."
+msgstr ""
+"Dit widget gebied wordt weergegeven voor de inhoud, maar na de header en "
+"navigatie."
+
+#: includes/theme-setup.php:59
+msgid "Graphene Mobile Footer"
+msgstr "Graphene Mobile voettekst"
+
+#: includes/theme-setup.php:61
+msgid ""
+"This widget area will be displayed after the content, but before the footer."
+msgstr ""
+"Dit widget gebied wordt weergegeven na de inhoud, maar voor de voettekst."
+
+#: includes/theme-setup.php:77
+#, php-format
+msgid ""
+"Dynamically added widget area. This widget area is attached to the %s action "
+"hook."
+msgstr ""
+"Dynamisch toegevoegd widget gebied. Dit widget gebied is gekoppeld aan de %s "
+"action hook."
+
+#: includes/update.php:78
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Er is een onverwachte HTTP fout opgetreden tijdens de API aanvraag.</p> "
+"<p><a href=\"?\" onclick=\"document.location.reload(); return false;"
+"\">Nogmaals proberen</a>"
+
+#: includes/update.php:83
+msgid "An unknown error occurred"
+msgstr "Er is een onbekende fout opgetreden."
+
+#, fuzzy
+#~ msgid "1 comment"
+#~ msgstr "% reactie"
+
+#, fuzzy
+#~ msgid "1 ping"
+#~ msgstr "% ping"
+
+#~ msgid "Colour Options"
+#~ msgstr "Kleuren opties"

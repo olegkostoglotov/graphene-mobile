@@ -1,0 +1,1220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graphene Mobile theme for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-17 13:04+0800\n"
+"PO-Revision-Date: 2013-01-17 13:14+0800\n"
+"Last-Translator: Syahir Hakim <syahir@khairul-syahir.com>\n"
+"Language-Team: Tor-Bjorn Fjellner <poedit@fjellner.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: D:\\MyVault\\MyProjects\\Websites\\theme-graphene-mobile"
+"\\site\\wp-content\\themes\\graphene-mobile\\\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:22 search.php:13
+msgid "Error 404 - Not Found"
+msgstr "Ошибка 404 - Страница не найдена"
+
+#: 404.php:30 search.php:26
+msgid ""
+"Sorry, I've looked everywhere but I can't find the content you're looking "
+"for."
+msgstr ""
+"Я искал везде, но к сожалению не могу найти запрашиваемую вами страницу."
+
+#: 404.php:31 search.php:27
+msgid ""
+"If you follow the link from another website, I may have removed or renamed "
+"the page some time ago."
+msgstr ""
+"Если Вы пришли по ссылке от другого сайта, возможно, страница была удалена "
+"или перемещена недавно."
+
+#: 404.php:32
+msgid ""
+"I am now performing an automated search for you based on the URL you "
+"entered. Please wait a moment ..."
+msgstr ""
+"Сейчас производится автоматеский поиск, на основе заданного Вами URL. "
+"Подождите минуту..."
+
+#: 404.php:43
+msgid "Automated search"
+msgstr "Автоматический поиск"
+
+#: 404.php:53
+#, php-format
+msgid "Searching for the terms <strong>%s</strong> ..."
+msgstr "Поиск терминов <strong>%s</strong> ..."
+
+#: archive.php:6
+msgid "Archive for:"
+msgstr "Архив: "
+
+#: comments.php:12 comments.php:55 home.php:48 home.php:80 loop-archive.php:27
+msgid "No comment yet"
+msgstr "Комментариев нет"
+
+#: comments.php:13 comments.php:41 home.php:49
+msgid "No ping yet"
+msgstr "Пингов нет"
+
+#: comments.php:36
+msgid "Leave a reply"
+msgstr "Добавить комментарий"
+
+#. translators: %d will be replaced by the current year, %s will be replaced by the site title, &copy; will be replaced by the copyright symbol
+#: footer.php:31 admin/options-colours.php:88 admin/options-general.php:201
+#, php-format
+msgid "Copyright &copy; %d %s"
+msgstr "Copyright &copy; %d %s"
+
+#. #-#-#-#-#  0extracted.pot (PACKAGE VERSION)  #-#-#-#-#
+#. translators: %s will be replaced by the link to WordPress.org and Graphene Mobile page
+#: footer.php:45 admin/options-colours.php:93
+#, php-format
+msgid "Powered by %s"
+msgstr "При поддержке %s"
+
+#: footer.php:47
+msgid "Return to top"
+msgstr "Вернуться к началу"
+
+#: footer.php:60
+msgid "Switch to desktop version"
+msgstr "Перейти к версии сайта для компьютера"
+
+#. #-#-#-#-#  0extracted.pot (PACKAGE VERSION)  #-#-#-#-#
+#. translators: %1$s will be replaced by the post date, %2$s will be replaced by the post author's name
+#: home.php:23 home.php:78 loop-single.php:16 loop.php:16
+#: admin/options-colours.php:140 admin/options-colours.php:252
+#: admin/options-colours.php:255 includes/theme-functions.php:87
+#, php-format
+msgid "%1$s by %2$s"
+msgstr "%1$s автора %2$s"
+
+#: home.php:52
+msgid "Read more"
+msgstr "Читать далее"
+
+#: home.php:67
+msgid "Recent posts"
+msgstr "Свежие записи"
+
+#: loop-archive.php:34
+#, php-format
+msgid "View %s"
+msgstr "Перейти на %s"
+
+#: loop-children.php:23
+msgid "In this section"
+msgstr "В данной части"
+
+#: loop-single.php:31 loop.php:31
+msgid "Categories: "
+msgstr "Категории:"
+
+#: loop-single.php:82 loop.php:82
+msgid "Tags: "
+msgstr "Метки: "
+
+#: not-found.php:11 not-found.php:47
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: not-found.php:26 not-found.php:54
+msgid ""
+"Sorry, I've searched everywhere but the content you're looking for could not "
+"be found."
+msgstr "Извините, искали везде, но не получается найти то, что Вы ищете."
+
+#: not-found.php:27 not-found.php:55
+msgid "Try a search?"
+msgstr "Поищем?"
+
+#: search.php:49
+msgid "Search results:"
+msgstr "Результаты поиска:"
+
+#: searchform.php:7
+msgid "Search"
+msgstr "Поиск"
+
+#: admin/ajax-handler.php:9
+msgid ""
+"Sorry, but you don't have the necessary permission to modify theme options."
+msgstr "К сожалению, Вы не имеете право менять опции данной темы."
+
+#: admin/ajax-handler.php:20
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#: admin/options-advanced.php:12
+msgid "Custom <head> Tags"
+msgstr "Специальные теги в разделе <head>"
+
+#: admin/options-advanced.php:17
+msgid "Code to insert into the <head> element"
+msgstr "Код, который должен быть вставлен между тегами <head>"
+
+#: admin/options-advanced.php:22 admin/options-advanced.php:58
+#: admin/options-colours.php:65 admin/options-colours.php:121
+#: admin/options-colours.php:230 admin/options-colours.php:293
+#: admin/options-colours.php:360 admin/options-display.php:30
+#: admin/options-display.php:59 admin/options-display.php:105
+#: admin/options-display.php:136 admin/options-display.php:222
+#: admin/options-display.php:271 admin/options-display.php:293
+#: admin/options-general.php:29 admin/options-general.php:96
+#: admin/options-general.php:124 admin/options-general.php:157
+#: admin/options-general.php:183 admin/options-general.php:216
+#: admin/options-general.php:237
+msgid "Save All Options"
+msgstr "Сохранить все параметры"
+
+#: admin/options-advanced.php:31
+msgid "Action Hooks Widget Areas"
+msgstr "Панели виджетов для точек действий"
+
+#: admin/options-advanced.php:34
+msgid ""
+"This option enables you to place virtually any content to every nook and "
+"cranny in the theme, by attaching widget areas to the theme's action hooks."
+msgstr ""
+"Эта опция позволяет разместить практически любое содержание в произвольном "
+"уголке всей темы, динамически прикрепив панель виджетов к точкам действий "
+"\"action hooks\" темы."
+
+#: admin/options-advanced.php:35
+msgid ""
+"All action hooks available in the Graphene Mobile Theme are listed below. "
+"Click on the filename to display all the action hooks available in that "
+"file. Then, tick the checkbox next to an action hook to make a widget area "
+"available for that action hook."
+msgstr ""
+
+#: admin/options-advanced.php:44
+msgid "Click to show/hide the action hooks for this file"
+msgstr "Нажмите, чтобы показать/спрятать список точек действий этого файла."
+
+#: admin/options-advanced.php:57
+msgid "Rescan action hooks"
+msgstr "Переиндексировать все action hooks"
+
+#: admin/options-colours.php:6
+msgid ""
+"<strong>Note:</strong> To reset any of the colours to their default value, "
+"just click on \"Clear\" beside the colour field and save the settings. The "
+"theme will automatically revert the value to the default colour."
+msgstr ""
+"<strong>Внимание:</strong> Вы можете вернуть настройку любого цвета к "
+"исходному состоянию, нажав на \"Очистить\" рядом с полем настройки цвета и "
+"сохранив настройки. Тогда тема возвращает стандартный цвет."
+
+#: admin/options-colours.php:11
+msgid "Header and navigation"
+msgstr "Заголовка и навигация"
+
+#: admin/options-colours.php:17 admin/options-colours.php:78
+#: admin/options-colours.php:243 admin/options-colours.php:306
+#: admin/options-display.php:150
+msgid "Preview"
+msgstr "Предосмотр"
+
+#: admin/options-colours.php:20
+msgid "Site title"
+msgstr "Название сайта"
+
+#: admin/options-colours.php:20
+msgid "Site description"
+msgstr "Описание сайта"
+
+#: admin/options-colours.php:24
+msgid "Current menu item"
+msgstr "Текищий элемент меню"
+
+#: admin/options-colours.php:25 admin/options-colours.php:26
+#: admin/options-colours.php:84 admin/options-colours.php:85
+msgid "Menu item"
+msgstr "Элемент меню"
+
+#: admin/options-colours.php:40
+msgid "Header background (top)"
+msgstr "Верхний цвет градиента заголовка"
+
+#: admin/options-colours.php:41
+msgid "Header background (bottom)"
+msgstr "Нижний цвет градиента заголовка"
+
+#: admin/options-colours.php:42
+msgid "Site title text"
+msgstr "Шрифт заголовка"
+
+#: admin/options-colours.php:43
+msgid "Site description text"
+msgstr "Шрифт текста описания"
+
+#: admin/options-colours.php:44
+msgid "Navigation menu background"
+msgstr "Фон меню навигации"
+
+#: admin/options-colours.php:45
+msgid "Current menu item background"
+msgstr "Фон текущего элемента меню"
+
+#: admin/options-colours.php:46
+msgid "Menu item text"
+msgstr "Текст элемента меню"
+
+#: admin/options-colours.php:47
+msgid "Current menu item text"
+msgstr "Текст текущего элемента меню"
+
+#: admin/options-colours.php:57 admin/options-colours.php:113
+#: admin/options-colours.php:175 admin/options-colours.php:223
+#: admin/options-colours.php:285 admin/options-colours.php:352
+#: admin/options-display.php:216
+msgid "Clear"
+msgstr "Очистить"
+
+#: admin/options-colours.php:72
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#: admin/options-colours.php:100
+msgid "Copyright background"
+msgstr "Фон для сообщения об авторских правах"
+
+#: admin/options-colours.php:101
+msgid "Copyright text"
+msgstr "Текст об авторских правах"
+
+#: admin/options-colours.php:102
+msgid "Footer menu text"
+msgstr "Текста нижнего меню"
+
+#: admin/options-colours.php:103
+msgid "Credit background"
+msgstr "Фон для сообщения об использованной системе"
+
+#: admin/options-colours.php:104
+msgid "Credit text"
+msgstr "Текст об использованной системе"
+
+#: admin/options-colours.php:105
+msgid "Credit link text"
+msgstr "Ссылка в тексте об использованной системе"
+
+#: admin/options-colours.php:128
+msgid "Content section"
+msgstr "Содержание"
+
+#: admin/options-colours.php:134
+msgid "Preview (top half)"
+msgstr "Предосмотр (Верхняя половина)"
+
+#: admin/options-colours.php:139
+msgid "Layout Test"
+msgstr "Пример разметки"
+
+#: admin/options-colours.php:140 admin/options-colours.php:252
+#: admin/options-colours.php:255
+msgid "the author"
+msgstr "Автор"
+
+#: admin/options-colours.php:144
+msgid "Categories:"
+msgstr "Категории:"
+
+#: admin/options-colours.php:144
+msgid "Category 1"
+msgstr "Категория 1"
+
+#: admin/options-colours.php:144
+msgid "Category 2"
+msgstr "Категория 2"
+
+#: admin/options-colours.php:144
+msgid "Category 3"
+msgstr "Категория 3"
+
+#: admin/options-colours.php:158
+msgid "Title background"
+msgstr "Фон рубрики"
+
+#: admin/options-colours.php:159 admin/options-colours.php:271
+msgid "Title text"
+msgstr "Текст рубрики"
+
+#: admin/options-colours.php:160 admin/options-colours.php:340
+msgid "Meta text"
+msgstr "Мета-текст"
+
+#: admin/options-colours.php:161
+msgid "Categories background"
+msgstr "Фон категорий"
+
+#: admin/options-colours.php:162
+msgid "Categories text"
+msgstr "Текст категорий"
+
+#: admin/options-colours.php:163
+msgid "Category items background"
+msgstr "Фон отдельных категорий"
+
+#: admin/options-colours.php:164
+msgid "Category items text"
+msgstr "Текст отдельной категории"
+
+#: admin/options-colours.php:165 admin/options-colours.php:272
+#: admin/options-colours.php:341
+msgid "Content background"
+msgstr "Фон основного содержания"
+
+#: admin/options-colours.php:166 admin/options-colours.php:273
+#: admin/options-colours.php:342
+msgid "Content text"
+msgstr "Содержание"
+
+#: admin/options-colours.php:167 admin/options-colours.php:274
+#: admin/options-colours.php:343
+msgid "Content link"
+msgstr "Текст ссылки"
+
+#: admin/options-colours.php:182
+msgid "Preview (bottom half)"
+msgstr "Предосмотр (нижняя половина)"
+
+#: admin/options-colours.php:187
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: admin/options-colours.php:192
+msgid "Tags:"
+msgstr "Этикетки:"
+
+#: admin/options-colours.php:192
+msgid "Tag 1"
+msgstr "Метка 1"
+
+#: admin/options-colours.php:192
+msgid "Tag 2"
+msgstr "Метка 2"
+
+#: admin/options-colours.php:192
+msgid "Tag 3"
+msgstr "Метка 3"
+
+#: admin/options-colours.php:196 includes/theme-loops.php:30
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: admin/options-colours.php:196 admin/options-colours.php:197
+msgid "Post title"
+msgstr "Рубрика записи"
+
+#: admin/options-colours.php:197 includes/theme-loops.php:36
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: admin/options-colours.php:205
+msgid "Pagination background"
+msgstr "Фон навигации по страницам"
+
+#: admin/options-colours.php:206
+msgid "Pagination text"
+msgstr "Текст навигации по страницам"
+
+#: admin/options-colours.php:207
+msgid "Pagination link"
+msgstr "Ссылка по страницам"
+
+#: admin/options-colours.php:208
+msgid "Tags background"
+msgstr "Фон меток"
+
+#: admin/options-colours.php:209
+msgid "Tags text"
+msgstr "Текст меток"
+
+#: admin/options-colours.php:210
+msgid "Tag items background"
+msgstr "Фон отдельных меток"
+
+#: admin/options-colours.php:211
+msgid "Tag items text"
+msgstr "Цвет текста меток"
+
+#: admin/options-colours.php:212
+msgid "Posts navigation background"
+msgstr "Фон для навигации по записям"
+
+#: admin/options-colours.php:213
+msgid "Posts navigation background (next)"
+msgstr "Фоновоый цвет кнопки перехода (на следующее)"
+
+#: admin/options-colours.php:214
+msgid "Posts navigation text"
+msgstr "Текст навигации по записям"
+
+#: admin/options-colours.php:215
+msgid "Posts navigation link"
+msgstr "Ссылка навигации по записям"
+
+#: admin/options-colours.php:237
+msgid "Other sections"
+msgstr "Другие секции"
+
+#: admin/options-colours.php:247
+msgid "Section title"
+msgstr "Рубрика секции"
+
+#: admin/options-colours.php:252 admin/options-colours.php:255
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: admin/options-colours.php:262 includes/theme-loops.php:57
+msgid "Previous Page"
+msgstr "Предыдущая страница"
+
+#: admin/options-colours.php:263 includes/theme-loops.php:58
+msgid "Next Page"
+msgstr "Следующая страница"
+
+#: admin/options-colours.php:269
+msgid "Title background (top)"
+msgstr "Фон заголовка (верхний цвет градиента)"
+
+#: admin/options-colours.php:270
+msgid "Title background (bottom)"
+msgstr "Фон заголовка (нижний цвет градиента)"
+
+#: admin/options-colours.php:275 admin/options-colours.php:344
+msgid "Content list border"
+msgstr "Граница между статьями"
+
+#: admin/options-colours.php:276
+msgid "Navigation background"
+msgstr "Фон для навигации"
+
+#: admin/options-colours.php:277
+msgid "Navigation text"
+msgstr "Текст для навигации"
+
+#: admin/options-colours.php:300
+msgid "Comments section"
+msgstr "Область для комментариев"
+
+#: admin/options-colours.php:334
+msgid "Heading background (top)"
+msgstr "Фон для рубрики (верхний градиент)"
+
+#: admin/options-colours.php:335
+msgid "Heading background (bottom)"
+msgstr "Фон для рубрики (нижний градиент)"
+
+#: admin/options-colours.php:336
+msgid "Heading divider"
+msgstr "Разделитель рубрик"
+
+#: admin/options-colours.php:337
+msgid "Heading text"
+msgstr "Текст рубрики"
+
+#: admin/options-colours.php:338
+msgid "Reply background"
+msgstr "Фон комментариев"
+
+#: admin/options-colours.php:339
+msgid "Reply text"
+msgstr "Текст комментариев"
+
+#: admin/options-display.php:10
+msgid "Header Options"
+msgstr "Параметры отображения заголовков"
+
+#: admin/options-display.php:13
+msgid "Alternate site title and description"
+msgstr "Альтернативные название и описание сайта"
+
+#: admin/options-display.php:14
+msgid ""
+"Short site title and description work best for display on a mobile device. "
+"If your site has a long site title and description (anything that spans more "
+"than a single line when displayed on a mobile device), you can use this "
+"option to specify an alternate site title and description for display in the "
+"header."
+msgstr ""
+"На мобильном телефоне, лучше подходят короткие название и описание сайта. "
+"Если название и/или описание Вашего  сайта занимают более, чем одну строчку "
+"на экране телефона, тогда можете тут указать альтернативные тексты для "
+"вывода в начале страницы."
+
+#: admin/options-display.php:17
+msgid "Alternate site title"
+msgstr "Альтернативное название сайта"
+
+#: admin/options-display.php:23
+msgid "Alternate site description"
+msgstr "Альтернативное описание сайта"
+
+#: admin/options-display.php:39
+msgid "Navigation Menu Options"
+msgstr ""
+
+#: admin/options-display.php:42
+msgid "<select> element for menu"
+msgstr ""
+
+#: admin/options-display.php:43
+msgid ""
+"Using <select> element for menu allows you to have any number of menu items "
+"without crowding the layout."
+msgstr ""
+
+#: admin/options-display.php:46
+msgid "Enable for Header Menu"
+msgstr ""
+
+#: admin/options-display.php:52
+msgid "Enable for Footer Menu"
+msgstr ""
+
+#: admin/options-display.php:68
+msgid "Posts Display Options"
+msgstr "Параметры отображения сообщений"
+
+#: admin/options-display.php:74
+msgid "Hide post author and date"
+msgstr "Спрятать автора и дату публикации"
+
+#: admin/options-display.php:80
+msgid "Hide post categories"
+msgstr "Скрыть категории сообщения"
+
+#: admin/options-display.php:86
+msgid "Hide post tags"
+msgstr "Скрыть теги/этикетки сообщения"
+
+#: admin/options-display.php:92
+msgid "Hide post comment count"
+msgstr "Скрыть количество комментариев к сообщению"
+
+#: admin/options-display.php:93
+msgid ""
+"Only affects posts listing (such as search and archive pages) and not single "
+"post view."
+msgstr ""
+"Относится только к спискам (например результату поиска или страницам "
+"архива), а не видам, когда выводится только одна статья."
+
+#: admin/options-display.php:99
+msgid "Hide automatic image at the top of posts"
+msgstr "Спрятать автоматическую картину в начале статьей"
+
+#: admin/options-display.php:114
+msgid "Excerpts Display Options"
+msgstr "Параметры отображения выдержки сообщения"
+
+#: admin/options-display.php:120
+msgid "Show full content in archive pages"
+msgstr "Показывать все содержимое на архивных страницах"
+
+#: admin/options-display.php:124
+msgid ""
+"Note: Archive pages include the archive for category, tags, time, and search "
+"results pages. Enabling this option will cause the full content of posts and "
+"pages listed in those archives to displayed instead of the excerpt, and "
+"truncated by the Read More tag if used."
+msgstr ""
+"Внимание: Архивные страницы включают архивы для категорий, тегов/этикеток, "
+"времени и результатов страниц поиска. Активация этой опции приведет к тому, "
+"что вместо вырезок будет отображаться все содержимое перечисленных страниц и "
+"сообщений архива. Если используется тег \"Далее\"(&lt;!--more--&gt;), "
+"содержимое будет усеченным."
+
+#: admin/options-display.php:128
+msgid "Retain these HTML tags in excerpts"
+msgstr "Сохранить HTML теги для этих выдержек"
+
+#: admin/options-display.php:131
+msgid ""
+"Enter the HTML tags you'd like to retain in excerpts. For example, enter "
+"<code>&lt;p&gt;&lt;ul&gt;&lt;li&gt;</code> to retain <code>&lt;p&gt;</code>, "
+"<code>&lt;ul&gt;</code>, and <code>&lt;li&gt;</code> HTML tags."
+msgstr ""
+"Введите HTML теги, которые вы бы хотели бы сохранить в выдержках. Например, "
+"введите <code>&lt;p&gt;&lt;ul&gt;&lt;li&gt;</code> сохранить <code>&lt;p&gt;"
+"</code>, <code>&lt;ul&gt;</code> и <code>&lt;li&gt;</code> HTML теги."
+
+#: admin/options-display.php:145
+msgid "Custom Background Options"
+msgstr "Настройки фона"
+
+#: admin/options-display.php:155
+msgid "Background image URL"
+msgstr "Адрес (URL) фоновой картинки"
+
+#: admin/options-display.php:160
+msgid ""
+"Hint: You can use the <a href=\"media-new.php\">Media Library</a> to upload "
+"an image to be used here."
+msgstr ""
+"Имейте в виду, что с помощью <a href=\"media-new.php\">медиабиблиотеки</a>  "
+"Вы моюете загрузить картину, для использования здесь."
+
+#: admin/options-display.php:161
+msgid ""
+"If you do not wish the background to be repeated, use an image at least as "
+"wide as 640 pixels (Apple's retina display)"
+msgstr ""
+"Если не хотите, чтобы фон повторялся, используйте тут картину, которая по "
+"крайней мере 640 пикселей в ширину (Диспел iPhone 4)"
+
+#: admin/options-display.php:167
+msgid "Position"
+msgstr "Позиция"
+
+#: admin/options-display.php:171
+msgid "Left"
+msgstr "Слева"
+
+#: admin/options-display.php:174
+msgid "Center"
+msgstr "По центру"
+
+#: admin/options-display.php:177
+msgid "Right"
+msgstr "Справа"
+
+#: admin/options-display.php:182
+msgid "Repeat"
+msgstr "Повтор"
+
+#: admin/options-display.php:186
+msgid "No Repeat"
+msgstr "Не повторять"
+
+#: admin/options-display.php:189
+msgid "Tile"
+msgstr "Замостить"
+
+#: admin/options-display.php:192
+msgid "Tile Horizontally"
+msgstr "Замостить по горизонтали"
+
+#: admin/options-display.php:195
+msgid "Tile Vertically"
+msgstr "Замостить по вертикали"
+
+#: admin/options-display.php:201
+msgid "Attachment"
+msgstr "Привязка"
+
+#: admin/options-display.php:205
+msgid "Scroll"
+msgstr "Прокручивать"
+
+#: admin/options-display.php:208
+msgid "Fixed"
+msgstr "Зафиксировать"
+
+#: admin/options-display.php:213
+msgid "Colour"
+msgstr "Цвет"
+
+#: admin/options-display.php:231
+msgid "Miscellaneous Display Options"
+msgstr "Различные настройки отображения"
+
+#: admin/options-display.php:234
+msgid "Site title options"
+msgstr "Настройки названия сайта"
+
+#: admin/options-display.php:235
+msgid ""
+"This option allows you to customise how your site title is displayed in the "
+"browser bar, tabs, and bookmarks."
+msgstr ""
+"Эта настройка позволяет настраивать как Ваш сайт будет отражаться на "
+"кнопках, во вкладках и фаворитах."
+
+#: admin/options-display.php:236
+msgid ""
+"Use these tags to customise your own site title structure: <code>#site-name</"
+"code>, <code>#site-desc</code>, <code>#post-title</code>"
+msgstr ""
+"Используйте эти теги, чтобы настроить структуру названия сайта: <code>#site-"
+"name</code>, <code>#site-desc</code>, <code>#post-title</code>"
+
+#: admin/options-display.php:240
+msgid "Custom front page site title"
+msgstr "Специальное название сайта на главной странице"
+
+#: admin/options-display.php:244
+#, php-format
+msgid "Defaults to %1$s. The %2$s tag cannot be used here."
+msgstr "По умолчанию %1$s. Этикетка %2$s не может быть использована здесь."
+
+#: admin/options-display.php:249
+msgid "Custom content pages site title"
+msgstr "Изменение рубрики окна на страницах с содержанием"
+
+#: admin/options-display.php:253
+#, php-format
+msgid "Defaults to %s."
+msgstr "По умолчанию: %s"
+
+#: admin/options-display.php:258
+msgid "Favicon options"
+msgstr "Настройки фавикон"
+
+#: admin/options-display.php:262
+msgid "Favicon URL"
+msgstr "URL фавикона"
+
+#: admin/options-display.php:266
+msgid "Simply enter the full URL to your favicon file here to enable favicon."
+msgstr ""
+"Для активации иконки фаворита, просто введите здесь полный URL файла Вашего "
+"фавикона."
+
+#: admin/options-display.php:280
+msgid "Custom CSS"
+msgstr "Специальные CSS"
+
+#: admin/options-display.php:285
+msgid "Custom CSS styles"
+msgstr "Специальные стили CSS"
+
+#: admin/options-display.php:287
+msgid ""
+"You can enter your own CSS codes below to modify any other aspects of the "
+"theme's appearance that is not included in the options."
+msgstr ""
+"Ниже вы можете ввести свой собственный код CSS, чтобы изменить другие "
+"настройки внешнего вида, которые не включены в настройки."
+
+#: admin/options-general.php:13
+msgid "API Key"
+msgstr "API-ключ"
+
+#: admin/options-general.php:16
+msgid "Insert your Graphene Mobile's API key here to enable automatic updates."
+msgstr ""
+"Вставьте Ваш API ключ для Graphene Mobile, чтобы активировать автоматические "
+"обновления."
+
+#: admin/options-general.php:20
+msgid "Graphene Mobile API Key"
+msgstr "Ключ API  для Graphene Mobile"
+
+#: admin/options-general.php:24
+#, php-format
+msgid ""
+"If you have lost your API key or have never received it, you can obtain it "
+"from your %s."
+msgstr ""
+
+#: admin/options-general.php:24
+msgid "Account Page"
+msgstr ""
+
+#: admin/options-general.php:38
+msgid "Front Page Options"
+msgstr "Параметры главной страницы"
+
+#: admin/options-general.php:44
+msgid "Number of posts to show with excerpt"
+msgstr ""
+
+#: admin/options-general.php:52
+msgid "Posts by category listing options"
+msgstr ""
+
+#: admin/options-general.php:56
+msgid "Display recent posts by category"
+msgstr "Показывать последние сообщения по категориям"
+
+#: admin/options-general.php:60
+msgid "Disabled"
+msgstr "--Выключено (без фильтра)--"
+
+#: admin/options-general.php:61
+msgid "Show all categories"
+msgstr "Показывать все категории"
+
+#: admin/options-general.php:62
+msgid "Show selected categories"
+msgstr "Показывать сообщеня из определенных категорий"
+
+#: admin/options-general.php:68
+msgid "Categories to show in front page"
+msgstr "Категории, которые будут включены на главной странице"
+
+#: admin/options-general.php:71
+msgid ""
+"This setting is only applicable if \"Show selected categories\" is selected "
+"above."
+msgstr ""
+"Данная настройка применяется только в том случае, если \"Показывать "
+"последние сообщения по категориям\" выеш выбрано."
+
+#: admin/options-general.php:88
+msgid "Number of posts to show per category"
+msgstr "Количество сообщений по каждой категории"
+
+#: admin/options-general.php:105
+msgid "Comments Options"
+msgstr "Параметры комментариев"
+
+#: admin/options-general.php:111
+msgid "Commenting"
+msgstr "Комментарии"
+
+#: admin/options-general.php:115
+msgid "Use WordPress settings"
+msgstr "Использовать настройки WordPress"
+
+#: admin/options-general.php:116
+msgid "Disabled for pages"
+msgstr "Отменить для страниц"
+
+#: admin/options-general.php:117
+msgid "Disabled completely"
+msgstr "Полностью выключены"
+
+#: admin/options-general.php:119
+msgid ""
+"Note: this setting overrides the global WordPress Discussion Setting called "
+"\"Allow people to post comments on new articles\" and also the \"Allow "
+"comments\" option for individual posts/pages."
+msgstr ""
+"Внимание: Эти настройки отменяют глобальные настройки обсуждения для "
+"Wordpress \"Разрешить оставлять комментарии для новых статей\" а также "
+"настройки для личных сообщений/страниц \"Разрешить комментировать\"."
+
+#: admin/options-general.php:133
+msgid "Child Page Options"
+msgstr "Параметры дочерней страницы"
+
+#: admin/options-general.php:139
+msgid "Hide parent box if content is empty"
+msgstr "Скрыть вышестоящее содержание, если там нет содержимого"
+
+#: admin/options-general.php:145
+msgid "Child page listings"
+msgstr "Список дочерних страниц"
+
+#: admin/options-general.php:149
+msgid "Show listing"
+msgstr "Отображать список"
+
+#: admin/options-general.php:150
+msgid "Hide listing"
+msgstr "Скрыть список"
+
+#: admin/options-general.php:151
+msgid "Only show listing if parent content is empty"
+msgstr "Показывать список только если вышестоящее содержание пустое"
+
+#: admin/options-general.php:166
+msgid "Google Analytics Options"
+msgstr "Настройки Google Analytics"
+
+#: admin/options-general.php:169
+msgid ""
+"<strong>Note:</strong> the theme places the Google Analytics script in the "
+"<code>&lt;head&gt;</code> element to support the new asynchronous Google "
+"Analytics script. Please make sure you use the new asynchronous script from "
+"Google Analytics."
+msgstr ""
+"<strong>Внимание:</strong> данная тема помещает скрипт Google Analytics в "
+"элементе <code>&lt;head&gt;</code> для того, чтобы поддерживать новые, "
+"асинхронный скрипт Google Analytics. Убедитесь, что Вы используете новый, "
+"асинхронный скрипт от Google Analytics."
+
+#: admin/options-general.php:172
+msgid "Enable Google Analytics tracking"
+msgstr "Активировать отслеживание Google Analytics"
+
+#: admin/options-general.php:176
+msgid "Google Analytics tracking code"
+msgstr "Код отслеживания Google Analytics"
+
+#: admin/options-general.php:177
+msgid ""
+"Make sure you include the full tracking code (including the <code>&lt;"
+"script&gt;</code> and <code>&lt;/script&gt;</code> tags) and not just the "
+"<code>UA-#######-#</code> code."
+msgstr ""
+"Убедитесь,что вы вставили полный код отслеживания (включая теги <code>&lt;"
+"script&gt;</code> и <code>&lt;/script&gt;</code>) а не только код <code>UA-"
+"#######-#</code>."
+
+#: admin/options-general.php:192
+msgid "Footer Options"
+msgstr "Параметры нижнего колонтитула"
+
+#: admin/options-general.php:197
+msgid "Copyright text (html allowed)"
+msgstr "Заметко об авторских правах (HTML разрешен)"
+
+#: admin/options-general.php:198
+msgid ""
+"If this field is empty, the following default copyright text will be "
+"displayed:"
+msgstr ""
+"Если это поле пустое, будут отображаться следующие авторские права по "
+"умолчанию:"
+
+#: admin/options-general.php:207
+msgid "Do not show copyright info"
+msgstr "Не показывать авторские права"
+
+#: admin/options-general.php:211
+msgid "Do not show the \"Return to top\" link"
+msgstr "Не показывать линк \"Вернуться к началу\""
+
+#: admin/options-general.php:225
+msgid "Miscellaneous General Options"
+msgstr "Различные общие настройки"
+
+#: admin/options-general.php:231
+msgid "Allow device to zoom in"
+msgstr "Позвилять пользователю увеличить масштаб"
+
+#: admin/options-init.php:23
+msgid "Graphene Mobile"
+msgstr "Graphene Mobile"
+
+#: admin/options-init.php:124
+msgid "Toggle all tabs"
+msgstr "Переключить отображения всех вкладок"
+
+#: admin/options-presets.php:17
+msgid "Settings have been reset."
+msgstr "Настройки были сброшены."
+
+#: admin/options-presets.php:31
+msgid "Relevant settings from the Graphene Options has been applied."
+msgstr "Соответствующие настройки были позаимствованы из темы Graphene."
+
+#: admin/options-presets.php:38
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "ОШИБКА: Вы не авторизованы для выполнения данной операции"
+
+#: admin/options.php:35
+msgid "Graphene Mobile Theme Options"
+msgstr "Использовать параметры темы Graphene"
+
+#: admin/options.php:44
+msgid "General"
+msgstr "Общее"
+
+#: admin/options.php:45
+msgid "Display"
+msgstr "Параметры отображения"
+
+#: admin/options.php:46
+msgid "Colours"
+msgstr "Цвета"
+
+#: admin/options.php:47
+msgid "Advanced"
+msgstr "Для продвинутого"
+
+#: admin/options.php:67
+msgid "Save Options"
+msgstr "Сохранить параметры"
+
+#: admin/options.php:82
+msgid "Options Presets"
+msgstr "Исходные настройки"
+
+#: admin/options.php:85
+msgid ""
+"Note that you can still configure the individual settings after you apply "
+"any preset."
+msgstr ""
+"Обратите внимание, что вы можете изменить индивидуальные настройки после "
+"установки предварительных настроек."
+
+#: admin/options.php:90
+msgid "Select Options Preset"
+msgstr "Выбор предварительных настроек"
+
+#: admin/options.php:96
+msgid "Copy relevant Graphene settings"
+msgstr "Скопировать соответствующие настройки из темы Graphene"
+
+#: admin/options.php:99
+msgid "Reset to default settings"
+msgstr "Восстановить значения по умолчанию"
+
+#: admin/options.php:104
+msgid "Apply Options Preset"
+msgstr "Применить предварительные настройки"
+
+#: admin/validator.php:38
+msgid "ERROR: Invalid option for the comments option."
+msgstr "ОШИБКА: Недопустимые параметры для комментариев"
+
+#: admin/validator.php:43
+msgid "ERROR: Invalid option for the child page listings."
+msgstr "ОШИБКА: Недопустимые параметры списков дочерных страниц."
+
+#: admin/validator.php:90
+msgid "ERROR: Bad URL entered for the background image."
+msgstr "ОШИБКА: Введен неверный URL для специального URL изображения слайдера."
+
+#: admin/validator.php:91
+msgid "ERROR: Invalid option for the background position."
+msgstr "ОШИБКА: Недопустимые параметры для позиционирования фона."
+
+#: admin/validator.php:92
+msgid "ERROR: Invalid option for the background repeat."
+msgstr "ОШИБКА: Недопустимые параметры повтора фоновой картинки."
+
+#: admin/validator.php:93
+msgid "ERROR: Invalid option for the background attachment."
+msgstr "ОШИБКА: Недопустимые параметры по прокрутке/привязке фоновой картинки."
+
+#: admin/validator.php:100
+msgid "ERROR: Bad URL entered for the favicon URL."
+msgstr "ОШИБКА: Указан неверный URL для фавикон."
+
+#: admin/validator.php:120
+msgid "ERROR: Invalid action hook selected widget action hooks."
+msgstr ""
+"ОШИБКА: Неверная точка действия указана для динамической панели виджетов."
+
+#: includes/theme-comments.php:41
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d комментарий"
+msgstr[1] "%d комментария"
+msgstr[2] "%d комментариев"
+
+#: includes/theme-comments.php:42
+#, php-format
+msgid "%d ping"
+msgid_plural "%d pings"
+msgstr[0] "%d пинг"
+msgstr[1] "%d пинга"
+msgstr[2] "%d пингов"
+
+#: includes/theme-comments.php:43
+#, php-format
+msgid "%d trackback"
+msgid_plural "%d trackbacks"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/theme-comments.php:44
+#, php-format
+msgid "%d pingback"
+msgid_plural "%d pingbacks"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/theme-comments.php:100
+msgid "says:"
+msgstr "говорит:"
+
+#. translators: %1$s will be replaced by the date, and %2$s will be replaced by the time. Example: 27 June 2011 at 2.03pm
+#: includes/theme-comments.php:102
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: includes/theme-comments.php:112
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ождает проверки."
+
+#: includes/theme-loops.php:105
+msgid ""
+"<strong>ERROR: You must supply the post ID to get the image from as an "
+"argument when calling the mgraphene_get_post_image() function.</strong>"
+msgstr ""
+"<strong>ОШИБКА: Необходимо ввести идентификатор сообщения, чтобы получить "
+"изображение при вызове функции graphene_get_post_image().</strong>"
+
+#: includes/theme-menus-dropdown.php:25 includes/theme-menus.php:16
+msgid "Browse"
+msgstr ""
+
+#: includes/theme-menus.php:17 includes/theme-menus.php:33
+msgid "Home"
+msgstr "Домой"
+
+#: includes/theme-setup.php:30
+msgid "Graphene Mobile Header Menu"
+msgstr "Верхнее меню темы Graphene Mobile"
+
+#: includes/theme-setup.php:31
+msgid "Graphene Mobile Footer Menu"
+msgstr "Меню в нижнем колонтитуле темы Graphene Mobile"
+
+#: includes/theme-setup.php:50
+msgid "Graphene Mobile Header"
+msgstr "Верхний колонтитул темы Graphene Mobile"
+
+#: includes/theme-setup.php:52
+msgid ""
+"This widget area will be displayed before the content, but after the header "
+"and navigation."
+msgstr ""
+"Данная панель виджетов отражается до содержания, но после верхних "
+"колонтитулов и навигации."
+
+#: includes/theme-setup.php:59
+msgid "Graphene Mobile Footer"
+msgstr "Нижний колонтитул темы Graphene Mobile"
+
+#: includes/theme-setup.php:61
+msgid ""
+"This widget area will be displayed after the content, but before the footer."
+msgstr ""
+"Данная панель виджетов отражается после содержания, но до нижних "
+"колонтитулов."
+
+#: includes/theme-setup.php:77
+#, php-format
+msgid ""
+"Dynamically added widget area. This widget area is attached to the %s action "
+"hook."
+msgstr ""
+"Динамически добавленная панель для виджетов. Она прикреплена к \"точке "
+"действия/action hook\" %s."
+
+#: includes/update.php:78
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Во время запроса API произошла неожиданная ошибка HTTP.</p> <p><a href=\"?\" "
+"onclick=\"document.location.reload(); return false;\">Повторная попытка</a>"
+
+#: includes/update.php:83
+msgid "An unknown error occurred"
+msgstr "Произошла неопределённая ошибка."
+
+#~ msgid "% comments"
+#~ msgstr "% комментариев"
+
+#~ msgid "% pings"
+#~ msgstr "% пингов"
+
+#~ msgid "Colour Options"
+#~ msgstr "Настройки по Цветам"

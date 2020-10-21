@@ -1,0 +1,1213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graphene Mobile theme for WordPress Polish Version\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-17 13:04+0800\n"
+"PO-Revision-Date: 2013-01-17 13:13+0800\n"
+"Last-Translator: Syahir Hakim <syahir@khairul-syahir.com>\n"
+"Language-Team: Hueskye <kamilguzdek@gmail.com>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: D:\\MyVault\\MyProjects\\Websites\\theme-graphene-mobile"
+"\\site\\wp-content\\themes\\graphene-mobile\\\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:22 search.php:13
+msgid "Error 404 - Not Found"
+msgstr "Błąd 404 - Nie znaleziono"
+
+#: 404.php:30 search.php:26
+msgid ""
+"Sorry, I've looked everywhere but I can't find the content you're looking "
+"for."
+msgstr ""
+"Przepraszamy, cały portal został przeszukany, jednak nie znaleźliśmy "
+"wyszukiwanej frazy."
+
+#: 404.php:31 search.php:27
+msgid ""
+"If you follow the link from another website, I may have removed or renamed "
+"the page some time ago."
+msgstr ""
+"Jeżeli przeniesiono Cię tutaj z witryny zewnętrznej, możliwe jest, że plik "
+"którego szukasz został przeniesiony, usunięty, lub zmieniono jego nazwę."
+
+#: 404.php:32
+msgid ""
+"I am now performing an automated search for you based on the URL you "
+"entered. Please wait a moment ..."
+msgstr ""
+"Dokonuję automatycznego wyszukiwania dopasowanego pod URL z którego Cię tu "
+"przeniesiono. Poczekaj chwilę."
+
+#: 404.php:43
+msgid "Automated search"
+msgstr "Wyszukiwanie automatyczne"
+
+#: 404.php:53
+#, php-format
+msgid "Searching for the terms <strong>%s</strong> ..."
+msgstr "Szukam fraz <strong>%s</strong> ..."
+
+#: archive.php:6
+msgid "Archive for:"
+msgstr "Archiwum:"
+
+#: comments.php:12 comments.php:55 home.php:48 home.php:80 loop-archive.php:27
+msgid "No comment yet"
+msgstr "Nie skomentowano"
+
+#: comments.php:13 comments.php:41 home.php:49
+msgid "No ping yet"
+msgstr "Brak pingów"
+
+#: comments.php:36
+msgid "Leave a reply"
+msgstr "Odpowiedz"
+
+#. translators: %d will be replaced by the current year, %s will be replaced by the site title, &copy; will be replaced by the copyright symbol
+#: footer.php:31 admin/options-colours.php:88 admin/options-general.php:201
+#, php-format
+msgid "Copyright &copy; %d %s"
+msgstr "Prawa autorskie &copy; %d %s"
+
+#. #-#-#-#-#  0extracted.pot (PACKAGE VERSION)  #-#-#-#-#
+#. translators: %s will be replaced by the link to WordPress.org and Graphene Mobile page
+#: footer.php:45 admin/options-colours.php:93
+#, php-format
+msgid "Powered by %s"
+msgstr "Powered by %s"
+
+#: footer.php:47
+msgid "Return to top"
+msgstr "Do góry"
+
+#: footer.php:60
+msgid "Switch to desktop version"
+msgstr "Przełacz na wersję dla PC"
+
+#. #-#-#-#-#  0extracted.pot (PACKAGE VERSION)  #-#-#-#-#
+#. translators: %1$s will be replaced by the post date, %2$s will be replaced by the post author's name
+#: home.php:23 home.php:78 loop-single.php:16 loop.php:16
+#: admin/options-colours.php:140 admin/options-colours.php:252
+#: admin/options-colours.php:255 includes/theme-functions.php:87
+#, php-format
+msgid "%1$s by %2$s"
+msgstr "%1$s z %2$s"
+
+#: home.php:52
+msgid "Read more"
+msgstr "Czytaj dalej"
+
+#: home.php:67
+msgid "Recent posts"
+msgstr "Ostatnie posty"
+
+#: loop-archive.php:34
+#, php-format
+msgid "View %s"
+msgstr "Zobacz %s"
+
+#: loop-children.php:23
+msgid "In this section"
+msgstr "W tej sekcji"
+
+#: loop-single.php:31 loop.php:31
+msgid "Categories: "
+msgstr "Kategorie:"
+
+#: loop-single.php:82 loop.php:82
+msgid "Tags: "
+msgstr "Tagi:"
+
+#: not-found.php:11 not-found.php:47
+msgid "Not Found"
+msgstr "Nie znaleziono"
+
+#: not-found.php:26 not-found.php:54
+msgid ""
+"Sorry, I've searched everywhere but the content you're looking for could not "
+"be found."
+msgstr "Przepraszam, ale fraza której szukasz nie została znaleziona"
+
+#: not-found.php:27 not-found.php:55
+msgid "Try a search?"
+msgstr "Spróbuj wyszukać!"
+
+#: search.php:49
+msgid "Search results:"
+msgstr "Wyniki wyszukiwania"
+
+#: searchform.php:7
+msgid "Search"
+msgstr "Szukaj"
+
+#: admin/ajax-handler.php:9
+msgid ""
+"Sorry, but you don't have the necessary permission to modify theme options."
+msgstr ""
+
+#: admin/ajax-handler.php:20
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-advanced.php:12
+msgid "Custom <head> Tags"
+msgstr ""
+
+#: admin/options-advanced.php:17
+msgid "Code to insert into the <head> element"
+msgstr ""
+
+#: admin/options-advanced.php:22 admin/options-advanced.php:58
+#: admin/options-colours.php:65 admin/options-colours.php:121
+#: admin/options-colours.php:230 admin/options-colours.php:293
+#: admin/options-colours.php:360 admin/options-display.php:30
+#: admin/options-display.php:59 admin/options-display.php:105
+#: admin/options-display.php:136 admin/options-display.php:222
+#: admin/options-display.php:271 admin/options-display.php:293
+#: admin/options-general.php:29 admin/options-general.php:96
+#: admin/options-general.php:124 admin/options-general.php:157
+#: admin/options-general.php:183 admin/options-general.php:216
+#: admin/options-general.php:237
+msgid "Save All Options"
+msgstr ""
+
+#: admin/options-advanced.php:31
+msgid "Action Hooks Widget Areas"
+msgstr "Obszary odnośników widget"
+
+#: admin/options-advanced.php:34
+msgid ""
+"This option enables you to place virtually any content to every nook and "
+"cranny in the theme, by attaching widget areas to the theme's action hooks."
+msgstr ""
+"Opcja ta pozwala na umieszczenie dowolnej treści w każdym zakamarku w "
+"temacie, dołączając widget  do motywu."
+
+#: admin/options-advanced.php:35
+msgid ""
+"All action hooks available in the Graphene Mobile Theme are listed below. "
+"Click on the filename to display all the action hooks available in that "
+"file. Then, tick the checkbox next to an action hook to make a widget area "
+"available for that action hook."
+msgstr ""
+
+#: admin/options-advanced.php:44
+msgid "Click to show/hide the action hooks for this file"
+msgstr "Kliknij, aby pokazać/ukryć odnośniki dla tego dokumentu"
+
+#: admin/options-advanced.php:57
+msgid "Rescan action hooks"
+msgstr "Skanuj ponownie action hooks"
+
+#: admin/options-colours.php:6
+msgid ""
+"<strong>Note:</strong> To reset any of the colours to their default value, "
+"just click on \"Clear\" beside the colour field and save the settings. The "
+"theme will automatically revert the value to the default colour."
+msgstr ""
+"<strong>Uwaga:</strong> by zresetować jakiekolwiek ustawienia kolorystyczne "
+"do wartości domyślnych, kliknij \"Wyczyść\" poza polem wyboru koloru, a "
+"następnie zapisz ustawienia. Skórka automatycznie przywróci domyślne "
+"wartości kolorów."
+
+#: admin/options-colours.php:11
+msgid "Header and navigation"
+msgstr "Nagłówek i nawigacja"
+
+#: admin/options-colours.php:17 admin/options-colours.php:78
+#: admin/options-colours.php:243 admin/options-colours.php:306
+#: admin/options-display.php:150
+msgid "Preview"
+msgstr "Podgląd"
+
+#: admin/options-colours.php:20
+msgid "Site title"
+msgstr "Tytuł strony"
+
+#: admin/options-colours.php:20
+msgid "Site description"
+msgstr "Opis strony"
+
+#: admin/options-colours.php:24
+msgid "Current menu item"
+msgstr "Bierzący element menu"
+
+#: admin/options-colours.php:25 admin/options-colours.php:26
+#: admin/options-colours.php:84 admin/options-colours.php:85
+msgid "Menu item"
+msgstr "Element menu"
+
+#: admin/options-colours.php:40
+msgid "Header background (top)"
+msgstr "Tło nagłówka (góra)"
+
+#: admin/options-colours.php:41
+msgid "Header background (bottom)"
+msgstr "Tło nagłówka (dół)"
+
+#: admin/options-colours.php:42
+msgid "Site title text"
+msgstr "Tekst tytułowy strony"
+
+#: admin/options-colours.php:43
+msgid "Site description text"
+msgstr "Tekst opisowy strony"
+
+#: admin/options-colours.php:44
+msgid "Navigation menu background"
+msgstr "Tło menu nawigacyjnego"
+
+#: admin/options-colours.php:45
+msgid "Current menu item background"
+msgstr "Bierzące tło poszczególnych części menu"
+
+#: admin/options-colours.php:46
+msgid "Menu item text"
+msgstr "Następny element menu"
+
+#: admin/options-colours.php:47
+msgid "Current menu item text"
+msgstr "Bieżący tekst elementu menu"
+
+#: admin/options-colours.php:57 admin/options-colours.php:113
+#: admin/options-colours.php:175 admin/options-colours.php:223
+#: admin/options-colours.php:285 admin/options-colours.php:352
+#: admin/options-display.php:216
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: admin/options-colours.php:72
+msgid "Footer"
+msgstr "Stopka"
+
+#: admin/options-colours.php:100
+msgid "Copyright background"
+msgstr "tło pod prawami autorskimi"
+
+#: admin/options-colours.php:101
+msgid "Copyright text"
+msgstr "Tekst alternatywny praw autorskich"
+
+#: admin/options-colours.php:102
+msgid "Footer menu text"
+msgstr "Tekst menu w stopce"
+
+#: admin/options-colours.php:103
+msgid "Credit background"
+msgstr "tło napisów końcowych"
+
+#: admin/options-colours.php:104
+msgid "Credit text"
+msgstr "Tekst napisów końcowych"
+
+#: admin/options-colours.php:105
+msgid "Credit link text"
+msgstr "Anchor tekst napisów końcowych"
+
+#: admin/options-colours.php:128
+msgid "Content section"
+msgstr "sekcja treści"
+
+#: admin/options-colours.php:134
+msgid "Preview (top half)"
+msgstr "podgląc (górna połowa)"
+
+#: admin/options-colours.php:139
+msgid "Layout Test"
+msgstr "Test layoutu"
+
+#: admin/options-colours.php:140 admin/options-colours.php:252
+#: admin/options-colours.php:255
+msgid "the author"
+msgstr "Autor"
+
+#: admin/options-colours.php:144
+msgid "Categories:"
+msgstr "Kategorie"
+
+#: admin/options-colours.php:144
+msgid "Category 1"
+msgstr "Kategoria 1"
+
+#: admin/options-colours.php:144
+msgid "Category 2"
+msgstr "Kategoria 2"
+
+#: admin/options-colours.php:144
+msgid "Category 3"
+msgstr "Kategoria 3"
+
+#: admin/options-colours.php:158
+msgid "Title background"
+msgstr "Tło pod  tytułem"
+
+#: admin/options-colours.php:159 admin/options-colours.php:271
+msgid "Title text"
+msgstr "Tekst tytułu"
+
+#: admin/options-colours.php:160 admin/options-colours.php:340
+msgid "Meta text"
+msgstr "Meta tekst"
+
+#: admin/options-colours.php:161
+msgid "Categories background"
+msgstr "Tło pod kategoriami"
+
+#: admin/options-colours.php:162
+msgid "Categories text"
+msgstr "Tekst kategorii"
+
+#: admin/options-colours.php:163
+msgid "Category items background"
+msgstr "Tło elementów kategorii"
+
+#: admin/options-colours.php:164
+msgid "Category items text"
+msgstr "Tekst elementów kategorii"
+
+#: admin/options-colours.php:165 admin/options-colours.php:272
+#: admin/options-colours.php:341
+msgid "Content background"
+msgstr "Tło pod zawartością"
+
+#: admin/options-colours.php:166 admin/options-colours.php:273
+#: admin/options-colours.php:342
+msgid "Content text"
+msgstr "Tekst zawartości"
+
+#: admin/options-colours.php:167 admin/options-colours.php:274
+#: admin/options-colours.php:343
+msgid "Content link"
+msgstr "Link do zawartosci"
+
+#: admin/options-colours.php:182
+msgid "Preview (bottom half)"
+msgstr "Podgląd (dolna połowa)"
+
+#: admin/options-colours.php:187
+msgid "Pages:"
+msgstr "Strony:"
+
+#: admin/options-colours.php:192
+msgid "Tags:"
+msgstr "Tagi:"
+
+#: admin/options-colours.php:192
+msgid "Tag 1"
+msgstr "Tag 1"
+
+#: admin/options-colours.php:192
+msgid "Tag 2"
+msgstr "Tag 2"
+
+#: admin/options-colours.php:192
+msgid "Tag 3"
+msgstr "Tag 3"
+
+#: admin/options-colours.php:196 includes/theme-loops.php:30
+msgid "Previous Post"
+msgstr "Poprzedni wpis"
+
+#: admin/options-colours.php:196 admin/options-colours.php:197
+msgid "Post title"
+msgstr "Tytuł wpisu"
+
+#: admin/options-colours.php:197 includes/theme-loops.php:36
+msgid "Next Post"
+msgstr "Następny wpis"
+
+#: admin/options-colours.php:205
+msgid "Pagination background"
+msgstr "Tło paginacji"
+
+#: admin/options-colours.php:206
+msgid "Pagination text"
+msgstr "Tekst paginacji"
+
+#: admin/options-colours.php:207
+msgid "Pagination link"
+msgstr "Link paginacji"
+
+#: admin/options-colours.php:208
+msgid "Tags background"
+msgstr "Tło tagów"
+
+#: admin/options-colours.php:209
+msgid "Tags text"
+msgstr "Takst tagów"
+
+#: admin/options-colours.php:210
+msgid "Tag items background"
+msgstr "Tło elementów tagów"
+
+#: admin/options-colours.php:211
+msgid "Tag items text"
+msgstr "Tekst elementów tagów"
+
+#: admin/options-colours.php:212
+msgid "Posts navigation background"
+msgstr "Tło nawigacji wpisów"
+
+#: admin/options-colours.php:213
+msgid "Posts navigation background (next)"
+msgstr "Tło nawigacji wpisów (następne)"
+
+#: admin/options-colours.php:214
+msgid "Posts navigation text"
+msgstr "Tekst nawigacyjny postów"
+
+#: admin/options-colours.php:215
+msgid "Posts navigation link"
+msgstr "Link nawigacyjny postów"
+
+#: admin/options-colours.php:237
+msgid "Other sections"
+msgstr "Inne części"
+
+#: admin/options-colours.php:247
+msgid "Section title"
+msgstr "Tytuł sekcji"
+
+#: admin/options-colours.php:252 admin/options-colours.php:255
+msgid "Leave a comment"
+msgstr "Skomentuj"
+
+#: admin/options-colours.php:262 includes/theme-loops.php:57
+msgid "Previous Page"
+msgstr "Poprzednia strona"
+
+#: admin/options-colours.php:263 includes/theme-loops.php:58
+msgid "Next Page"
+msgstr "Następna strona"
+
+#: admin/options-colours.php:269
+msgid "Title background (top)"
+msgstr "Tło tytułu (góra)"
+
+#: admin/options-colours.php:270
+msgid "Title background (bottom)"
+msgstr "Tło tytułu (dół)"
+
+#: admin/options-colours.php:275 admin/options-colours.php:344
+msgid "Content list border"
+msgstr "Obramowanie listy zawartości"
+
+#: admin/options-colours.php:276
+msgid "Navigation background"
+msgstr "Tło nawigacji"
+
+#: admin/options-colours.php:277
+msgid "Navigation text"
+msgstr "Tekst nawigacji"
+
+#: admin/options-colours.php:300
+msgid "Comments section"
+msgstr "Sekcja komentarzy"
+
+#: admin/options-colours.php:334
+msgid "Heading background (top)"
+msgstr "Tło nagłówka(góra)"
+
+#: admin/options-colours.php:335
+msgid "Heading background (bottom)"
+msgstr "Tło nagłówka (dół)"
+
+#: admin/options-colours.php:336
+msgid "Heading divider"
+msgstr "Dzielenie nagłówków"
+
+#: admin/options-colours.php:337
+msgid "Heading text"
+msgstr "Tekst nagłówka"
+
+#: admin/options-colours.php:338
+msgid "Reply background"
+msgstr "Tło odpowiedzi"
+
+#: admin/options-colours.php:339
+msgid "Reply text"
+msgstr "Tekst odpowiedzi"
+
+#: admin/options-display.php:10
+msgid "Header Options"
+msgstr "Opcje nagłówka"
+
+#: admin/options-display.php:13
+msgid "Alternate site title and description"
+msgstr "Alternatywny tytuł i opis strony"
+
+#: admin/options-display.php:14
+msgid ""
+"Short site title and description work best for display on a mobile device. "
+"If your site has a long site title and description (anything that spans more "
+"than a single line when displayed on a mobile device), you can use this "
+"option to specify an alternate site title and description for display in the "
+"header."
+msgstr ""
+"Krótki tytuł i opis strony działa najlepiej dla urządzeń mobilnych. Jeżeli "
+"Twoja strona ma długi tytuł i opis (wszystko co ma więcej niż jedną linijkę "
+"podczas wyświetlania na urządzeniu mobilnym), możesz użyć tej opcji do "
+"użycia opisów alternatywnych. Opis i tytuł będą wyświetlane w nagłówku."
+
+#: admin/options-display.php:17
+msgid "Alternate site title"
+msgstr "Alternatywy tytuł strony"
+
+#: admin/options-display.php:23
+msgid "Alternate site description"
+msgstr "Alternatywny opis strony"
+
+#: admin/options-display.php:39
+msgid "Navigation Menu Options"
+msgstr ""
+
+#: admin/options-display.php:42
+msgid "<select> element for menu"
+msgstr ""
+
+#: admin/options-display.php:43
+msgid ""
+"Using <select> element for menu allows you to have any number of menu items "
+"without crowding the layout."
+msgstr ""
+
+#: admin/options-display.php:46
+msgid "Enable for Header Menu"
+msgstr ""
+
+#: admin/options-display.php:52
+msgid "Enable for Footer Menu"
+msgstr ""
+
+#: admin/options-display.php:68
+msgid "Posts Display Options"
+msgstr "Opcje wyświetlania postów"
+
+#: admin/options-display.php:74
+msgid "Hide post author and date"
+msgstr "Ukryj autora i datę postu"
+
+#: admin/options-display.php:80
+msgid "Hide post categories"
+msgstr "Ukryj kategorię postu"
+
+#: admin/options-display.php:86
+msgid "Hide post tags"
+msgstr "Ukryj tagi postu"
+
+#: admin/options-display.php:92
+msgid "Hide post comment count"
+msgstr "Ukryj liczbę komentarzy"
+
+#: admin/options-display.php:93
+msgid ""
+"Only affects posts listing (such as search and archive pages) and not single "
+"post view."
+msgstr ""
+"Działa tylko na stronach z listami postów (jak np. wyniki wyszukiwania, czy "
+"archium), nie dla wyglądu pojedyńczego posta."
+
+#: admin/options-display.php:99
+msgid "Hide automatic image at the top of posts"
+msgstr "Ukryj automatycznie obraz na górze posta"
+
+#: admin/options-display.php:114
+msgid "Excerpts Display Options"
+msgstr "Ustawienia wyświetlania opisów skrótowych"
+
+#: admin/options-display.php:120
+msgid "Show full content in archive pages"
+msgstr "Pokaż całą treść w stronach archiwów"
+
+#: admin/options-display.php:124
+msgid ""
+"Note: Archive pages include the archive for category, tags, time, and search "
+"results pages. Enabling this option will cause the full content of posts and "
+"pages listed in those archives to displayed instead of the excerpt, and "
+"truncated by the Read More tag if used."
+msgstr ""
+"Uwaga: Strony archiwów zawierają archiwa kategorii, tagów, dat, oraz strony "
+"wyników wyszukiwania. Włączenie tej opcji spowoduje iż w tych archiwach "
+"pojawi się cała treść postów i stron, zamiast opisów z tagiem \"Czytaj dalej"
+"\" (jeżeli tag został użyty)"
+
+#: admin/options-display.php:128
+msgid "Retain these HTML tags in excerpts"
+msgstr "Używaj tych znaczników HTML w opisach skrótowych"
+
+#: admin/options-display.php:131
+msgid ""
+"Enter the HTML tags you'd like to retain in excerpts. For example, enter "
+"<code>&lt;p&gt;&lt;ul&gt;&lt;li&gt;</code> to retain <code>&lt;p&gt;</code>, "
+"<code>&lt;ul&gt;</code>, and <code>&lt;li&gt;</code> HTML tags."
+msgstr ""
+"Wprowadź tag HTML które chcesz zachować w opisach skrótowych. Na przykład "
+"wprowadź code>&lt;p&gt;&lt;ul&gt;&lt;li&gt;</code> by zachować <code>&lt;"
+"p&gt;</code>, <code>&lt;ul&gt;</code>, oraz <code>&lt;li&gt;</code> HTML "
+"tagi."
+
+#: admin/options-display.php:145
+msgid "Custom Background Options"
+msgstr "Manualne ustawienia tła"
+
+#: admin/options-display.php:155
+msgid "Background image URL"
+msgstr "URL obrazu tła"
+
+#: admin/options-display.php:160
+msgid ""
+"Hint: You can use the <a href=\"media-new.php\">Media Library</a> to upload "
+"an image to be used here."
+msgstr ""
+"Wskazówka: możesz używać <a href=\"media-new.php\">Biblioteki mediów</a> do "
+"uploadowania obrazów których chesz użyć."
+
+#: admin/options-display.php:161
+msgid ""
+"If you do not wish the background to be repeated, use an image at least as "
+"wide as 640 pixels (Apple's retina display)"
+msgstr ""
+"Jeżeli nie chcesz by tłu się powtarzało, użyj obrazu o szerokości "
+"przynajmniej 640px (Applowy wyświetlacz retina)"
+
+#: admin/options-display.php:167
+msgid "Position"
+msgstr "Pozycja"
+
+#: admin/options-display.php:171
+msgid "Left"
+msgstr "Z lewej"
+
+#: admin/options-display.php:174
+msgid "Center"
+msgstr "W środki"
+
+#: admin/options-display.php:177
+msgid "Right"
+msgstr "z prawej"
+
+#: admin/options-display.php:182
+msgid "Repeat"
+msgstr "powtórz"
+
+#: admin/options-display.php:186
+msgid "No Repeat"
+msgstr "Bez powtarzania"
+
+#: admin/options-display.php:189
+msgid "Tile"
+msgstr "Tytuł"
+
+#: admin/options-display.php:192
+msgid "Tile Horizontally"
+msgstr "kafelki pionowo"
+
+#: admin/options-display.php:195
+msgid "Tile Vertically"
+msgstr "kafelki poziomo"
+
+#: admin/options-display.php:201
+msgid "Attachment"
+msgstr "Załącznik"
+
+#: admin/options-display.php:205
+msgid "Scroll"
+msgstr "Przewiń"
+
+#: admin/options-display.php:208
+msgid "Fixed"
+msgstr "Przymocowany"
+
+#: admin/options-display.php:213
+msgid "Colour"
+msgstr "Kolor"
+
+#: admin/options-display.php:231
+msgid "Miscellaneous Display Options"
+msgstr "Różne opcje wyświetlania"
+
+#: admin/options-display.php:234
+msgid "Site title options"
+msgstr "Opcje tytułu strony"
+
+#: admin/options-display.php:235
+msgid ""
+"This option allows you to customise how your site title is displayed in the "
+"browser bar, tabs, and bookmarks."
+msgstr ""
+"Ta opcja pozwala na dostosowanie sposobu, w jaki tytuł Twojej strony jest "
+"wyświetlany w pasku, oknach i zakładkach przeglądarki."
+
+#: admin/options-display.php:236
+msgid ""
+"Use these tags to customise your own site title structure: <code>#site-name</"
+"code>, <code>#site-desc</code>, <code>#post-title</code>"
+msgstr ""
+"Użyj tych tagów do spersonalizowania strukturty tytułu Twojej "
+"strony<code>#site-name</code>, <code>#site-desc</code>, <code>#post-title</"
+"code>"
+
+#: admin/options-display.php:240
+msgid "Custom front page site title"
+msgstr "Dostosuj tytuł strony głównej"
+
+#: admin/options-display.php:244
+#, php-format
+msgid "Defaults to %1$s. The %2$s tag cannot be used here."
+msgstr "Domyślnia wartość to %1$s. Tag %2$s nie może być tutaj użyty."
+
+#: admin/options-display.php:249
+msgid "Custom content pages site title"
+msgstr "Dostosuj tytuł stron z zawartością."
+
+#: admin/options-display.php:253
+#, php-format
+msgid "Defaults to %s."
+msgstr "Domyślna wartość to %s."
+
+#: admin/options-display.php:258
+msgid "Favicon options"
+msgstr "Opcje Favicon"
+
+#: admin/options-display.php:262
+msgid "Favicon URL"
+msgstr "Favicon URL"
+
+#: admin/options-display.php:266
+msgid "Simply enter the full URL to your favicon file here to enable favicon."
+msgstr "Po prostu podaj pełny URL swojego Favicona by włączyć ta opcję."
+
+#: admin/options-display.php:280
+msgid "Custom CSS"
+msgstr "Własny CSS"
+
+#: admin/options-display.php:285
+msgid "Custom CSS styles"
+msgstr "Własne arkusze styli CSS"
+
+#: admin/options-display.php:287
+msgid ""
+"You can enter your own CSS codes below to modify any other aspects of the "
+"theme's appearance that is not included in the options."
+msgstr ""
+"Możesz wprowadzić własny blok kodu CSS by zmodyfikować każdy inny aspekt "
+"wyglądu skórki, którego ustawinie nie jest możliwe w opcjach."
+
+#: admin/options-general.php:13
+msgid "API Key"
+msgstr "Klucz API"
+
+#: admin/options-general.php:16
+msgid "Insert your Graphene Mobile's API key here to enable automatic updates."
+msgstr ""
+"Wprowadź swój klucz API skórki Graphene Mobile by aktywować automatyczne "
+"aktualizacje."
+
+#: admin/options-general.php:20
+msgid "Graphene Mobile API Key"
+msgstr "Klucz API Graphene Mobile "
+
+#: admin/options-general.php:24
+#, php-format
+msgid ""
+"If you have lost your API key or have never received it, you can obtain it "
+"from your %s."
+msgstr ""
+
+#: admin/options-general.php:24
+msgid "Account Page"
+msgstr ""
+
+#: admin/options-general.php:38
+msgid "Front Page Options"
+msgstr "Opcje Front Page"
+
+#: admin/options-general.php:44
+msgid "Number of posts to show with excerpt"
+msgstr "Liczba postów do wyświetlenia z opisami skróconymi."
+
+#: admin/options-general.php:52
+msgid "Posts by category listing options"
+msgstr "Wpisu wg opcji listy kategorii"
+
+#: admin/options-general.php:56
+msgid "Display recent posts by category"
+msgstr "Wyświetl ostatnie wpisy wg kategorii"
+
+#: admin/options-general.php:60
+msgid "Disabled"
+msgstr "Wyłączone"
+
+#: admin/options-general.php:61
+msgid "Show all categories"
+msgstr "Pokaż wszystkie kategorie"
+
+#: admin/options-general.php:62
+msgid "Show selected categories"
+msgstr "Pokaż wybrane kategorie"
+
+#: admin/options-general.php:68
+msgid "Categories to show in front page"
+msgstr "Kategorie do pokazania na pierwszej stronie."
+
+#: admin/options-general.php:71
+msgid ""
+"This setting is only applicable if \"Show selected categories\" is selected "
+"above."
+msgstr ""
+"Zmiana ustawienia możliwa jest tylko jeżel \"Pokaż wybrane kategorie\" "
+"powyżej jest zaznaczone."
+
+#: admin/options-general.php:88
+msgid "Number of posts to show per category"
+msgstr "Liczba postów do pokazania dla kategorii"
+
+#: admin/options-general.php:105
+msgid "Comments Options"
+msgstr "Opcje komentarzy"
+
+#: admin/options-general.php:111
+msgid "Commenting"
+msgstr "Komentowanie"
+
+#: admin/options-general.php:115
+msgid "Use WordPress settings"
+msgstr "Użyj ustawień WordPress"
+
+#: admin/options-general.php:116
+msgid "Disabled for pages"
+msgstr "Wyłączone dla stron"
+
+#: admin/options-general.php:117
+msgid "Disabled completely"
+msgstr "Całkowicie wyłączone"
+
+#: admin/options-general.php:119
+msgid ""
+"Note: this setting overrides the global WordPress Discussion Setting called "
+"\"Allow people to post comments on new articles\" and also the \"Allow "
+"comments\" option for individual posts/pages."
+msgstr ""
+"Uwaga: To ustawienie zmienia Glogalne Ustawienia Dyskusji WordPress, zwane "
+"\"Pozwól ludziom na komentowanienowych stron\" oraz \"Zezwalaj na komentarze"
+"\" dla pojedyńczych wpisów/stron"
+
+#: admin/options-general.php:133
+msgid "Child Page Options"
+msgstr "Opcje stron pokrewnych - Child Page"
+
+#: admin/options-general.php:139
+msgid "Hide parent box if content is empty"
+msgstr "Ukryj pole rodzica jeżeli brak zawartości"
+
+#: admin/options-general.php:145
+msgid "Child page listings"
+msgstr "Lista stron pokrewnych (Child Page)"
+
+#: admin/options-general.php:149
+msgid "Show listing"
+msgstr "Pokaż listę"
+
+#: admin/options-general.php:150
+msgid "Hide listing"
+msgstr "Ukryj listę"
+
+#: admin/options-general.php:151
+msgid "Only show listing if parent content is empty"
+msgstr "Pokazuj listę tylko gdy zawartość rodzica jest pusta"
+
+#: admin/options-general.php:166
+msgid "Google Analytics Options"
+msgstr "Opcje Google Analytics"
+
+#: admin/options-general.php:169
+msgid ""
+"<strong>Note:</strong> the theme places the Google Analytics script in the "
+"<code>&lt;head&gt;</code> element to support the new asynchronous Google "
+"Analytics script. Please make sure you use the new asynchronous script from "
+"Google Analytics."
+msgstr ""
+"<strong>Uwaga:</strong> Skórka umieszcza skrypt Google Analytics w sekcji "
+"<code>&lt;head&gt;</code>, by wspierać nowy asynchroniczny skrypg Google "
+"Analytics. Upewnij się, że używasz nowego skryptu asynchronicznego Google "
+"Analytics."
+
+#: admin/options-general.php:172
+msgid "Enable Google Analytics tracking"
+msgstr "Pozwól Google Analytics na śledzenie"
+
+#: admin/options-general.php:176
+msgid "Google Analytics tracking code"
+msgstr "Kod śledzący Google Analytics"
+
+#: admin/options-general.php:177
+msgid ""
+"Make sure you include the full tracking code (including the <code>&lt;"
+"script&gt;</code> and <code>&lt;/script&gt;</code> tags) and not just the "
+"<code>UA-#######-#</code> code."
+msgstr ""
+"Upewnij się w podaniu pełnego kodu śledzącego (wliczając w to tagi <code>&lt;"
+"script&gt;</code> i <code>&lt;/script&gt;</code>), a nie tylko numer<code>UA-"
+"#######-#</code>."
+
+#: admin/options-general.php:192
+msgid "Footer Options"
+msgstr "Opcje stopki"
+
+#: admin/options-general.php:197
+msgid "Copyright text (html allowed)"
+msgstr "Tekst praw autorskich (HTML dozwolony)"
+
+#: admin/options-general.php:198
+msgid ""
+"If this field is empty, the following default copyright text will be "
+"displayed:"
+msgstr ""
+"Jeżeli to pole jest puste, wyświetlony zostanie następujący domyślny tekst o "
+"prawach autorskich:"
+
+#: admin/options-general.php:207
+msgid "Do not show copyright info"
+msgstr "Nie pokazuj informacji o prawach autorskich"
+
+#: admin/options-general.php:211
+msgid "Do not show the \"Return to top\" link"
+msgstr "Nie pokazuj linka  \"Wróć na górę\""
+
+#: admin/options-general.php:225
+msgid "Miscellaneous General Options"
+msgstr "Różne opcje ogólne"
+
+#: admin/options-general.php:231
+msgid "Allow device to zoom in"
+msgstr "Pozwól urządzeniu na przybliżanie"
+
+#: admin/options-init.php:23
+msgid "Graphene Mobile"
+msgstr "Graphene Mobile"
+
+#: admin/options-init.php:124
+msgid "Toggle all tabs"
+msgstr "Przełącz wszystkie zakładki"
+
+#: admin/options-presets.php:17
+msgid "Settings have been reset."
+msgstr "Ustawienia zostały zresetowane"
+
+#: admin/options-presets.php:31
+msgid "Relevant settings from the Graphene Options has been applied."
+msgstr "Ważne ustawienia dla opcji Graphene zostały zastosowane."
+
+#: admin/options-presets.php:38
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "BŁĄD: Nie masz uprawnień do wykonania tej czynności"
+
+#: admin/options.php:35
+msgid "Graphene Mobile Theme Options"
+msgstr "Ustawienia skórki Graphene Mobile"
+
+#: admin/options.php:44
+msgid "General"
+msgstr "Ogólne"
+
+#: admin/options.php:45
+msgid "Display"
+msgstr "Wyświetlanie"
+
+#: admin/options.php:46
+msgid "Colours"
+msgstr ""
+
+#: admin/options.php:47
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+#: admin/options.php:67
+msgid "Save Options"
+msgstr "Opcje zapisywania"
+
+#: admin/options.php:82
+msgid "Options Presets"
+msgstr "Opcje przedprogramowane"
+
+#: admin/options.php:85
+msgid ""
+"Note that you can still configure the individual settings after you apply "
+"any preset."
+msgstr ""
+"Zauważ, że ciągle możesz konfigurować ustawienia indywidualnie po "
+"zastosowaniu któregokolwiek trybu przedprogramowanego"
+
+#: admin/options.php:90
+msgid "Select Options Preset"
+msgstr "Wybierz opcje przedprogramowane"
+
+#: admin/options.php:96
+msgid "Copy relevant Graphene settings"
+msgstr "Kopiuj istotne ustawienia skórki Graphene"
+
+#: admin/options.php:99
+msgid "Reset to default settings"
+msgstr "Przywróć ustawienia domyślne"
+
+#: admin/options.php:104
+msgid "Apply Options Preset"
+msgstr "Zastosuj opcje przedprogramowane"
+
+#: admin/validator.php:38
+msgid "ERROR: Invalid option for the comments option."
+msgstr "BŁĄD: Nieważne opcja w opcjach komentarza"
+
+#: admin/validator.php:43
+msgid "ERROR: Invalid option for the child page listings."
+msgstr "BŁĄD: Nieważna opcja w liście stron pokrewnych (Child page)"
+
+#: admin/validator.php:90
+msgid "ERROR: Bad URL entered for the background image."
+msgstr "BŁĄD: Wpisano zły adres URL w polu obrazu tła"
+
+#: admin/validator.php:91
+msgid "ERROR: Invalid option for the background position."
+msgstr "BŁĄD: Nieważna opcja w pozycji tła"
+
+#: admin/validator.php:92
+msgid "ERROR: Invalid option for the background repeat."
+msgstr "BŁĄD: Nieważna opcja w powtarzaniu tła"
+
+#: admin/validator.php:93
+msgid "ERROR: Invalid option for the background attachment."
+msgstr "BŁĄD: Nieważna opcja w załącznikach tła"
+
+#: admin/validator.php:100
+msgid "ERROR: Bad URL entered for the favicon URL."
+msgstr "BŁĄD: Nieważny adres URL ikony Favicon"
+
+#: admin/validator.php:120
+msgid "ERROR: Invalid action hook selected widget action hooks."
+msgstr "BŁĄD: Wybrano niewłaściwy odnośnik dla widget odnośników."
+
+#: includes/theme-comments.php:41
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d komentarz"
+msgstr[1] "%d komentarzy"
+
+#: includes/theme-comments.php:42
+#, php-format
+msgid "%d ping"
+msgid_plural "%d pings"
+msgstr[0] "%d ping"
+msgstr[1] "%d pings"
+
+#: includes/theme-comments.php:43
+#, php-format
+msgid "%d trackback"
+msgid_plural "%d trackbacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/theme-comments.php:44
+#, php-format
+msgid "%d pingback"
+msgid_plural "%d pingbacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/theme-comments.php:100
+msgid "says:"
+msgstr "mówi:"
+
+#. translators: %1$s will be replaced by the date, and %2$s will be replaced by the time. Example: 27 June 2011 at 2.03pm
+#: includes/theme-comments.php:102
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s na %2$s"
+
+#: includes/theme-comments.php:112
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuje na zatwierdzenie."
+
+#: includes/theme-loops.php:105
+msgid ""
+"<strong>ERROR: You must supply the post ID to get the image from as an "
+"argument when calling the mgraphene_get_post_image() function.</strong>"
+msgstr ""
+"<strong>BŁĄD: Musisz podać ID wpisu by otrzymać z niego obraz jako argument "
+"podczas przywoływania funkcji mgraphene_get_post_image() .</strong>"
+
+#: includes/theme-menus-dropdown.php:25 includes/theme-menus.php:16
+msgid "Browse"
+msgstr ""
+
+#: includes/theme-menus.php:17 includes/theme-menus.php:33
+msgid "Home"
+msgstr "Strona Główna"
+
+#: includes/theme-setup.php:30
+msgid "Graphene Mobile Header Menu"
+msgstr "Graphene Mobile Menu Nagłówka"
+
+#: includes/theme-setup.php:31
+msgid "Graphene Mobile Footer Menu"
+msgstr "Graphene Mobile Menu Stopki"
+
+#: includes/theme-setup.php:50
+msgid "Graphene Mobile Header"
+msgstr "Nagłówek Graphene Mobile"
+
+#: includes/theme-setup.php:52
+msgid ""
+"This widget area will be displayed before the content, but after the header "
+"and navigation."
+msgstr ""
+"Ten obszar widgetów będzie wyświetlony przed treścią, jednak za nagłówkiem i "
+"nawigacją."
+
+#: includes/theme-setup.php:59
+msgid "Graphene Mobile Footer"
+msgstr "Stopka Graphene Mobile"
+
+#: includes/theme-setup.php:61
+msgid ""
+"This widget area will be displayed after the content, but before the footer."
+msgstr ""
+"Ten obszar widgetów będzie wyświetlony za treścią, jednak przed stopką."
+
+#: includes/theme-setup.php:77
+#, php-format
+msgid ""
+"Dynamically added widget area. This widget area is attached to the %s action "
+"hook."
+msgstr ""
+"Dynamicznie dodawany obszar widget.  Obszar ten widget jest dołączony do %s"
+
+#: includes/update.php:78
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Podczas zapytania o klucz API pojawił się nieoczekiwany błąd.<p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Spróbuj ponownie</"
+"a></p>"
+
+#: includes/update.php:83
+msgid "An unknown error occurred"
+msgstr "Pojawił się nieznany błąd."
+
+#~ msgid "1 comment"
+#~ msgstr "1 komentarz"
+
+#~ msgid "1 ping"
+#~ msgstr "1 ping"
+
+#~ msgid "Colour Options"
+#~ msgstr "Opcje kolorów"
