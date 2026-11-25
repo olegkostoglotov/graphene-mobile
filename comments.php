@@ -1,3 +1,4 @@
+<?php $comment_count = 0; $ping_count = 0; ?>
 <?php do_action( 'mgraphene_comments_before' ); ?>
 
 <?php if ( comments_open() || have_comments() ) : ?>
