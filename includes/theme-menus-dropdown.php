@@ -73,7 +73,7 @@ class DropDown_Nav_Menu extends Walker_Nav_Menu {
 	 * @param string $output Passed by reference. Used to append additional content.
 	 * @param int $depth Depth of page. Used for padding.
 	 */
-	function start_lvl( &$output, $depth ) {
+	function start_lvl( &$output, $depth = 0, $args = null ) {
 		$output .= "</option>";
 	}
 
@@ -84,7 +84,7 @@ class DropDown_Nav_Menu extends Walker_Nav_Menu {
 	 * @param string $output Passed by reference. Used to append additional content.
 	 * @param int $depth Depth of page. Used for padding.
 	 */
-	function end_lvl( &$output, $depth ) {
+	function end_lvl( &$output, $depth = 0, $args = null ) {
 		$output .= "<option>";
 	}
 
@@ -98,7 +98,7 @@ class DropDown_Nav_Menu extends Walker_Nav_Menu {
 	 * @param int $current_page Menu item ID.
 	 * @param object $args
 	 */
-	function start_el( &$output, $item, $depth, $args ) {
+	function start_el( &$output, $item, $depth = 0, $args = array(), $current_object_id = 0 ) {
 		global $wp_query;
 		$indent = ( $depth ) ? str_repeat( "\t", $depth ) : '';
 
@@ -136,7 +136,7 @@ class DropDown_Nav_Menu extends Walker_Nav_Menu {
 	 * @param object $item Page data object. Not used.
 	 * @param int $depth Depth of page. Not Used.
 	 */
-	function end_el( &$output, $item, $depth ) {
+	function end_el( &$output, $item, $depth = 0, $args = null, $current_object_id = 0 ) {
 		$output .= apply_filters( 'walker_nav_menu_dropdown_end_el', "</option>\n", $item, $depth);
 	}
 }
@@ -148,7 +148,7 @@ class Mgraphene_Walker_Page extends Walker_Page {
      * Code exact copied from: wp-includes\post-template.php >> Walker_Page::start_el() 
      * @since 2.1.0
      */
-	function start_el( &$output, $page, $depth, $args, $current_page = 0 ) {
+    function start_el( &$output, $page, $depth = 0, $args = [], $current_object_id = 0 ) {
 		global $mgraphene_settings;
 		
 		$indent = ( $depth ) ? str_repeat( "\t", $depth ) : '';
@@ -175,7 +175,8 @@ class Mgraphene_Walker_Page extends Walker_Page {
 		$output .= apply_filters( 'walker_nav_menu_dropdown_start_el', $item_output, $item, $depth, $args );
 	}
 	
-	function end_el( &$output, $item, $depth ) {
+	function end_el( &$output, $item, $depth = 0, $args = [] ) {
 		$output .= "</option>\n";
 	}
 }
+
